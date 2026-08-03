@@ -1,0 +1,500 @@
+   52  db ..I.B.P....I...G......
+   53  db ..R.U.E....S..........
+   54  db ..A.T.R....I..........
+   55  db ..L.S..4096819216384..
+   56  db.......................
+   57  db .......................
+   58  db ......................
+   59  cat db1452
+   60  #cat db1452db
+   61  db
+   62  db #cat db1452
+   63  db #cat dd1452
+   64  db #cat dd1452.txt
+   65  history
+   66  366
+   67  db 366
+   68  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+   69  db sn c36e7b3dff8e54eea8e24439dc2f66bef56a8095594be3a4d1a4655e1bd9c08c 310 dd144e.txt
+   70  db sn 4cd4a9c6a9cbbc6ba26e59e9fb3ce5a1ee86762d800137e7f9269788cc167137 4e4 dd144f.txt
+   71  db sn d04fc7b66d8371db4b8ab9036590f968453c76d89f3c53a1b6cce070bd2be072 39b dd1450.txt
+   72  db sn c69094839ac10533b9490de21c29db299ce28194f28346cfb32e1a80ab590537 885 dd1451.txt
+   73  db sn d04fc7b66d8371db4b8ab9036590f968453c76d89f3c53a1b6cce070bd2be072 39b dd1450.txt
+   74  db sn 4cd4a9c6a9cbbc6ba26e59e9fb3ce5a1ee86762d800137e7f9269788cc167137 4e4 dd144f.txt
+   75  db sn c36e7b3dff8e54eea8e24439dc2f66bef56a8095594be3a4d1a4655e1bd9c08c 310 dd144e.txt
+   76  cat dd1452.txt
+   77  grep Abbad AdXxx.txt
+   78  db grep Abbad AdXxx.txt
+   79  db atc347904 ab AbbadoStill
+   80  ls
+   81  sm hisBoneAd1448.txu
+   82  sm hisBoneAd1450.txu
+   83  history>>hisBoneAd1450.txu
+   84  sm h*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+   85  #hisBoneAd1448.txu
+   86  db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisBoneAd1424.txu
+   87  db sn 20a0cbac1c6aee7ddf0daf0862240242031b6f7513ba851b8486ea9155217340 d31 hisBoneAd143f.txu
+   88  db sn 721c099a1519dbacf82953bf4ab2966258a0a8cdcb2f82a225bdc150b82f7c28 252e hisBoneAd1448.txu
+   89  db sn 6a715537212e4fc6795da5ed3ead86d14609c23567738a973810734be31a69c1 4831 hisBoneAd1450.txu
+   90  db sn 721c099a1519dbacf82953bf4ab2966258a0a8cdcb2f82a225bdc150b82f7c28 252e hisBoneAd1448.txu
+   91  db sn 20a0cbac1c6aee7ddf0daf0862240242031b6f7513ba851b8486ea9155217340 d31 hisBoneAd143f.txu
+   92  db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisBoneAd1424.txu
+   93  db GEWALT
+   94  db DINA4
+   95  sm AdXxx.txt
+   96  grep f781 d*
+   97  db grep f781 d..
+   98  db at144f71c1 db sn f781a67bcd5b58c7b9af9ca20e625a130ece5762ee3eb980e3ff6bbd4f7b45a6 7ea88c AdXxx.txt
+   99  db SPAHN
+  100  grep
+  101  grep --h
+  102  grep -i d..n.o AdXxx.txt
+  103  db grep -i d..n.o AdXxx.txt
+  104  db atfeebdf0 ab l AdlonLobby
+  105  grep -i e.i AdXxx.txt
+  106  db grep -i e.i AdXxx.txt
+  107  grep -i e.i AdXxx.txt
+  108  db atfffbd33 ab SeiImSein
+  109  grep -i e.t...g AdXxx.txt
+  110  db grep -i e.t...g AdXxx.txt
+  111  db atff260ed ab FeelTheAgi
+  112  grep -i h.c AdXxx.txt
+  113  db grep -i h.c AdXxx.txt
+  114  grep -i h..e..p AdXxx.txt
+  115  db grep -i h..e..p AdXxx.txt
+  116  db ate0f6cd0 ab HodenApfelSchorle
+  117  221
+  118  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  119  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  120  db d5 is short for qx39fd5
+  121  db d5 is short for qx39fd5- 39fd5
+  122  echo (($0x39fd5))
+  123  echo $((0x39fd5))
+  124  db echo (($0x39fd5))
+  125  db echo $((0x39fd5))
+  126  db 237525
+  127  db PersoPx1
+  128  db https://www.kicker.de/spanien-gegen-argentinien-2026-weltmeisterschaft-4908409/ticker
+  129  db https://de.wikipedia.org/wiki/Heizkraftwerk_Berlin-Mitte?uselang=de
+  130  db https://de.wikipedia.org/wiki/Heizkraftwerk_Berlin-Mitte
+  131  db HkwBm
+  132  db https://www.openstreetmap.org/way/274724925#map=16/52.51145/13.42018
+  133  db Q1601456
+  134  printf %x 1601456
+  135  db printf %x 1601456
+  136  db 186fb0~
+  137  db 186fb0
+  138  db qx186fb0 HkwBm
+  139  printf %x 2634751
+  140  db https://www.bundestag.de/presse/hib/kurzmeldungen-1185020
+  141  db ADVENT
+  142  db ZuckerSteuet
+  143  db ZuckerSteuer
+  144  db
+  145  db KIMI
+  146  db Kimi
+  147  db Turn
+  148  db KimiTurn
+  149  db KimiValar
+  150  db /CdO
+  151  db https://www.zdf.de/play/interviews/zdf-sommerinterviews-102/berlin-direkt---sommerinterview-vom-19-juli-2026-100
+  152  221
+  153  db 221
+  154  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  155  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  156  history
+  157  434
+  158  db 434
+  159  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  160  db sn c69094839ac10533b9490de21c29db299ce28194f28346cfb32e1a80ab590537 885 dd1451.txt
+  161  db sn b711cdfd6b6bf3deffa34b18e57e96de5b493298be4d94dcd16df29c0c4f64e6 ec4 dd1452.txt
+  162  db sn 9898b5f2d171ea96c2817adcd23894622650ef31a386fb8bd156bbe4793e37c3 65e dd1453.txt
+  163  db sn 3da81ce6319e6c24ce6e560dc4b542327d7af9c0ca93fb8890c36adc0f99ae1b 3e3 dd1454.txt
+  164  db sn 9898b5f2d171ea96c2817adcd23894622650ef31a386fb8bd156bbe4793e37c3 65e dd1453.txt
+  165  db sn b711cdfd6b6bf3deffa34b18e57e96de5b493298be4d94dcd16df29c0c4f64e6 ec4 dd1452.txt
+  166  db sn c69094839ac10533b9490de21c29db299ce28194f28346cfb32e1a80ab590537 885 dd1451.txt
+  167  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  168  sm ad*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  169  cal 2026
+  170  db Tiefe
+  171  db Linke
+  172  db TiefeLinke
+  173  183
+  174  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  175  db 183
+  176  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  177  db https://www.wikidata.org/wiki/Q1729523
+  178  db 1729523
+  179  print f%x 1729523
+  180  printf %x 1729523
+  181  db print f%x 1729523
+  182  db printf %x 1729523
+  183  db 1a63f3~
+  184  history
+  185  df
+  186  sm
+  187  cat /storage/2627-1373/9*|sm
+  188  db cat /storage/2627-1373/9.. ..sm
+  189  db f4a2972e7a133f36c05de018e41d20f44d1d2e87abd9a58a236c1fc90eccebe8
+  190  cat /storage/2627-1373/9*|wc
+  191  db cat /storage/2627-1373/9.. ..wc
+  192  db  435190 2406067 102305086
+  193  db
+  194  grep POSC AdXxx.txt
+  195  db grep POSC AdXxx.txt
+  196  grep Posc AdXxx.txt
+  197  db grep Posc AdXxx.txt
+  198  db atb8061f5 ab https://twitter.com/DrKissler/status/1457411585056575490 BerndStegemann via UlfPoschardt
+  199  db atb8061f5 ab UlfPoschardt
+  200  nano +63 dd1458.txt
+  201  db nano +63 dd1458.txt
+  202  db UlfPoschardt
+  203  db KatjaDiehl UlfPoschardt
+  204  db MarioSixtus KatjaDiehl UlfPoschardt
+  205  db MarioSixtus KatjaDiehl UlfPoschardt FabianKienbaum
+  206  db GrenzBild
+  207  db Streeck
+  208  db Spahn
+  209  db StreeckSpahn
+  210  db https://de.wikipedia.org/wiki/SpaceXAI
+  211  db GraphCore
+  212  db GraphCode
+  213  db GraphCore
+  214  cat dd1458.txt
+  215  history
+  216  db EVOLVE
+  217  history
+  218  183
+  219  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  220  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  221  db EVOLVE
+  222  db
+  223  #db :1129
+  224  #db :1120
+  225  db :1120
+  226  db 8484
+  227  db DiehlBaum
+  228  db https://www.linkedin.com/in/fabian-kienbaum?trk=feed-detail_main-feed-card_feed-actor-name
+  229  df
+  230  db 1a63f3~
+  231  db 1a63f3 KarinPrien
+  232  db qx1a63f3 KarinPrien
+  233  db QxClub
+  234  ab :1457
+  235  db ab :1457
+  236  db :1457
+  237  ab ah 14581
+  238  db ab ah 14581
+  239  db :1458
+  240  db ah 14581
+  241  history
+  242  495
+  243  db 495
+  244  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  245  db sn 9898b5f2d171ea96c2817adcd23894622650ef31a386fb8bd156bbe4793e37c3 65e dd1453.txt
+  246  db sn 3da81ce6319e6c24ce6e560dc4b542327d7af9c0ca93fb8890c36adc0f99ae1b 3e3 dd1454.txt
+  247  db sn 706bc8192e4bf3c24bac0bb9d8f2065087ba52667f4d2f0733a5fa3b421c3bf5 2ad dd1455.txt
+  248  db sn 87fb7f10f43f089daaeddc5d2af59dfa599386d905ecfc9c60e6b85a4fede7e1 71a dd1457.txt
+  249  db sn 706bc8192e4bf3c24bac0bb9d8f2065087ba52667f4d2f0733a5fa3b421c3bf5 2ad dd1455.txt
+  250  db sn 3da81ce6319e6c24ce6e560dc4b542327d7af9c0ca93fb8890c36adc0f99ae1b 3e3 dd1454.txt
+  251  db sn 9898b5f2d171ea96c2817adcd23894622650ef31a386fb8bd156bbe4793e37c3 65e dd1453.txt
+  252  ls h*
+  253  #█ ████████
+  254  ls -S
+  255  ls -Sl
+  256  ls -Slr
+  257  file u0*
+  258  sm u0*
+  259  rm -iv u0_a197\@192.174.100.19
+  260  hexdump -C u0\@_a197\@ |more
+  261  #hexdump -C u0\@_a197\@ whatsChip66
+  262  ls -lS
+  263  df
+  264  ls -lS /storage/2627-1373
+  265  ls -lS /storage/2627-1373/Android/data/ 
+  266  #hexdump -C u0\@_a197\@ whatsChip66
+  267  grep podi h*
+  268  grep podi b*
+  269  #hexdump -C u0\@_a197\@ whatsChip66.mp3
+  270  mv -iv u0\@_a197\@ whatsChip66.mp3
+  271  mv -iv whatsChip66.mp3 /storage/2627-1373
+  272  history
+  273  383
+  274  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  275  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  276  db https://www.facebook.com/danaandthewolf/reels/
+  277  db https://www.facebook.com/danaandthewolf
+  278  history
+  279  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  280  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  281  history
+  282  466
+  283  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  284  db sn 87fb7f10f43f089daaeddc5d2af59dfa599386d905ecfc9c60e6b85a4fede7e1 71a dd1457.txt
+  285  db sn 507db3bdd2fe09b7bd7cb6178f95e19435d6eaab94c66a0b478ed164dbad4ea8 559 dd1458.txt
+  286  db sn 7930d32d9e48bd41f10c4800645dbd0c76aec9e5c2730a8fb921c2053df17bf7 b8 dd1459.txt
+  287  db sn 9b625cc2809281c365dc2414563b88556a2f620f2130dd40c348293121686be5 d7 dd145a.txt
+  288  db sn 7930d32d9e48bd41f10c4800645dbd0c76aec9e5c2730a8fb921c2053df17bf7 b8 dd1459.txt
+  289  db sn 507db3bdd2fe09b7bd7cb6178f95e19435d6eaab94c66a0b478ed164dbad4ea8 559 dd1458.txt
+  290  db sn 87fb7f10f43f089daaeddc5d2af59dfa599386d905ecfc9c60e6b85a4fede7e1 71a dd1457.txt
+  291  ls
+  292  sm hisBoneAd1450.txu
+  293  sm hisBoneAd1458.txu
+  294  history>>hisBoneAd1458.txu
+  295  sm h*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  296  db sn 20a0cbac1c6aee7ddf0daf0862240242031b6f7513ba851b8486ea9155217340 d31 hisBoneAd143f.txu
+  297  db sn 721c099a1519dbacf82953bf4ab2966258a0a8cdcb2f82a225bdc150b82f7c28 252e hisBoneAd1448.txu
+  298  db sn 6a715537212e4fc6795da5ed3ead86d14609c23567738a973810734be31a69c1 4831 hisBoneAd1450.txu
+  299  db sn e0a894b03da807454a2fb5df8afb0d6edff3c7be409e85483cba12d22c0f413c 5871 hisBoneAd1458.txu
+  300  db sn 6a715537212e4fc6795da5ed3ead86d14609c23567738a973810734be31a69c1 4831 hisBoneAd1450.txu
+  301  db sn 721c099a1519dbacf82953bf4ab2966258a0a8cdcb2f82a225bdc150b82f7c28 252e hisBoneAd1448.txu
+  302  db sn 20a0cbac1c6aee7ddf0daf0862240242031b6f7513ba851b8486ea9155217340 d31 hisBoneAd143f.txu
+  303  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  304  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  305  db https://www.wikidata.org/wiki/Q140697660
+  306  db Q140697660
+  307  db d5 b7 3c
+  308  printf %x 140697660
+  309  db printf %x 140697660
+  310  db 862e03c~
+  311  db 3c
+  312  db 3c 3c
+  313  db 93c 3c
+  314  db 03c 3c
+  315  db 03c 43c
+  316  db https://en.wikipedia.org/wiki/2026_Berlin_Pride_van_attack
+  317  db https://en.wikipedia.org/wiki/Portal:Current_events
+  318  db https://en.wikipedia.org/wiki/Main_Page
+  319  db https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html?at_medium=mastodon ... at_campaign=tagesschau.de
+  320  db https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html
+  321  db https://de.wikipedia.org/wiki/Dorothee_B%C3%A4r
+  322  db https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Forschung,_Technologie_und_Raumfahrt
+  323  db https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html
+  324  history
+  325  cat dd145*
+  326  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  327  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  328  db at145cc73d db printf %x 14069766
+  329  cat dd145*
+  330  db at145cc743 db 862e03c~
+  331  df
+  332  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  333  db https://m.youtube.com/watch?v=ugZO4TaiLCY
+  334  db https://m.youtube.com/watch?v=ugZO4TaiLCY SchmittNuernberg
+  335  db https://m.youtube.com/watch?v=5aVu1Lwa-KU
+  336  db BENANANV
+  337  db BENANAV
+  338  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  339  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  340  db Tod
+  341  db TodUnd
+  342  db TodUndEin
+  343  db TodUndEinSam
+  344  db TodUndEinSamKeit
+  345  db TodUndEinSam
+  346  db TotUndEinSam
+  347  db TotUndEinSamUnd
+  348  db TotUndEinSamUndTot
+  349  db UndEinSamUndTot
+  350  db EinSamUndTot
+  351  db PLAFZ
+  352  db VvossLoch
+  353  db PLAFZ
+  354  db VossLoch
+  355  db SHARED
+  356  db VossLpch
+  357  db VossLoch
+  358  db TodUndEinSamKeit
+  359  db PLAFZ
+  360  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  361  db sn e39ccb667cfa4032da3d964a9c7dae9e6f16bc4c97736eac5db96a23c28817c5 781 dd145f.txt
+  362  db sn 37c5aca512ae922a58be16f5ee22efdd8e590e45c1e15e086d40d79bb63a9ecf 578 dd1460.txt
+  363  db sn cd303be419f16ad6a7878886a9ec2b6c3934923dede72b115d8bd713e3e1f1f9 15ff dd1461.txt
+  364  db sn de2f91555784e112a225755e7c0b4f2cf27633d000a08f57e68d729f2cd1e63c bb9 dd1462.txt
+  365  db sn cd303be419f16ad6a7878886a9ec2b6c3934923dede72b115d8bd713e3e1f1f9 15ff dd1461.txt
+  366  db sn 37c5aca512ae922a58be16f5ee22efdd8e590e45c1e15e086d40d79bb63a9ecf 578 dd1460.txt
+  367  db sn e39ccb667cfa4032da3d964a9c7dae9e6f16bc4c97736eac5db96a23c28817c5 781 dd145f.txt
+  368  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  369  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  370  db https://www.facebook.com/share/v/1EiLin3dpX/
+  371  db https://www.facebook.com/TheMichaelMcIntyre/videos/is-this-the-best-prank-ever/628048197888027/
+  372  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  373  dbexport at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  374  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  375  ls
+  376  44351
+  377  db 44351
+  378  db 44351 47 7 5 3 2
+  379  db 44351 47 7 7 5 3 2
+  380  gforth -e "47 7 7 5 3 2 * * * * * . bye"
+  381  gforth -e "47 7 7 5 3 2 * * 3 * * * * . bye"
+  382  #gforth -e "47 7 7 5 3 2 * * 3 * * * * . b
+  383  gforth -e "47 7 7 5 3 3 2 * * * * * * . bye"
+  384  #gforth -e "47 7 7 5 3 2 * * 3 * * * * . b
+  385  #gforth -e "47 7 7 5 3 3 2 * * * *.. .. .. .. .. .. . bye
+  386  #gforth -e "47 7 7 5 3 3 2 .. .. .. .. .. .. . bye"
+  387  db #gforth -e "47 7 7 5 3 3 2 .. .. .. .. .. .. . bye"
+  388  db gforth -e "47 7 7 5 3 3 2 .. .. .. .. .. .. . bye"
+  389  #me gforth <3
+  390  ssh 5.230.75.232
+  391  ssh root@5.230.75.232
+  392  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  393  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  394  db https://www.facebook.com/share/v/1Bw5J2o1Yr/
+  395  db WUEST
+  396  ab SCHULER
+  397  db ab SCHULER
+  398  db SCHULER
+  399  cat dd1464.txt
+  400  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  401  db cat dd1464.txt
+  402  cat dd1465.txt
+  403  db cat dd1465.txt
+  404  db sn cd303be419f16ad6a7878886a9ec2b6c3934923dede72b115d8bd713e3e1f1f9 15ff dd1461.txt
+  405  db sn de2f91555784e112a225755e7c0b4f2cf27633d000a08f57e68d729f2cd1e63c bb9 dd1462.txt
+  406  db sn 4bacfcb83b3881eadfa5a2ad3f3f69c1658a6b80c3eaef574ec8f51543a6d42e 1fb dd1463.txt
+  407  db sn 9e9eb1a7a056a6a55867d2207da91eaa2050c1e72799f997d646a3a78c02960e 22c dd1464.txt
+  408  db sn 4bacfcb83b3881eadfa5a2ad3f3f69c1658a6b80c3eaef574ec8f51543a6d42e 1fb dd1463.txt
+  409  db sn de2f91555784e112a225755e7c0b4f2cf27633d000a08f57e68d729f2cd1e63c bb9 dd1462.txt
+  410  db sn cd303be419f16ad6a7878886a9ec2b6c3934923dede72b115d8bd713e3e1f1f9 15ff dd1461.txt
+  411  db https://m.youtube.com/watch?v=HNj7WgrQd2Y
+  412  db https://m.youtube.com/watch?v=HNj7WgrQd2Y SCHULER
+  413  db https://m.youtube.com/watch?v=HNj7WgrQd2Y Schuler
+  414  db https://m.youtube.com/watch?v=HNj7WgrQd2Y SchulerBen
+  415  db https://m.youtube.com/watch?v=HNj7WgrQd2Y Schuler
+  416  db https://m.youtube.com/watch?v=HNj7WgrQd2Y SchulerBen
+  417  df
+  418  db
+  419  cat dd1465.txt
+  420  db cat dd1465.txt
+  421  cat dd1465.txt
+  422  history
+  423  db TodUndEinSamKeit
+  424  db https://www.facebook.com/share/v/1EGu5J2mPU/
+  425  db https://www.facebook.com/share/v/1EGu5J2mPU/ Abdrew
+  426  db https://www.facebook.com/share/v/1EGu5J2mPU/ Andrew
+  427  db https://www.facebook.com/share/v/1EGu5J2mPU/ AndrewCard
+  428  db https://www.facebook.com/share/v/1HnjqLW6Q6/
+  429  db https://www.facebook.com/share/v/1HnjqLW6Q6/ K7M
+  430  db https://www.facebook.com/share/v/1HnjqLW6Q6/ KIM
+  431  db WUEST
+  432  db Krassi
+  433  db KrassiAssi
+  434  db Wandel
+  435  db Llama
+  436  db WandelLlama
+  437  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  438  db sn de2f91555784e112a225755e7c0b4f2cf27633d000a08f57e68d729f2cd1e63c bb9 dd1462.txt
+  439  db sn 4bacfcb83b3881eadfa5a2ad3f3f69c1658a6b80c3eaef574ec8f51543a6d42e 1fb dd1463.txt
+  440  db sn 9e9eb1a7a056a6a55867d2207da91eaa2050c1e72799f997d646a3a78c02960e 22c dd1464.txt
+  441  db sn 2700ba0f3399917e7f06aee270722e4b2ace989d73bef71c8c0340f559778675 612 dd1465.txt
+  442  db sn 9e9eb1a7a056a6a55867d2207da91eaa2050c1e72799f997d646a3a78c02960e 22c dd1464.txt
+  443  db sn 4bacfcb83b3881eadfa5a2ad3f3f69c1658a6b80c3eaef574ec8f51543a6d42e 1fb dd1463.txt
+  444  db sn de2f91555784e112a225755e7c0b4f2cf27633d000a08f57e68d729f2cd1e63c bb9 dd1462.txt
+  445  db Wuest
+  446  db WuestSchuler
+  447  history
+  448  db WuestSchulerCard
+  449  db https://de.wikipedia.org/wiki/Andrew_Card
+  450  db HAGMAM
+  451  db HAGMAN
+  452  db FISS
+  453  db FIST
+  454  db FUEST
+  455  db FIST
+  456  db ALSLEBEN
+  457  ls
+  458  sm bd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  459  db sn d76baf6447cbdb641b2e3cb3116075f7f88714a393220aae770a5b035f254a7e bcc bd142e.txt
+  460  db sn ade0642192a65b836e318ec676bf6562d9a7ede9027ea19ad97700d53821d705 308 bd1436.txt
+  461  db sn bc8d3f775d5ceccf7e0d5567e7c8bf7898b7340cdbf110dccadb98736d89fcfd 47e bd1437.txt
+  462  db sn 3965501926015e3ce58304db75ad73ab832d76e205cb8b5cf9c07826eeb0c0aa 2e7 bd143b.txt
+  463  db sn b7c7c36a548cc380351aeb99d5344b2b28a8e697bf37639550aae241a63a04d5 2ad bd1441.txt
+  464  db sn f81d7bcb2bab8c5affdbaf962437215d52353f5d4eeb7ab1a2ad37c30b941a14 8b bd1442.txt
+  465  db sn b7c7c36a548cc380351aeb99d5344b2b28a8e697bf37639550aae241a63a04d5 2ad bd1441.txt
+  466  db sn 3965501926015e3ce58304db75ad73ab832d76e205cb8b5cf9c07826eeb0c0aa 2e7 bd143b.txt
+  467  db sn bc8d3f775d5ceccf7e0d5567e7c8bf7898b7340cdbf110dccadb98736d89fcfd 47e bd1437.txt
+  468  db sn ade0642192a65b836e318ec676bf6562d9a7ede9027ea19ad97700d53821d705 308 bd1436.txt
+  469  db sn d76baf6447cbdb641b2e3cb3116075f7f88714a393220aae770a5b035f254a7e bcc bd142e.txt
+  470  db https://en.wikipedia.org/wiki/SGLang
+  471  history
+  472  db KrassiAssi
+  473  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  474  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  475  db KrassiAssi
+  476  cat db1466
+  477  db cat db1466
+  478  cat dd1466
+  479  db cat dd1466
+  480  cat dd1466.txt
+  481  db moe k3
+  482  sm bd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  483  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  484  db sn 4bacfcb83b3881eadfa5a2ad3f3f69c1658a6b80c3eaef574ec8f51543a6d42e 1fb dd1463.txt
+  485  db sn 9e9eb1a7a056a6a55867d2207da91eaa2050c1e72799f997d646a3a78c02960e 22c dd1464.txt
+  486  db sn 2700ba0f3399917e7f06aee270722e4b2ace989d73bef71c8c0340f559778675 612 dd1465.txt
+  487  db sn 1da10a48c8ffb11c6855f17ceab1dedb3dbcb5b4740a7c1bb62e94efa0c88329 5e3 dd1466.txt
+  488  db sn 2700ba0f3399917e7f06aee270722e4b2ace989d73bef71c8c0340f559778675 612 dd1465.txt
+  489  db sn 9e9eb1a7a056a6a55867d2207da91eaa2050c1e72799f997d646a3a78c02960e 22c dd1464.txt
+  490  db sn 4bacfcb83b3881eadfa5a2ad3f3f69c1658a6b80c3eaef574ec8f51543a6d42e 1fb dd1463.txt
+  491  ls
+  492  ls|more
+  493  sm AdXxx.txt|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  494  db
+  495  db sn f781a67bcd5b58c7b9af9ca20e625a130ece5762ee3eb980e3ff6bbd4f7b45a6 7ea88c AdXxx.txt
+  496  more AdXxx.txt
+  497  ab more AdXxx.txt
+  498  db ab more AdXxx.txt
+  499  db more AdXxx.txt
+  500  more AdXxx.txt
+  501  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  502  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  503  db ab
+  504  db Denk
+  505  db Roi
+  506  db DenkRoi
+  507  db DENK
+  508  db ROI
+  509  db DENKRII
+  510  db DENKROI
+  511  more BoneSmAw146.txt
+  512  db Sorg
+  513  db SorgFalt
+  514  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  515  db sn 4bacfcb83b3881eadfa5a2ad3f3f69c1658a6b80c3eaef574ec8f51543a6d42e 1fb dd1463.txt
+  516  db sn 9e9eb1a7a056a6a55867d2207da91eaa2050c1e72799f997d646a3a78c02960e 22c dd1464.txt
+  517  db sn 2700ba0f3399917e7f06aee270722e4b2ace989d73bef71c8c0340f559778675 612 dd1465.txt
+  518  db sn 1da10a48c8ffb11c6855f17ceab1dedb3dbcb5b4740a7c1bb62e94efa0c88329 5e3 dd1466.txt
+  519  sm dd*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  520  db sn 9e9eb1a7a056a6a55867d2207da91eaa2050c1e72799f997d646a3a78c02960e 22c dd1464.txt
+  521  db sn 2700ba0f3399917e7f06aee270722e4b2ace989d73bef71c8c0340f559778675 612 dd1465.txt
+  522  db sn 1da10a48c8ffb11c6855f17ceab1dedb3dbcb5b4740a7c1bb62e94efa0c88329 5e3 dd1466.txt
+  523  db sn 8393d7cf4efadba98f669eb6abfff718565cbe35f6c95bb0e00073b36f2f0099 78b dd1467.txt
+  524  db sn 1da10a48c8ffb11c6855f17ceab1dedb3dbcb5b4740a7c1bb62e94efa0c88329 5e3 dd1466.txt
+  525  db sn 2700ba0f3399917e7f06aee270722e4b2ace989d73bef71c8c0340f559778675 612 dd1465.txt
+  526  db sn 9e9eb1a7a056a6a55867d2207da91eaa2050c1e72799f997d646a3a78c02960e 22c dd1464.txt
+  527  sm B*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  528  db
+  529  db sn 7a9feb1641e7901ef765918f1cea67f743cd0e8d2fb599603752e0350a02899e 2864c BoneSmAw146.txt
+  530  db 2864c
+  531  db BUESINH
+  532  db BUESING
+  533  db BUESINGEN
+  534  db trans
+  535  db transregina
+  536  db transregina.com
+  537  gp 34
+  538  dp gp 34
+  539  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  540  dp gp 34
+  541  db dp gp 34
+  542  db 34
+  543  db 34 118
+  544  db 34 118 LAX
+  545  db VolksKoerper
+  546  db :1948
+  547  db ah 14682
+  548  ls
+  549  sm hisBoneAd1460.txu
+  550  sm hisBoneAd1468.txu
+  551  history>>hisBoneAd1468.txu
