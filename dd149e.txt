@@ -1,0 +1,160 @@
+at149e0f90 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at149e0f97 db l STRK
+at149e0f9a db SoMoDi
+at149e0fa1 db md0913 SoMoDi
+at149e0faf db md0913 SoMoDi md0926 YvSc
+at149e0fd2 db sn eace5a96690e18ff426d8a7fc70c2591de77b438f0aef92dc3486af10a5207f1 218 cd139c.txt
+at149e0fd7 db sn 6451e5f7b2f9e298fb194400803f38a97cbe9f0a5b1350efd254014701d48bf0 cf cd138c.txt
+at149e0fdc db sn 519fcd7d50f525419174a5df75bf312072e3345b6eb7e11acc0176ed15df8c15 2c2 cd137c.txt
+at149e0fe0 db sn 47a95802cac7b8009315f535d6ad00d363d63ddbe33699c2228b8ce844b15f4c 712 cd136c.txt
+at149e0fec db
+at149e1005 db sn f9f369d4830001be55890276332b11622c866a749bddc52ef73e073ae18478a8 217 dd149d.txt
+at149e1009 db sn d2922d6153d2197689690d0d395c99aa095ef323feb263a78644801b3d79a7e8 8b9 dd149c.txt
+at149e100b db sn 36d6c72f3b189dddacdd5d48fb22ed626ff110404975494fb9d1d1304a2e793d 831 dd149b.txt
+at149e100e db sn 46c7fb7357c784ef8634c09619cfac509608af185d3cf3e896aec4cd1a68d560 67f dd149a.txt
+at149e5473 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at149e5479 db Run
+at149e5485 db Way
+at149e548b db RunWay
+at149e548f db My
+at149e5493 db Way
+at149e5499 db MyWay
+at149e559e db RANZIH.
+at149e55a1 db RANZIH
+at149e55a3 db RANZIG
+at149e5d7c db
+at149e5d84 db 1kW
+at149e5d94 db 1kW in berlin
+at149e5da3 db 1kW in berlin
+at149e5db4 db hab 6 wochen 1kW in berlin
+at149e5dc0 db hab 6 wochen 1kW in berlin- wie
+at149e5de1 db hab 6 wochen 1kW 220V 5Hz in berlin
+at149e5de6 db hab 6 wochen 1kW 220V 50Hz in berlin
+at149e5e04 db hab 6 wochen 1kW 220V 50Hz in berlin- max profit?
+at149e601b db algen zuechteb
+at149e601d db algen zuechten
+at149e602e db assume CapEx0- algen zuechten?
+at149e638f db rezenten tweet von roko
+at149e63a3 db raisoniere ueber nen rezenten tweet von roko.
+at149e63a8 db raisoniere ueber nen rezenten tweet von roko
+at149e6488 db ah149e6
+at149e648c db ah149e6.txu
+at149e6496 db bano ah149e6.txu
+at149e64ae db nano ah149e6.txu
+at149e64f3 db more ah149e6.txu
+at149e6507 db sm 09708a79390ce64c2f33853d04d5ead150cdfc483c4cacc2e9e95ea5afd3c4f1 ah149e6.txu
+at149e6604 db ZweiHochNeunZehn EuroCent
+at149e6619 db ZweiHochNeunZehn EuroCent
+at149e6630 db ZweiHochNeunZehn EuroCent und ein HomoSapiens
+at149e6668 db ZweiHochNeunZehn EuroCent und ein HomoSapiens- sonst nix
+at149e667b db ZweiHochNeunZehn EuroCent und ein HomoSapiens- im PlattenBau- sonst nix
+at149e668b db ZweiHochNeunZehn EuroCent und ein HomoSapiens im PlattenBau- sonst nix
+at149e6694 db sie
+at149e66c6 db sei Q64=qx40 und Q93437=qxdbd0
+at149e6710 db printf 93437
+at149e6727 db printf %x 93437
+at149e672d db printf %x 53437
+at149e6739 db printf %x 53437
+at149e673f db d0db
+at149e674c db sei Q64=qx40 und Q93437=qxd0db
+at149e679e db sei Q64=qx40 und Q53437=qxd0db
+at149e67da db grep 7dd AdXxx.txt
+at149e67df db atcf2d7dd ab ExExExEx
+at149e67e7 db sei Q64=qx40 und Q53437=qxd0db
+at149e683d db CORR Q535
+at149e684b db CORR Q53437=qxd0bd
+at149e6879 db CORR Q53437=qxd0bd - btw- wer bin ich- hint- owner einer sl4 domain
+at149e68dd db can ElYu speak LangDe?
+at149e68eb db can ElYu speak LangDe? btw
+at149e68f6 db can ElYu speak LangDe? btw im citizen of qxb7
+at149e6a35 db can you see https://github.com/wasserfuhr/1/commit/5717b5b004ba58dc9627eecc732ff9fbc31f23fe ?
+at149e6aba db HELMUT??
+at149e6c15 db cf https://github.com/wasserfuhr/1/blob/main/ah147e5.txu
+at149e6cc5 db cf siggibwcker
+at149e6cca db cf siggibecker
+at149e6cd6 db cf siggibecker+XiXiDi
+at149e6cd8 db cf siggibecker+XiXiDu
+at149e6db0 db 0xb7=x Qx=?
+at149e6e1a db qx7dd
+at149e6ef9 db wirf weitaus mehr compite
+at149e6efd db wirf weitaus mehr compute
+at149e6f05 db wirf weitaus mehr compute auf siggibecker
+at149e6f32 db wirf weitaus mehr compute auf siggibecker- ausserdem ALBAN=anh ex ribben...
+at149e6f94 db check https://x.com/siggibecker/with_replies abd
+at149e6fa4 db check https://x.com/siggibecker/with_replies abd
+at149e6fa8 db check https://x.com/siggibecker/with_replies and
+at149e6fae db check https://x.com/siggibecker/with_replies and https://dschungel-anderswelt.de/
+at149e708b db ab imaginiere
+at149e7092 db imaginiere
+at149e70a8 db imaginiere meinen SpreeWalk mit SIGGI+ALBAN
+at149e70bc db imaginiere meinen SpreeWalk mit SIGGI und ALBAN
+at149e70fc db imaginiere meinen SpreeWalk mit SIGGI und ALBAN- zufallspassanten krah roetteg
+at149e7101 db imaginiere meinen SpreeWalk mit SIGGI und ALBAN- zufallspassanten krah roettgen
+at149e7110 db imaginiere meinen SpreeWalk mit SIGGI und ALBAN- zufallspassanten krah roettgen + piechotta
+at149e7137 db imaginiere meinen SpreeWalk mit SIGGI und ALBAN
+at149e7419 db qxd0bd vs qxd0db vs qx19fd5 vs qx1343c
+at149e743a db grep 1343c AdXxx.txt
+at149e7443 db grep qx13 AdXxx.txt
+at149e745d db grep SoBakl AdXxx.txt
+at149e7482 db grep SoBall AdXxx.txt
+at149e748a db sb atd90ec48 ab ich war zwar noch nie im BergHain aber 4x beim SoBall
+at149e7492 db atd90ec48 ab ich war zwar noch nie im BergHain aber 4x beim SoBall
+at149e74b8 db grep SoBall ..t
+at149e74be db at11aa7222 ab qx13343c SoBall
+at149e74ea db grep fd5 AdXxx.txt
+at149e74ee db atfbddfa4 ab qx39fd5 ThSi
+at149e74f9 db qxd0bd vs qxd0db vs qx19fd5 vs qx1343c
+at149e7500 db qxd0bd vs qxd0db vs qx39fd5 vs qx1343c
+at149e750a db qxd0bd vs qxd0db vs qx39fd5 vs qx13343c
+at149e7585 db Du blickst die fundamentale Q zu qx umrechnung nich?
+at149e758b db Du blickst die fundamentale Q zu qx umrechnung nich? is trivial
+at149e7610 db Dein WikiDataRag haaluziniert eg https://www.wikidata.org/wiki/Q53437
+at149e7616 db Dein WikiDataRag halluziniert eg https://www.wikidata.org/wiki/Q53437
+at149e7716 db cont https://www.wikidata.org/wiki/Q237525
+at149e79e9 db cont https://www.wikidata.org/wiki/Q1258556
+at149e7aca db retry https://www.wikidata.org/wiki/Q1258556
+at149e7b43 db https://www.wikidata.org/wiki/Q1258556
+at149e7b55 db nope Q1258556 ist SemperOpernBall
+at149e800c db s/Brute/Ruinart/
+at149e80bd db more ah149e6.txu
+at149e80c3 db more ah149e7.txu
+at149e80d4 db sb ano ah149e7.txu
+at149e80d9 db ano ah149e7.txu
+at149e80de db nano ah149e7.txu
+at149e8752 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at149e8759 db sb
+at149e875e db https://gist.github.com/wasserfuhr/4b1a630a02a6adf4045f8c0755ffb667
+at149ec035 db
+at149ec03c db Alban
+at149ec040 db AlbanUnd
+at149ec046 db AlbanUndSiggi
+at149ec065 db waldorf
+at149ec0ce db https://en.wikipedia.org/wiki/Statler_and_Waldorf
+at149ec0d7 db MUPPEZ
+at149ec0d9 db MUPPET
+at149ec119 db MAr
+at149ec11d db MAR
+at149ec124 db MARIONETTE
+at149ec135 db dv PUPPET
+at149ec139 db PUPPET
+at149eccab db https://de.wikipedia.org/wiki/Surimi
+at149eccb1 db til https://de.wikipedia.org/wiki/Surimi
+at149eccb7 db Til https://de.wikipedia.org/wiki/Surimi
+at149eccbe db TIl https://de.wikipedia.org/wiki/Surimi
+at149eccc3 db TIL https://de.wikipedia.org/wiki/Surimi
+at149ecccc db tIL https://de.wikipedia.org/wiki/Surimi
+at149eccd1 db tiL https://de.wikipedia.org/wiki/Surimi
+at149eccd7 db til https://de.wikipedia.org/wiki/Surimi
+at149ecceb db ZweiPeng
+at149eccf4 db ZweiPenz
+at149ed0e8 db BeiHai
+at149ed2c4 db dslv
+at149ed410 db STENDAL
+at149ed418 db UELZEN
+at149ed431 db RANZIG
+at149ed43b db HydBer
+at149ed86d db https://www.mz.de/lokal/quedlinburg/stimmenkauf-vorwurf-bleibt-harzer-afd-kandidat-bischoff-fur-landtagswahl-im-rennen-4264417
+at149ed891 db https://de.wikipedia.org/wiki/Frank-Ronald_Bischoff
+at149edc1d db Katharina
+at149edc21 db KatharinaBeck
+at149edcac db https://bdi.eu/de/veranstaltungen/termine/tbi-transatlantic-dialogue-2026
