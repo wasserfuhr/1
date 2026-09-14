@@ -1,0 +1,1 @@
+clear;b=$((`date +%s`-at0));b=`printf %x $b`;c=`echo $b|rev`;c=`echo ${c:4}|rev`;cat dd$c.txt|tail -4;read -p"at$b>" -e a;echo at$b $a>>dd$c.txt;b=$((`date +%s`-at0));b=`printf %x $b`;echo "at$b<";wc dd$c.txt;sha256sum dd$c.txt
