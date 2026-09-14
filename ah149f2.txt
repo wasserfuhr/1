@@ -1,0 +1,2552 @@
+{
+  "id": "903b9d3b-b2cb-4690-aadc-d98a67da8524",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://github.com/wasserfuhr/1/raw/refs/heads/main/Kk526.m4a",
+  "text": "Preface. When considering famous names in the history of mathematics, Bernhard Riemann inevitably appears high on any list. At the time of his death in 1866, he had already attained a modicum of fame, but nothing like what would come afterward. Some might argue that Riemann would have achieved lasting fame during his lifetime, had he not already died shortly before reaching his 40th birthday. Against that argument, it should be noted that some of Riemann's most famous and influential papers were first published immediately after his demise. Had he lived, there is good reason to believe those works might never have surfaced, surfaced at all. Just imagine how diminished Riemann's fame would have been if mathematicians today had never heard of the Riemann integral or Riemannian manifolds. This book attempts to lift the veil— unveil, unveil, unveil, unveil— to lift the veil on the life of this brilliant but mysterious figure. A great deal of the mystery will inevitably remain, however, as Riemann was an elusive personality even for those who knew him best.",
+  "words": [
+    {
+      "text": "Preface.",
+      "start": 1530,
+      "end": 2465,
+      "confidence": 0.9569341,
+      "speaker": "A"
+    },
+    {
+      "text": "When",
+      "start": 3095,
+      "end": 3304,
+      "confidence": 0.8710854,
+      "speaker": "A"
+    },
+    {
+      "text": "considering",
+      "start": 4047,
+      "end": 4757,
+      "confidence": 0.99976116,
+      "speaker": "A"
+    },
+    {
+      "text": "famous",
+      "start": 4805,
+      "end": 5418,
+      "confidence": 0.9991352,
+      "speaker": "A"
+    },
+    {
+      "text": "names",
+      "start": 5418,
+      "end": 5725,
+      "confidence": 0.9997383,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 7129,
+      "end": 7177,
+      "confidence": 0.9996737,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 7274,
+      "end": 7371,
+      "confidence": 0.99975544,
+      "speaker": "A"
+    },
+    {
+      "text": "history",
+      "start": 7371,
+      "end": 7823,
+      "confidence": 0.99996126,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 8807,
+      "end": 9033,
+      "confidence": 0.99994683,
+      "speaker": "A"
+    },
+    {
+      "text": "mathematics,",
+      "start": 9904,
+      "end": 10884,
+      "confidence": 0.99984443,
+      "speaker": "A"
+    },
+    {
+      "text": "Bernhard",
+      "start": 10900,
+      "end": 11318,
+      "confidence": 0.96491617,
+      "speaker": "A"
+    },
+    {
+      "text": "Riemann",
+      "start": 11318,
+      "end": 11687,
+      "confidence": 0.99996233,
+      "speaker": "A"
+    },
+    {
+      "text": "inevitably",
+      "start": 14612,
+      "end": 15335,
+      "confidence": 0.9833091,
+      "speaker": "A"
+    },
+    {
+      "text": "appears",
+      "start": 15898,
+      "end": 16428,
+      "confidence": 0.99981505,
+      "speaker": "A"
+    },
+    {
+      "text": "high",
+      "start": 17408,
+      "end": 17520,
+      "confidence": 0.99928135,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 17890,
+      "end": 18067,
+      "confidence": 0.99843067,
+      "speaker": "A"
+    },
+    {
+      "text": "any",
+      "start": 18067,
+      "end": 18276,
+      "confidence": 0.99932003,
+      "speaker": "A"
+    },
+    {
+      "text": "list.",
+      "start": 18292,
+      "end": 18694,
+      "confidence": 0.9979785,
+      "speaker": "A"
+    },
+    {
+      "text": "At",
+      "start": 19597,
+      "end": 19694,
+      "confidence": 0.90739506,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 19823,
+      "end": 19920,
+      "confidence": 0.99993265,
+      "speaker": "A"
+    },
+    {
+      "text": "time",
+      "start": 19920,
+      "end": 20373,
+      "confidence": 0.9998815,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 21134,
+      "end": 21264,
+      "confidence": 0.9998971,
+      "speaker": "A"
+    },
+    {
+      "text": "his",
+      "start": 21361,
+      "end": 21425,
+      "confidence": 0.9997969,
+      "speaker": "A"
+    },
+    {
+      "text": "death",
+      "start": 21620,
+      "end": 21749,
+      "confidence": 0.9998691,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 21765,
+      "end": 21798,
+      "confidence": 0.9510052,
+      "speaker": "A"
+    },
+    {
+      "text": "1866,",
+      "start": 21798,
+      "end": 24128,
+      "confidence": 0.9995965,
+      "speaker": "A"
+    },
+    {
+      "text": "he",
+      "start": 25164,
+      "end": 25261,
+      "confidence": 0.99192274,
+      "speaker": "A"
+    },
+    {
+      "text": "had",
+      "start": 25261,
+      "end": 25472,
+      "confidence": 0.9997286,
+      "speaker": "A"
+    },
+    {
+      "text": "already",
+      "start": 25666,
+      "end": 26119,
+      "confidence": 0.99994373,
+      "speaker": "A"
+    },
+    {
+      "text": "attained",
+      "start": 26232,
+      "end": 26847,
+      "confidence": 0.99820995,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 27123,
+      "end": 27139,
+      "confidence": 0.9985669,
+      "speaker": "A"
+    },
+    {
+      "text": "modicum",
+      "start": 27139,
+      "end": 27948,
+      "confidence": 0.9997926,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 28200,
+      "end": 28472,
+      "confidence": 0.4427687,
+      "speaker": "A"
+    },
+    {
+      "text": "fame,",
+      "start": 28472,
+      "end": 28824,
+      "confidence": 0.99882543,
+      "speaker": "A"
+    },
+    {
+      "text": "but",
+      "start": 29273,
+      "end": 29513,
+      "confidence": 0.9999603,
+      "speaker": "A"
+    },
+    {
+      "text": "nothing",
+      "start": 29513,
+      "end": 29962,
+      "confidence": 0.9997316,
+      "speaker": "A"
+    },
+    {
+      "text": "like",
+      "start": 30154,
+      "end": 30475,
+      "confidence": 0.99983275,
+      "speaker": "A"
+    },
+    {
+      "text": "what",
+      "start": 30475,
+      "end": 30779,
+      "confidence": 0.99988353,
+      "speaker": "A"
+    },
+    {
+      "text": "would",
+      "start": 30779,
+      "end": 31004,
+      "confidence": 0.99984384,
+      "speaker": "A"
+    },
+    {
+      "text": "come",
+      "start": 31036,
+      "end": 31228,
+      "confidence": 0.99987733,
+      "speaker": "A"
+    },
+    {
+      "text": "afterward.",
+      "start": 31917,
+      "end": 32366,
+      "confidence": 0.9514698,
+      "speaker": "A"
+    },
+    {
+      "text": "Some",
+      "start": 33696,
+      "end": 34000,
+      "confidence": 0.9995704,
+      "speaker": "A"
+    },
+    {
+      "text": "might",
+      "start": 34000,
+      "end": 34256,
+      "confidence": 0.9998703,
+      "speaker": "A"
+    },
+    {
+      "text": "argue",
+      "start": 34401,
+      "end": 34673,
+      "confidence": 0.99993396,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 35122,
+      "end": 35554,
+      "confidence": 0.999749,
+      "speaker": "A"
+    },
+    {
+      "text": "Riemann",
+      "start": 36387,
+      "end": 36772,
+      "confidence": 0.99985886,
+      "speaker": "A"
+    },
+    {
+      "text": "would",
+      "start": 37429,
+      "end": 37525,
+      "confidence": 0.99964,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 37525,
+      "end": 37813,
+      "confidence": 0.99987316,
+      "speaker": "A"
+    },
+    {
+      "text": "achieved",
+      "start": 37926,
+      "end": 38615,
+      "confidence": 0.9999627,
+      "speaker": "A"
+    },
+    {
+      "text": "lasting",
+      "start": 39047,
+      "end": 39496,
+      "confidence": 0.9999517,
+      "speaker": "A"
+    },
+    {
+      "text": "fame",
+      "start": 39672,
+      "end": 40041,
+      "confidence": 0.9999883,
+      "speaker": "A"
+    },
+    {
+      "text": "during",
+      "start": 40089,
+      "end": 40377,
+      "confidence": 0.99996567,
+      "speaker": "A"
+    },
+    {
+      "text": "his",
+      "start": 40473,
+      "end": 40618,
+      "confidence": 0.9999876,
+      "speaker": "A"
+    },
+    {
+      "text": "lifetime,",
+      "start": 40714,
+      "end": 41339,
+      "confidence": 0.8303886,
+      "speaker": "A"
+    },
+    {
+      "text": "had",
+      "start": 42236,
+      "end": 42364,
+      "confidence": 0.9998623,
+      "speaker": "A"
+    },
+    {
+      "text": "he",
+      "start": 42412,
+      "end": 42508,
+      "confidence": 0.99986887,
+      "speaker": "A"
+    },
+    {
+      "text": "not",
+      "start": 42508,
+      "end": 42829,
+      "confidence": 0.99998975,
+      "speaker": "A"
+    },
+    {
+      "text": "already",
+      "start": 42893,
+      "end": 43261,
+      "confidence": 0.99996734,
+      "speaker": "A"
+    },
+    {
+      "text": "died",
+      "start": 43293,
+      "end": 43630,
+      "confidence": 0.9999832,
+      "speaker": "A"
+    },
+    {
+      "text": "shortly",
+      "start": 43854,
+      "end": 44383,
+      "confidence": 0.99937785,
+      "speaker": "A"
+    },
+    {
+      "text": "before",
+      "start": 45040,
+      "end": 45409,
+      "confidence": 0.9999443,
+      "speaker": "A"
+    },
+    {
+      "text": "reaching",
+      "start": 45777,
+      "end": 46226,
+      "confidence": 0.99983823,
+      "speaker": "A"
+    },
+    {
+      "text": "his",
+      "start": 46899,
+      "end": 47107,
+      "confidence": 0.99993837,
+      "speaker": "A"
+    },
+    {
+      "text": "40th",
+      "start": 47219,
+      "end": 47828,
+      "confidence": 0.9997456,
+      "speaker": "A"
+    },
+    {
+      "text": "birthday.",
+      "start": 48084,
+      "end": 48661,
+      "confidence": 0.99973094,
+      "speaker": "A"
+    },
+    {
+      "text": "Against",
+      "start": 49863,
+      "end": 50328,
+      "confidence": 0.99988115,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 50328,
+      "end": 50584,
+      "confidence": 0.99979013,
+      "speaker": "A"
+    },
+    {
+      "text": "argument,",
+      "start": 50648,
+      "end": 51225,
+      "confidence": 0.9841208,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 51626,
+      "end": 51706,
+      "confidence": 0.9999641,
+      "speaker": "A"
+    },
+    {
+      "text": "should",
+      "start": 51706,
+      "end": 51914,
+      "confidence": 0.9999629,
+      "speaker": "A"
+    },
+    {
+      "text": "be",
+      "start": 51946,
+      "end": 52026,
+      "confidence": 0.9998939,
+      "speaker": "A"
+    },
+    {
+      "text": "noted",
+      "start": 52026,
+      "end": 52635,
+      "confidence": 0.9999095,
+      "speaker": "A"
+    },
+    {
+      "text": "that",
+      "start": 52827,
+      "end": 53196,
+      "confidence": 0.9994098,
+      "speaker": "A"
+    },
+    {
+      "text": "some",
+      "start": 53324,
+      "end": 53741,
+      "confidence": 0.9994735,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 53869,
+      "end": 54045,
+      "confidence": 0.9999324,
+      "speaker": "A"
+    },
+    {
+      "text": "Riemann's",
+      "start": 54045,
+      "end": 54526,
+      "confidence": 0.99991554,
+      "speaker": "A"
+    },
+    {
+      "text": "most",
+      "start": 54670,
+      "end": 55071,
+      "confidence": 0.99976534,
+      "speaker": "A"
+    },
+    {
+      "text": "famous",
+      "start": 55071,
+      "end": 55439,
+      "confidence": 0.9996823,
+      "speaker": "A"
+    },
+    {
+      "text": "and",
+      "start": 56354,
+      "end": 56418,
+      "confidence": 0.95743203,
+      "speaker": "A"
+    },
+    {
+      "text": "influential",
+      "start": 56835,
+      "end": 57558,
+      "confidence": 0.9994555,
+      "speaker": "A"
+    },
+    {
+      "text": "papers",
+      "start": 57558,
+      "end": 58007,
+      "confidence": 0.9994816,
+      "speaker": "A"
+    },
+    {
+      "text": "were",
+      "start": 58682,
+      "end": 58922,
+      "confidence": 0.9905986,
+      "speaker": "A"
+    },
+    {
+      "text": "first",
+      "start": 59083,
+      "end": 59693,
+      "confidence": 0.99857926,
+      "speaker": "A"
+    },
+    {
+      "text": "published",
+      "start": 59886,
+      "end": 60576,
+      "confidence": 0.99995875,
+      "speaker": "A"
+    },
+    {
+      "text": "immediately",
+      "start": 60785,
+      "end": 61491,
+      "confidence": 0.9998191,
+      "speaker": "A"
+    },
+    {
+      "text": "after",
+      "start": 61635,
+      "end": 61892,
+      "confidence": 0.99998343,
+      "speaker": "A"
+    },
+    {
+      "text": "his",
+      "start": 62438,
+      "end": 62502,
+      "confidence": 0.9984957,
+      "speaker": "A"
+    },
+    {
+      "text": "demise.",
+      "start": 62615,
+      "end": 63064,
+      "confidence": 0.9982415,
+      "speaker": "A"
+    },
+    {
+      "text": "Had",
+      "start": 64445,
+      "end": 64686,
+      "confidence": 0.9996704,
+      "speaker": "A"
+    },
+    {
+      "text": "he",
+      "start": 64686,
+      "end": 64846,
+      "confidence": 0.9997662,
+      "speaker": "A"
+    },
+    {
+      "text": "lived,",
+      "start": 64862,
+      "end": 65312,
+      "confidence": 0.99979776,
+      "speaker": "A"
+    },
+    {
+      "text": "there",
+      "start": 66211,
+      "end": 66339,
+      "confidence": 0.9999478,
+      "speaker": "A"
+    },
+    {
+      "text": "is",
+      "start": 66387,
+      "end": 66467,
+      "confidence": 0.99861777,
+      "speaker": "A"
+    },
+    {
+      "text": "good",
+      "start": 66548,
+      "end": 66773,
+      "confidence": 0.98105556,
+      "speaker": "A"
+    },
+    {
+      "text": "reason",
+      "start": 66773,
+      "end": 67110,
+      "confidence": 0.999987,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 67110,
+      "end": 67270,
+      "confidence": 0.99999535,
+      "speaker": "A"
+    },
+    {
+      "text": "believe",
+      "start": 67270,
+      "end": 67912,
+      "confidence": 0.9999865,
+      "speaker": "A"
+    },
+    {
+      "text": "those",
+      "start": 67912,
+      "end": 68121,
+      "confidence": 0.9872732,
+      "speaker": "A"
+    },
+    {
+      "text": "works",
+      "start": 68378,
+      "end": 68827,
+      "confidence": 0.999861,
+      "speaker": "A"
+    },
+    {
+      "text": "might",
+      "start": 69277,
+      "end": 69662,
+      "confidence": 0.9998242,
+      "speaker": "A"
+    },
+    {
+      "text": "never",
+      "start": 69662,
+      "end": 69967,
+      "confidence": 0.998776,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 69999,
+      "end": 70128,
+      "confidence": 0.999948,
+      "speaker": "A"
+    },
+    {
+      "text": "surfaced,",
+      "start": 70497,
+      "end": 71284,
+      "confidence": 0.89126813,
+      "speaker": "A"
+    },
+    {
+      "text": "surfaced",
+      "start": 71861,
+      "end": 72568,
+      "confidence": 0.998992,
+      "speaker": "A"
+    },
+    {
+      "text": "at",
+      "start": 72568,
+      "end": 72825,
+      "confidence": 0.9996183,
+      "speaker": "A"
+    },
+    {
+      "text": "all.",
+      "start": 72873,
+      "end": 73033,
+      "confidence": 0.9638954,
+      "speaker": "A"
+    },
+    {
+      "text": "Just",
+      "start": 74157,
+      "end": 74478,
+      "confidence": 0.9996611,
+      "speaker": "A"
+    },
+    {
+      "text": "imagine",
+      "start": 74478,
+      "end": 75008,
+      "confidence": 0.9999671,
+      "speaker": "A"
+    },
+    {
+      "text": "how",
+      "start": 75682,
+      "end": 75859,
+      "confidence": 0.99950135,
+      "speaker": "A"
+    },
+    {
+      "text": "diminished",
+      "start": 76180,
+      "end": 76838,
+      "confidence": 0.9996784,
+      "speaker": "A"
+    },
+    {
+      "text": "Riemann's",
+      "start": 77368,
+      "end": 77817,
+      "confidence": 0.9999273,
+      "speaker": "A"
+    },
+    {
+      "text": "fame",
+      "start": 77849,
+      "end": 78235,
+      "confidence": 0.9998203,
+      "speaker": "A"
+    },
+    {
+      "text": "would",
+      "start": 78973,
+      "end": 79070,
+      "confidence": 0.9998975,
+      "speaker": "A"
+    },
+    {
+      "text": "have",
+      "start": 79070,
+      "end": 79198,
+      "confidence": 0.99973065,
+      "speaker": "A"
+    },
+    {
+      "text": "been",
+      "start": 79310,
+      "end": 79519,
+      "confidence": 0.999915,
+      "speaker": "A"
+    },
+    {
+      "text": "if",
+      "start": 79615,
+      "end": 79728,
+      "confidence": 0.98296124,
+      "speaker": "A"
+    },
+    {
+      "text": "mathematicians",
+      "start": 79808,
+      "end": 80691,
+      "confidence": 0.9999812,
+      "speaker": "A"
+    },
+    {
+      "text": "today",
+      "start": 80755,
+      "end": 81237,
+      "confidence": 0.99978584,
+      "speaker": "A"
+    },
+    {
+      "text": "had",
+      "start": 81542,
+      "end": 81686,
+      "confidence": 0.99958545,
+      "speaker": "A"
+    },
+    {
+      "text": "never",
+      "start": 81799,
+      "end": 82023,
+      "confidence": 0.9999331,
+      "speaker": "A"
+    },
+    {
+      "text": "heard",
+      "start": 82039,
+      "end": 82361,
+      "confidence": 0.9997689,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 82361,
+      "end": 82569,
+      "confidence": 0.9921423,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 82747,
+      "end": 82844,
+      "confidence": 0.4308428,
+      "speaker": "A"
+    },
+    {
+      "text": "Riemann",
+      "start": 82844,
+      "end": 83783,
+      "confidence": 0.99986833,
+      "speaker": "A"
+    },
+    {
+      "text": "integral",
+      "start": 83880,
+      "end": 84269,
+      "confidence": 0.87486744,
+      "speaker": "A"
+    },
+    {
+      "text": "or",
+      "start": 84771,
+      "end": 84868,
+      "confidence": 0.9513715,
+      "speaker": "A"
+    },
+    {
+      "text": "Riemannian",
+      "start": 84868,
+      "end": 85564,
+      "confidence": 0.9998505,
+      "speaker": "A"
+    },
+    {
+      "text": "manifolds.",
+      "start": 86163,
+      "end": 86940,
+      "confidence": 0.99780244,
+      "speaker": "A"
+    },
+    {
+      "text": "This",
+      "start": 87944,
+      "end": 88074,
+      "confidence": 0.99980885,
+      "speaker": "A"
+    },
+    {
+      "text": "book",
+      "start": 88268,
+      "end": 88527,
+      "confidence": 0.9997851,
+      "speaker": "A"
+    },
+    {
+      "text": "attempts",
+      "start": 88527,
+      "end": 89434,
+      "confidence": 0.9982218,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 89483,
+      "end": 89709,
+      "confidence": 0.9999782,
+      "speaker": "A"
+    },
+    {
+      "text": "lift",
+      "start": 89709,
+      "end": 90130,
+      "confidence": 0.9999217,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 90130,
+      "end": 90325,
+      "confidence": 0.99971634,
+      "speaker": "A"
+    },
+    {
+      "text": "veil—",
+      "start": 91487,
+      "end": 91584,
+      "confidence": 0.80656034,
+      "speaker": "A"
+    },
+    {
+      "text": "unveil,",
+      "start": 91584,
+      "end": 92130,
+      "confidence": 0.8975236,
+      "speaker": "A"
+    },
+    {
+      "text": "unveil,",
+      "start": 92307,
+      "end": 92805,
+      "confidence": 0.9811136,
+      "speaker": "A"
+    },
+    {
+      "text": "unveil,",
+      "start": 93673,
+      "end": 94155,
+      "confidence": 0.9432756,
+      "speaker": "A"
+    },
+    {
+      "text": "unveil—",
+      "start": 94316,
+      "end": 94830,
+      "confidence": 0.9962498,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 95746,
+      "end": 95859,
+      "confidence": 0.9981831,
+      "speaker": "A"
+    },
+    {
+      "text": "lift",
+      "start": 95859,
+      "end": 96084,
+      "confidence": 0.9999373,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 96084,
+      "end": 96116,
+      "confidence": 0.9996283,
+      "speaker": "A"
+    },
+    {
+      "text": "veil",
+      "start": 96245,
+      "end": 96614,
+      "confidence": 0.9999597,
+      "speaker": "A"
+    },
+    {
+      "text": "on",
+      "start": 98655,
+      "end": 98752,
+      "confidence": 0.99759007,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 98752,
+      "end": 98961,
+      "confidence": 0.99993396,
+      "speaker": "A"
+    },
+    {
+      "text": "life",
+      "start": 98961,
+      "end": 99346,
+      "confidence": 0.9999583,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 99844,
+      "end": 99989,
+      "confidence": 0.99997413,
+      "speaker": "A"
+    },
+    {
+      "text": "this",
+      "start": 100070,
+      "end": 100247,
+      "confidence": 0.99970007,
+      "speaker": "A"
+    },
+    {
+      "text": "brilliant",
+      "start": 100263,
+      "end": 101039,
+      "confidence": 0.9999672,
+      "speaker": "A"
+    },
+    {
+      "text": "but",
+      "start": 101476,
+      "end": 101815,
+      "confidence": 0.99573493,
+      "speaker": "A"
+    },
+    {
+      "text": "mysterious",
+      "start": 102267,
+      "end": 102962,
+      "confidence": 0.9999629,
+      "speaker": "A"
+    },
+    {
+      "text": "figure.",
+      "start": 103173,
+      "end": 103560,
+      "confidence": 0.99966854,
+      "speaker": "A"
+    },
+    {
+      "text": "A",
+      "start": 105112,
+      "end": 105193,
+      "confidence": 0.9995969,
+      "speaker": "A"
+    },
+    {
+      "text": "great",
+      "start": 105193,
+      "end": 105516,
+      "confidence": 0.9999453,
+      "speaker": "A"
+    },
+    {
+      "text": "deal",
+      "start": 105742,
+      "end": 105888,
+      "confidence": 0.9998863,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 106179,
+      "end": 106292,
+      "confidence": 0.9999225,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 106405,
+      "end": 106470,
+      "confidence": 0.9991897,
+      "speaker": "A"
+    },
+    {
+      "text": "mystery",
+      "start": 106470,
+      "end": 107067,
+      "confidence": 0.99968326,
+      "speaker": "A"
+    },
+    {
+      "text": "will",
+      "start": 107698,
+      "end": 107956,
+      "confidence": 0.9966108,
+      "speaker": "A"
+    },
+    {
+      "text": "inevitably",
+      "start": 108553,
+      "end": 109441,
+      "confidence": 0.8663946,
+      "speaker": "A"
+    },
+    {
+      "text": "remain,",
+      "start": 109441,
+      "end": 109893,
+      "confidence": 0.8148114,
+      "speaker": "A"
+    },
+    {
+      "text": "however,",
+      "start": 110313,
+      "end": 110910,
+      "confidence": 0.99733686,
+      "speaker": "A"
+    },
+    {
+      "text": "as",
+      "start": 111701,
+      "end": 111749,
+      "confidence": 0.99362755,
+      "speaker": "A"
+    },
+    {
+      "text": "Riemann",
+      "start": 111927,
+      "end": 112217,
+      "confidence": 0.99986047,
+      "speaker": "A"
+    },
+    {
+      "text": "was",
+      "start": 112895,
+      "end": 113121,
+      "confidence": 0.9983584,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 113154,
+      "end": 113202,
+      "confidence": 0.9994894,
+      "speaker": "A"
+    },
+    {
+      "text": "elusive",
+      "start": 113331,
+      "end": 113928,
+      "confidence": 0.99979097,
+      "speaker": "A"
+    },
+    {
+      "text": "personality",
+      "start": 115091,
+      "end": 115898,
+      "confidence": 0.99909806,
+      "speaker": "A"
+    },
+    {
+      "text": "even",
+      "start": 116285,
+      "end": 116511,
+      "confidence": 0.864383,
+      "speaker": "A"
+    },
+    {
+      "text": "for",
+      "start": 116689,
+      "end": 116818,
+      "confidence": 0.99956304,
+      "speaker": "A"
+    },
+    {
+      "text": "those",
+      "start": 116931,
+      "end": 117237,
+      "confidence": 0.9999695,
+      "speaker": "A"
+    },
+    {
+      "text": "who",
+      "start": 117899,
+      "end": 117996,
+      "confidence": 0.9998714,
+      "speaker": "A"
+    },
+    {
+      "text": "knew",
+      "start": 117996,
+      "end": 118190,
+      "confidence": 0.99994004,
+      "speaker": "A"
+    },
+    {
+      "text": "him",
+      "start": 118545,
+      "end": 118771,
+      "confidence": 0.9999361,
+      "speaker": "A"
+    },
+    {
+      "text": "best.",
+      "start": 119110,
+      "end": 119594,
+      "confidence": 0.9865618,
+      "speaker": "A"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "Preface. When considering famous names in the history of mathematics, Bernhard Riemann inevitably appears high on any list. At the time of his death in 1866, he had already attained a modicum of fame, but nothing like what would come afterward. Some might argue that Riemann would have achieved lasting fame during his lifetime, had he not already died shortly before reaching his 40th birthday. Against that argument, it should be noted that some of Riemann's most famous and influential papers were first published immediately after his demise. Had he lived, there is good reason to believe those works might never have surfaced, surfaced at all. Just imagine how diminished Riemann's fame would have been if mathematicians today had never heard of the Riemann integral or Riemannian manifolds. This book attempts to lift the veil— unveil, unveil, unveil, unveil— to lift the veil on the life of this brilliant but mysterious figure. A great deal of the mystery will inevitably remain, however, as Riemann was an elusive personality even for those who knew him best.",
+      "confidence": 0.9806374,
+      "start": 1530,
+      "end": 119594,
+      "words": [
+        {
+          "text": "Preface.",
+          "start": 1530,
+          "end": 2465,
+          "confidence": 0.9569341,
+          "speaker": "A"
+        },
+        {
+          "text": "When",
+          "start": 3095,
+          "end": 3304,
+          "confidence": 0.8710854,
+          "speaker": "A"
+        },
+        {
+          "text": "considering",
+          "start": 4047,
+          "end": 4757,
+          "confidence": 0.99976116,
+          "speaker": "A"
+        },
+        {
+          "text": "famous",
+          "start": 4805,
+          "end": 5418,
+          "confidence": 0.9991352,
+          "speaker": "A"
+        },
+        {
+          "text": "names",
+          "start": 5418,
+          "end": 5725,
+          "confidence": 0.9997383,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 7129,
+          "end": 7177,
+          "confidence": 0.9996737,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 7274,
+          "end": 7371,
+          "confidence": 0.99975544,
+          "speaker": "A"
+        },
+        {
+          "text": "history",
+          "start": 7371,
+          "end": 7823,
+          "confidence": 0.99996126,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 8807,
+          "end": 9033,
+          "confidence": 0.99994683,
+          "speaker": "A"
+        },
+        {
+          "text": "mathematics,",
+          "start": 9904,
+          "end": 10884,
+          "confidence": 0.99984443,
+          "speaker": "A"
+        },
+        {
+          "text": "Bernhard",
+          "start": 10900,
+          "end": 11318,
+          "confidence": 0.96491617,
+          "speaker": "A"
+        },
+        {
+          "text": "Riemann",
+          "start": 11318,
+          "end": 11687,
+          "confidence": 0.99996233,
+          "speaker": "A"
+        },
+        {
+          "text": "inevitably",
+          "start": 14612,
+          "end": 15335,
+          "confidence": 0.9833091,
+          "speaker": "A"
+        },
+        {
+          "text": "appears",
+          "start": 15898,
+          "end": 16428,
+          "confidence": 0.99981505,
+          "speaker": "A"
+        },
+        {
+          "text": "high",
+          "start": 17408,
+          "end": 17520,
+          "confidence": 0.99928135,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 17890,
+          "end": 18067,
+          "confidence": 0.99843067,
+          "speaker": "A"
+        },
+        {
+          "text": "any",
+          "start": 18067,
+          "end": 18276,
+          "confidence": 0.99932003,
+          "speaker": "A"
+        },
+        {
+          "text": "list.",
+          "start": 18292,
+          "end": 18694,
+          "confidence": 0.9979785,
+          "speaker": "A"
+        },
+        {
+          "text": "At",
+          "start": 19597,
+          "end": 19694,
+          "confidence": 0.90739506,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 19823,
+          "end": 19920,
+          "confidence": 0.99993265,
+          "speaker": "A"
+        },
+        {
+          "text": "time",
+          "start": 19920,
+          "end": 20373,
+          "confidence": 0.9998815,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 21134,
+          "end": 21264,
+          "confidence": 0.9998971,
+          "speaker": "A"
+        },
+        {
+          "text": "his",
+          "start": 21361,
+          "end": 21425,
+          "confidence": 0.9997969,
+          "speaker": "A"
+        },
+        {
+          "text": "death",
+          "start": 21620,
+          "end": 21749,
+          "confidence": 0.9998691,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 21765,
+          "end": 21798,
+          "confidence": 0.9510052,
+          "speaker": "A"
+        },
+        {
+          "text": "1866,",
+          "start": 21798,
+          "end": 24128,
+          "confidence": 0.9995965,
+          "speaker": "A"
+        },
+        {
+          "text": "he",
+          "start": 25164,
+          "end": 25261,
+          "confidence": 0.99192274,
+          "speaker": "A"
+        },
+        {
+          "text": "had",
+          "start": 25261,
+          "end": 25472,
+          "confidence": 0.9997286,
+          "speaker": "A"
+        },
+        {
+          "text": "already",
+          "start": 25666,
+          "end": 26119,
+          "confidence": 0.99994373,
+          "speaker": "A"
+        },
+        {
+          "text": "attained",
+          "start": 26232,
+          "end": 26847,
+          "confidence": 0.99820995,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 27123,
+          "end": 27139,
+          "confidence": 0.9985669,
+          "speaker": "A"
+        },
+        {
+          "text": "modicum",
+          "start": 27139,
+          "end": 27948,
+          "confidence": 0.9997926,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 28200,
+          "end": 28472,
+          "confidence": 0.4427687,
+          "speaker": "A"
+        },
+        {
+          "text": "fame,",
+          "start": 28472,
+          "end": 28824,
+          "confidence": 0.99882543,
+          "speaker": "A"
+        },
+        {
+          "text": "but",
+          "start": 29273,
+          "end": 29513,
+          "confidence": 0.9999603,
+          "speaker": "A"
+        },
+        {
+          "text": "nothing",
+          "start": 29513,
+          "end": 29962,
+          "confidence": 0.9997316,
+          "speaker": "A"
+        },
+        {
+          "text": "like",
+          "start": 30154,
+          "end": 30475,
+          "confidence": 0.99983275,
+          "speaker": "A"
+        },
+        {
+          "text": "what",
+          "start": 30475,
+          "end": 30779,
+          "confidence": 0.99988353,
+          "speaker": "A"
+        },
+        {
+          "text": "would",
+          "start": 30779,
+          "end": 31004,
+          "confidence": 0.99984384,
+          "speaker": "A"
+        },
+        {
+          "text": "come",
+          "start": 31036,
+          "end": 31228,
+          "confidence": 0.99987733,
+          "speaker": "A"
+        },
+        {
+          "text": "afterward.",
+          "start": 31917,
+          "end": 32366,
+          "confidence": 0.9514698,
+          "speaker": "A"
+        },
+        {
+          "text": "Some",
+          "start": 33696,
+          "end": 34000,
+          "confidence": 0.9995704,
+          "speaker": "A"
+        },
+        {
+          "text": "might",
+          "start": 34000,
+          "end": 34256,
+          "confidence": 0.9998703,
+          "speaker": "A"
+        },
+        {
+          "text": "argue",
+          "start": 34401,
+          "end": 34673,
+          "confidence": 0.99993396,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 35122,
+          "end": 35554,
+          "confidence": 0.999749,
+          "speaker": "A"
+        },
+        {
+          "text": "Riemann",
+          "start": 36387,
+          "end": 36772,
+          "confidence": 0.99985886,
+          "speaker": "A"
+        },
+        {
+          "text": "would",
+          "start": 37429,
+          "end": 37525,
+          "confidence": 0.99964,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 37525,
+          "end": 37813,
+          "confidence": 0.99987316,
+          "speaker": "A"
+        },
+        {
+          "text": "achieved",
+          "start": 37926,
+          "end": 38615,
+          "confidence": 0.9999627,
+          "speaker": "A"
+        },
+        {
+          "text": "lasting",
+          "start": 39047,
+          "end": 39496,
+          "confidence": 0.9999517,
+          "speaker": "A"
+        },
+        {
+          "text": "fame",
+          "start": 39672,
+          "end": 40041,
+          "confidence": 0.9999883,
+          "speaker": "A"
+        },
+        {
+          "text": "during",
+          "start": 40089,
+          "end": 40377,
+          "confidence": 0.99996567,
+          "speaker": "A"
+        },
+        {
+          "text": "his",
+          "start": 40473,
+          "end": 40618,
+          "confidence": 0.9999876,
+          "speaker": "A"
+        },
+        {
+          "text": "lifetime,",
+          "start": 40714,
+          "end": 41339,
+          "confidence": 0.8303886,
+          "speaker": "A"
+        },
+        {
+          "text": "had",
+          "start": 42236,
+          "end": 42364,
+          "confidence": 0.9998623,
+          "speaker": "A"
+        },
+        {
+          "text": "he",
+          "start": 42412,
+          "end": 42508,
+          "confidence": 0.99986887,
+          "speaker": "A"
+        },
+        {
+          "text": "not",
+          "start": 42508,
+          "end": 42829,
+          "confidence": 0.99998975,
+          "speaker": "A"
+        },
+        {
+          "text": "already",
+          "start": 42893,
+          "end": 43261,
+          "confidence": 0.99996734,
+          "speaker": "A"
+        },
+        {
+          "text": "died",
+          "start": 43293,
+          "end": 43630,
+          "confidence": 0.9999832,
+          "speaker": "A"
+        },
+        {
+          "text": "shortly",
+          "start": 43854,
+          "end": 44383,
+          "confidence": 0.99937785,
+          "speaker": "A"
+        },
+        {
+          "text": "before",
+          "start": 45040,
+          "end": 45409,
+          "confidence": 0.9999443,
+          "speaker": "A"
+        },
+        {
+          "text": "reaching",
+          "start": 45777,
+          "end": 46226,
+          "confidence": 0.99983823,
+          "speaker": "A"
+        },
+        {
+          "text": "his",
+          "start": 46899,
+          "end": 47107,
+          "confidence": 0.99993837,
+          "speaker": "A"
+        },
+        {
+          "text": "40th",
+          "start": 47219,
+          "end": 47828,
+          "confidence": 0.9997456,
+          "speaker": "A"
+        },
+        {
+          "text": "birthday.",
+          "start": 48084,
+          "end": 48661,
+          "confidence": 0.99973094,
+          "speaker": "A"
+        },
+        {
+          "text": "Against",
+          "start": 49863,
+          "end": 50328,
+          "confidence": 0.99988115,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 50328,
+          "end": 50584,
+          "confidence": 0.99979013,
+          "speaker": "A"
+        },
+        {
+          "text": "argument,",
+          "start": 50648,
+          "end": 51225,
+          "confidence": 0.9841208,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 51626,
+          "end": 51706,
+          "confidence": 0.9999641,
+          "speaker": "A"
+        },
+        {
+          "text": "should",
+          "start": 51706,
+          "end": 51914,
+          "confidence": 0.9999629,
+          "speaker": "A"
+        },
+        {
+          "text": "be",
+          "start": 51946,
+          "end": 52026,
+          "confidence": 0.9998939,
+          "speaker": "A"
+        },
+        {
+          "text": "noted",
+          "start": 52026,
+          "end": 52635,
+          "confidence": 0.9999095,
+          "speaker": "A"
+        },
+        {
+          "text": "that",
+          "start": 52827,
+          "end": 53196,
+          "confidence": 0.9994098,
+          "speaker": "A"
+        },
+        {
+          "text": "some",
+          "start": 53324,
+          "end": 53741,
+          "confidence": 0.9994735,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 53869,
+          "end": 54045,
+          "confidence": 0.9999324,
+          "speaker": "A"
+        },
+        {
+          "text": "Riemann's",
+          "start": 54045,
+          "end": 54526,
+          "confidence": 0.99991554,
+          "speaker": "A"
+        },
+        {
+          "text": "most",
+          "start": 54670,
+          "end": 55071,
+          "confidence": 0.99976534,
+          "speaker": "A"
+        },
+        {
+          "text": "famous",
+          "start": 55071,
+          "end": 55439,
+          "confidence": 0.9996823,
+          "speaker": "A"
+        },
+        {
+          "text": "and",
+          "start": 56354,
+          "end": 56418,
+          "confidence": 0.95743203,
+          "speaker": "A"
+        },
+        {
+          "text": "influential",
+          "start": 56835,
+          "end": 57558,
+          "confidence": 0.9994555,
+          "speaker": "A"
+        },
+        {
+          "text": "papers",
+          "start": 57558,
+          "end": 58007,
+          "confidence": 0.9994816,
+          "speaker": "A"
+        },
+        {
+          "text": "were",
+          "start": 58682,
+          "end": 58922,
+          "confidence": 0.9905986,
+          "speaker": "A"
+        },
+        {
+          "text": "first",
+          "start": 59083,
+          "end": 59693,
+          "confidence": 0.99857926,
+          "speaker": "A"
+        },
+        {
+          "text": "published",
+          "start": 59886,
+          "end": 60576,
+          "confidence": 0.99995875,
+          "speaker": "A"
+        },
+        {
+          "text": "immediately",
+          "start": 60785,
+          "end": 61491,
+          "confidence": 0.9998191,
+          "speaker": "A"
+        },
+        {
+          "text": "after",
+          "start": 61635,
+          "end": 61892,
+          "confidence": 0.99998343,
+          "speaker": "A"
+        },
+        {
+          "text": "his",
+          "start": 62438,
+          "end": 62502,
+          "confidence": 0.9984957,
+          "speaker": "A"
+        },
+        {
+          "text": "demise.",
+          "start": 62615,
+          "end": 63064,
+          "confidence": 0.9982415,
+          "speaker": "A"
+        },
+        {
+          "text": "Had",
+          "start": 64445,
+          "end": 64686,
+          "confidence": 0.9996704,
+          "speaker": "A"
+        },
+        {
+          "text": "he",
+          "start": 64686,
+          "end": 64846,
+          "confidence": 0.9997662,
+          "speaker": "A"
+        },
+        {
+          "text": "lived,",
+          "start": 64862,
+          "end": 65312,
+          "confidence": 0.99979776,
+          "speaker": "A"
+        },
+        {
+          "text": "there",
+          "start": 66211,
+          "end": 66339,
+          "confidence": 0.9999478,
+          "speaker": "A"
+        },
+        {
+          "text": "is",
+          "start": 66387,
+          "end": 66467,
+          "confidence": 0.99861777,
+          "speaker": "A"
+        },
+        {
+          "text": "good",
+          "start": 66548,
+          "end": 66773,
+          "confidence": 0.98105556,
+          "speaker": "A"
+        },
+        {
+          "text": "reason",
+          "start": 66773,
+          "end": 67110,
+          "confidence": 0.999987,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 67110,
+          "end": 67270,
+          "confidence": 0.99999535,
+          "speaker": "A"
+        },
+        {
+          "text": "believe",
+          "start": 67270,
+          "end": 67912,
+          "confidence": 0.9999865,
+          "speaker": "A"
+        },
+        {
+          "text": "those",
+          "start": 67912,
+          "end": 68121,
+          "confidence": 0.9872732,
+          "speaker": "A"
+        },
+        {
+          "text": "works",
+          "start": 68378,
+          "end": 68827,
+          "confidence": 0.999861,
+          "speaker": "A"
+        },
+        {
+          "text": "might",
+          "start": 69277,
+          "end": 69662,
+          "confidence": 0.9998242,
+          "speaker": "A"
+        },
+        {
+          "text": "never",
+          "start": 69662,
+          "end": 69967,
+          "confidence": 0.998776,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 69999,
+          "end": 70128,
+          "confidence": 0.999948,
+          "speaker": "A"
+        },
+        {
+          "text": "surfaced,",
+          "start": 70497,
+          "end": 71284,
+          "confidence": 0.89126813,
+          "speaker": "A"
+        },
+        {
+          "text": "surfaced",
+          "start": 71861,
+          "end": 72568,
+          "confidence": 0.998992,
+          "speaker": "A"
+        },
+        {
+          "text": "at",
+          "start": 72568,
+          "end": 72825,
+          "confidence": 0.9996183,
+          "speaker": "A"
+        },
+        {
+          "text": "all.",
+          "start": 72873,
+          "end": 73033,
+          "confidence": 0.9638954,
+          "speaker": "A"
+        },
+        {
+          "text": "Just",
+          "start": 74157,
+          "end": 74478,
+          "confidence": 0.9996611,
+          "speaker": "A"
+        },
+        {
+          "text": "imagine",
+          "start": 74478,
+          "end": 75008,
+          "confidence": 0.9999671,
+          "speaker": "A"
+        },
+        {
+          "text": "how",
+          "start": 75682,
+          "end": 75859,
+          "confidence": 0.99950135,
+          "speaker": "A"
+        },
+        {
+          "text": "diminished",
+          "start": 76180,
+          "end": 76838,
+          "confidence": 0.9996784,
+          "speaker": "A"
+        },
+        {
+          "text": "Riemann's",
+          "start": 77368,
+          "end": 77817,
+          "confidence": 0.9999273,
+          "speaker": "A"
+        },
+        {
+          "text": "fame",
+          "start": 77849,
+          "end": 78235,
+          "confidence": 0.9998203,
+          "speaker": "A"
+        },
+        {
+          "text": "would",
+          "start": 78973,
+          "end": 79070,
+          "confidence": 0.9998975,
+          "speaker": "A"
+        },
+        {
+          "text": "have",
+          "start": 79070,
+          "end": 79198,
+          "confidence": 0.99973065,
+          "speaker": "A"
+        },
+        {
+          "text": "been",
+          "start": 79310,
+          "end": 79519,
+          "confidence": 0.999915,
+          "speaker": "A"
+        },
+        {
+          "text": "if",
+          "start": 79615,
+          "end": 79728,
+          "confidence": 0.98296124,
+          "speaker": "A"
+        },
+        {
+          "text": "mathematicians",
+          "start": 79808,
+          "end": 80691,
+          "confidence": 0.9999812,
+          "speaker": "A"
+        },
+        {
+          "text": "today",
+          "start": 80755,
+          "end": 81237,
+          "confidence": 0.99978584,
+          "speaker": "A"
+        },
+        {
+          "text": "had",
+          "start": 81542,
+          "end": 81686,
+          "confidence": 0.99958545,
+          "speaker": "A"
+        },
+        {
+          "text": "never",
+          "start": 81799,
+          "end": 82023,
+          "confidence": 0.9999331,
+          "speaker": "A"
+        },
+        {
+          "text": "heard",
+          "start": 82039,
+          "end": 82361,
+          "confidence": 0.9997689,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 82361,
+          "end": 82569,
+          "confidence": 0.9921423,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 82747,
+          "end": 82844,
+          "confidence": 0.4308428,
+          "speaker": "A"
+        },
+        {
+          "text": "Riemann",
+          "start": 82844,
+          "end": 83783,
+          "confidence": 0.99986833,
+          "speaker": "A"
+        },
+        {
+          "text": "integral",
+          "start": 83880,
+          "end": 84269,
+          "confidence": 0.87486744,
+          "speaker": "A"
+        },
+        {
+          "text": "or",
+          "start": 84771,
+          "end": 84868,
+          "confidence": 0.9513715,
+          "speaker": "A"
+        },
+        {
+          "text": "Riemannian",
+          "start": 84868,
+          "end": 85564,
+          "confidence": 0.9998505,
+          "speaker": "A"
+        },
+        {
+          "text": "manifolds.",
+          "start": 86163,
+          "end": 86940,
+          "confidence": 0.99780244,
+          "speaker": "A"
+        },
+        {
+          "text": "This",
+          "start": 87944,
+          "end": 88074,
+          "confidence": 0.99980885,
+          "speaker": "A"
+        },
+        {
+          "text": "book",
+          "start": 88268,
+          "end": 88527,
+          "confidence": 0.9997851,
+          "speaker": "A"
+        },
+        {
+          "text": "attempts",
+          "start": 88527,
+          "end": 89434,
+          "confidence": 0.9982218,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 89483,
+          "end": 89709,
+          "confidence": 0.9999782,
+          "speaker": "A"
+        },
+        {
+          "text": "lift",
+          "start": 89709,
+          "end": 90130,
+          "confidence": 0.9999217,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 90130,
+          "end": 90325,
+          "confidence": 0.99971634,
+          "speaker": "A"
+        },
+        {
+          "text": "veil—",
+          "start": 91487,
+          "end": 91584,
+          "confidence": 0.80656034,
+          "speaker": "A"
+        },
+        {
+          "text": "unveil,",
+          "start": 91584,
+          "end": 92130,
+          "confidence": 0.8975236,
+          "speaker": "A"
+        },
+        {
+          "text": "unveil,",
+          "start": 92307,
+          "end": 92805,
+          "confidence": 0.9811136,
+          "speaker": "A"
+        },
+        {
+          "text": "unveil,",
+          "start": 93673,
+          "end": 94155,
+          "confidence": 0.9432756,
+          "speaker": "A"
+        },
+        {
+          "text": "unveil—",
+          "start": 94316,
+          "end": 94830,
+          "confidence": 0.9962498,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 95746,
+          "end": 95859,
+          "confidence": 0.9981831,
+          "speaker": "A"
+        },
+        {
+          "text": "lift",
+          "start": 95859,
+          "end": 96084,
+          "confidence": 0.9999373,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 96084,
+          "end": 96116,
+          "confidence": 0.9996283,
+          "speaker": "A"
+        },
+        {
+          "text": "veil",
+          "start": 96245,
+          "end": 96614,
+          "confidence": 0.9999597,
+          "speaker": "A"
+        },
+        {
+          "text": "on",
+          "start": 98655,
+          "end": 98752,
+          "confidence": 0.99759007,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 98752,
+          "end": 98961,
+          "confidence": 0.99993396,
+          "speaker": "A"
+        },
+        {
+          "text": "life",
+          "start": 98961,
+          "end": 99346,
+          "confidence": 0.9999583,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 99844,
+          "end": 99989,
+          "confidence": 0.99997413,
+          "speaker": "A"
+        },
+        {
+          "text": "this",
+          "start": 100070,
+          "end": 100247,
+          "confidence": 0.99970007,
+          "speaker": "A"
+        },
+        {
+          "text": "brilliant",
+          "start": 100263,
+          "end": 101039,
+          "confidence": 0.9999672,
+          "speaker": "A"
+        },
+        {
+          "text": "but",
+          "start": 101476,
+          "end": 101815,
+          "confidence": 0.99573493,
+          "speaker": "A"
+        },
+        {
+          "text": "mysterious",
+          "start": 102267,
+          "end": 102962,
+          "confidence": 0.9999629,
+          "speaker": "A"
+        },
+        {
+          "text": "figure.",
+          "start": 103173,
+          "end": 103560,
+          "confidence": 0.99966854,
+          "speaker": "A"
+        },
+        {
+          "text": "A",
+          "start": 105112,
+          "end": 105193,
+          "confidence": 0.9995969,
+          "speaker": "A"
+        },
+        {
+          "text": "great",
+          "start": 105193,
+          "end": 105516,
+          "confidence": 0.9999453,
+          "speaker": "A"
+        },
+        {
+          "text": "deal",
+          "start": 105742,
+          "end": 105888,
+          "confidence": 0.9998863,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 106179,
+          "end": 106292,
+          "confidence": 0.9999225,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 106405,
+          "end": 106470,
+          "confidence": 0.9991897,
+          "speaker": "A"
+        },
+        {
+          "text": "mystery",
+          "start": 106470,
+          "end": 107067,
+          "confidence": 0.99968326,
+          "speaker": "A"
+        },
+        {
+          "text": "will",
+          "start": 107698,
+          "end": 107956,
+          "confidence": 0.9966108,
+          "speaker": "A"
+        },
+        {
+          "text": "inevitably",
+          "start": 108553,
+          "end": 109441,
+          "confidence": 0.8663946,
+          "speaker": "A"
+        },
+        {
+          "text": "remain,",
+          "start": 109441,
+          "end": 109893,
+          "confidence": 0.8148114,
+          "speaker": "A"
+        },
+        {
+          "text": "however,",
+          "start": 110313,
+          "end": 110910,
+          "confidence": 0.99733686,
+          "speaker": "A"
+        },
+        {
+          "text": "as",
+          "start": 111701,
+          "end": 111749,
+          "confidence": 0.99362755,
+          "speaker": "A"
+        },
+        {
+          "text": "Riemann",
+          "start": 111927,
+          "end": 112217,
+          "confidence": 0.99986047,
+          "speaker": "A"
+        },
+        {
+          "text": "was",
+          "start": 112895,
+          "end": 113121,
+          "confidence": 0.9983584,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 113154,
+          "end": 113202,
+          "confidence": 0.9994894,
+          "speaker": "A"
+        },
+        {
+          "text": "elusive",
+          "start": 113331,
+          "end": 113928,
+          "confidence": 0.99979097,
+          "speaker": "A"
+        },
+        {
+          "text": "personality",
+          "start": 115091,
+          "end": 115898,
+          "confidence": 0.99909806,
+          "speaker": "A"
+        },
+        {
+          "text": "even",
+          "start": 116285,
+          "end": 116511,
+          "confidence": 0.864383,
+          "speaker": "A"
+        },
+        {
+          "text": "for",
+          "start": 116689,
+          "end": 116818,
+          "confidence": 0.99956304,
+          "speaker": "A"
+        },
+        {
+          "text": "those",
+          "start": 116931,
+          "end": 117237,
+          "confidence": 0.9999695,
+          "speaker": "A"
+        },
+        {
+          "text": "who",
+          "start": 117899,
+          "end": 117996,
+          "confidence": 0.9998714,
+          "speaker": "A"
+        },
+        {
+          "text": "knew",
+          "start": 117996,
+          "end": 118190,
+          "confidence": 0.99994004,
+          "speaker": "A"
+        },
+        {
+          "text": "him",
+          "start": 118545,
+          "end": 118771,
+          "confidence": 0.9999361,
+          "speaker": "A"
+        },
+        {
+          "text": "best.",
+          "start": 119110,
+          "end": 119594,
+          "confidence": 0.9865618,
+          "speaker": "A"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.98244935,
+  "audio_duration": 121,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": true,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": 0.9821,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1459062,
+  "token_id": 1471794
+}
