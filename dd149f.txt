@@ -1,0 +1,96 @@
+at149f11c5 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at149f14bb db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at149f14ca db https://web.arbeitsagentur.de/sgb2vaem/vaem-ui/pd/nachreichen/437007f8-4e94-4bc1-8ba3-d063e12774b1/anlage/54894d69-2508-47c8-b358-097d256c2ebc/vm/v7-download-center#div-nachweis
+at149f1504 db VAEM
+at149f15f5 db https://www.arbeitsagentur.de/vor-ort/it-systemhaus/themen
+at149f16bf db Ich
+at149f16c5 db IchWill
+at149f16ca db IchWillSpass
+at149f16da db cat dd149f.txt
+at149f16ef db cat dd149e.txt
+at149f171c db sn 69824fc99c2cab689998ab764d61e0199005993000ad57db51e77e923e6b5614 1cf1 dd149e.txt
+at149f1721 db sn f9f369d4830001be55890276332b11622c866a749bddc52ef73e073ae18478a8 217 dd149d.txt
+at149f1724 db sn d2922d6153d2197689690d0d395c99aa095ef323feb263a78644801b3d79a7e8 8b9 dd149c.txt
+at149f1728 db sn 36d6c72f3b189dddacdd5d48fb22ed626ff110404975494fb9d1d1304a2e793d 831 dd149b.txt
+at149f2744 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at149f274b db https://github.com/wasserfuhr/1/blob/main/Kk526.m4a
+at149f2753 db in depth
+at149f2760 db in depth analysis of https://github.com/wasserfuhr/1/blob/main/Kk526.m4a
+at149f2771
+at149f2773 db lets try to start an in depth analysis of https://github.com/wasserfuhr/1/blob/main/Kk526.m4a
+at149f295b db deute
+at149f2982 db deute v7784
+at149f29e7 db kannst Du audiodateien deuten?
+at149f2bff db stt pls
+at149f2dd8 db https://github.com/wasserfuhr/1/raw/refs/heads/main/Kk526.m4a
+at149f3030 db https://chatgpt.com/share/6aa7da16-4ee4-83ed-b323-506bfc57eff6
+at149f318a db https://gist.github.com/wasserfuhr/4b1a630a02a6adf4045f8c0755ffb667
+at149f319d db https://de.wikipedia.org/wiki/David_E._Rowe
+at149f31af db https://de.wikipedia.org/wiki/Rowe
+at149f31c4 db https://gist.github.com/wasserfuhr/4b1a630a02a6adf4045f8c0755ffb667
+at149f33d8 db https://github.com/wasserfuhr/1/blob/main/dd149e.txt
+at149f3534 db whoam i?
+at149f3539 db who am i?
+at149f3647 db more ah147e5.txu
+at149f3651 db ls ..u
+at149f3656 db more ah147e5.txu
+at149f36a6 db https://github.com/wasserfuhr/1/blob/main/ah147e5.txu
+at149f37fb db ls -l db
+at149f3807 db https://github.com/wasserfuhr/1/blob/main/db
+at149f3984 db https://github.com/wasserfuhr/1/blob/main/ah147e5.txu
+at149f39a3 db at0
+at149f39b6 db think hard about at0
+at149f39bf db https://github.com/wasserfuhr/1/blob/main/ah147e5.txu
+at149f423c db 12043
+at149f425a db DonauCai
+at149f9308 db https://jungle.world/artikel/2026/37/ostwind-change
+at149f9318 db ab md09q6
+at149f931b db ab md0916
+at149f931f db md0916
+at149f9327 db md0916 IbbRayk
+at149f94f5 db my prompts are always
+at149f9518 db my prompts are always surrounded by timestam9
+at149f951e db my prompts are always surrounded by timestamp from
+at149f9528 db https://github.com/wasserfuhr/1/blob/main/db
+at149f9535 db my prompts are always surrounded by timestamp from https://github.com/wasserfuhr/1/blob/main/db
+at149f956b
+at149f9576 db my prompts are always surrounded by timestamp from https://github.com/wasserfuhr/1/blob/main/db - pls limit your reply to pure AscIi
+at149f95f6 db 520
+at149f95fd db https://github.com/wasserfuhr/1/blob/main/dd149e.txt
+at149f9603 db deute https://github.com/wasserfuhr/1/blob/main/dd149e.txt
+at149f975f db deute https://gist.github.com/wasserfuhr/4b1a630a02a6adf4045f8c0755ffb667
+at149f98db db beware of how ALBAN is using 4 or more frontier models for his work- i want a similar setup for my work
+at149f9910 db tje qx
+at149f9915 db the qx
+at149f9940 db the qx acrobatics is funadmental to root anything in WikiData
+at149f9aac db deur
+at149f9aae db deute
+at149f9ab3 db deute https://chatgpt.com/share/6aa7da16-4ee4-83ed-b323-506bfc57eff6
+at149f9bda db deite
+at149f9bdd db deute
+at149f9be1 db deute https://gist.github.com/wasserfuhr/d14d7a1f2dd49e558eac422e514350e2
+at149f9d3c db deute https://github.com/wasserfuhr/1/blob/main/Kk526.m4a
+at149f9e02 db https://github.com/wasserfuhr/1/blob/main/ah149f2.txt
+at149f9e9c
+at149f9e9d db btw nice idea with koechel- im
+at149f9eac db btw nice idea with koechel- im deep into wab109
+at149f9f0f db i sst in the KoenogsLoge
+at149f9f14 db i sst in the KoenigsLoge
+at149f9f20 db i sst in the KoenigsLoge with gatti on md0213
+at149f9f27 db i sat in the KoenigsLoge with gatti on md0213
+at149f9f3d db i sat in the KoenigsLoge with gatti on md0213- fun fact- talked
+at149f9f46 db i sat in the KoenigsLoge with gatti on md0213- fun fact- talked to muenkle4
+at149f9f4d db i sat in the KoenigsLoge with gatti on md0213- fun fact- talked to muenkler afterwards
+at149f9f66 db i sat in the KoenigsLoge with gatti on md0213- fun fact- ran into muenkler afterwards
+at149fa028 db your wrong with the place
+at149fc02e db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at149ff067 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at149ff06e db grep Beach d..
+at149ff075 db https://github.com/wasserfuhr/1/raw/refs/heads/main/Kk070.m4a
+at149ff11e db nano ah149ff.txu
+at149ff6b0 db sn dcf1a0f96b66d9d9f02bc86527642a9299de9d6f51af1c2e2f783316f6f67a79 200b ah14a00.txu
+at149ff6b7 db sn 65e12d652d597f1588b4d67c758fd3933fa0270c16a8af1a4e24205ae470a089 68e81 ah149ff.txu
+at149ff6bc db sn 79b8d9f2ba65f48f0738db6a08c0f939f25a0596fed73c5bd93ad27db8fc4fa8 d832 ah149f2.txt
+at149ff6c6 db sn 09708a79390ce64c2f33853d04d5ead150cdfc483c4cacc2e9e95ea5afd3c4f1 2e2a ah149e6.txu
+at149ff6cd db sn 58c34ac700b6c1d74324aee12ed64295bb814bf563f1aca4d448fea025444a5a 6eaf ah147e5.txu.txt
+at149ff6d6 db sn 58c34ac700b6c1d74324aee12ed64295bb814bf563f1aca4d448fea025444a5a 6eaf ah147e5.txu
