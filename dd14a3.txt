@@ -1,0 +1,26 @@
+at14a33627 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14a33647 db sn c76b1c241bd0c05f6a2397bf0ce9324af5035fb17ba4e7aaaa2e344bff464644 7e dd14a2.txt
+at14a33650 db sn 3c72813a80e9f081a564ba99ae35dbd4ac41f9ce714239698cd267521be31eab 318 dd14a1.txt
+at14a33654 db sn 2575c217de84a8207f70219bcb47ceffd15b5399f40e7ab85cd150d279bea764 4ba dd14a0.txt
+at14a33659 db sn 0a0e054feac2c9ef535304db55063fc40721f7ecb0b1af2862169c59217ed342 15a2 dd149f.txt
+at14a336c5 db my l
+at14a336ce db my tweets and
+at14a336da db deute my tweets and
+at14a336f5 db grep stam dd149..
+at14a3370c db dd149f.txt:at149f9576 db my prompts are always surrounded by timestamp from https://github.com/wasserfuhr/1/blob/main/db - pls limit your reply to pure AscIi
+at14a33715 db at149f9576 db my prompts are always surrounded by timestamp from https://github.com/wasserfuhr/1/blob/main/db - pls limit your reply to pure AscIi
+at14a3371e db my prompts are always surrounded by timestamp from https://github.com/wasserfuhr/1/blob/main/db - pls limit your reply to pure AscIi
+at14a33814 db deute my tweets and
+at14a33837 db deute my recent tweets
+at14a3392d db map my SocialGraph
+at14a35dd5 db https://www.tagesschau.de/wissen/technologie/ki-risiken-forscher-100.html
+at14a3640c db https://www.facebook.com/share/v/1UuiAvG9gw/
+at14a36414 db https://www.facebook.com/share/v/1UuiAvG9gw/ Wander
+at14a3641b db https://www.facebook.com/share/v/1UuiAvG9gw/ WanderMaler
+at14a36421 db WanderMaler
+at14a36426 db WanderMaler.de
+at14a3642a db Wandermaler.de
+at14a36431 db wandermaler.de
+at14a36437 db wandermaler
+at14a3643c db de.wandermaler
+at14a36443 db 1:.de.wandermaler
