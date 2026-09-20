@@ -1,0 +1,4884 @@
+{
+  "id": "aecd9a49-0cb9-47be-a453-fe441ab54832",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "es",
+  "speech_understanding": {
+    "request": {
+      "speaker_identification": {
+        "speaker_type": "name",
+        "known_values": []
+      }
+    },
+    "response": {
+      "speaker_identification": {
+        "status": "success",
+        "mapping": {
+          "A": "A",
+          "B": "B",
+          "C": "C"
+        },
+        "effort": "low"
+      }
+    }
+  },
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://github.com/wasserfuhr/1/raw/refs/heads/main/Kk717.m4a",
+  "text": "Sí, ubicado. Estoy tratando de aprender tu idioma. Nadie está respondiendo en inglés. Bueno, a nosotros nos favorece eso cuando hablamos en inglés, no responden en inglés, sino responden en alemán. Yo hacía un gran esfuerzo pidiendo algo en alemán y me respondían en inglés. Era como— Lo entiendo. Ojitis en México. Yo le digo, se empieza a hablar de español y como pasa en los colegios, igual no como los alemanes. Yo siempre le digo, no subestimes a la gente porque no sé si sabe el español. Hay que tener cuidado con lo que uno habla. How old are you? Está muy de moda el español, pero mucha gente quiere aprenderlo. Y también mucha gente hispanohablante va, sobre todo acá en Berlín, mucho hispanohablante, que la relación con la misma gente de acá terminan curioseando el idioma o aprendiéndolo de forma indirecta. Que tienen una facilidad para aprenderlo. No, el español gramaticalmente es muy fácil. ¿Sí? Yo no sé, entre que ser todos tipos de roles. Creo que el inglés es más fácil. Para mí es fácil porque hablo español. Solo tener un grupo que pueda hablar conmigo mucho más rápido que un español, porque tenemos menos errores semanales. Ah, sí, comparado con el alemán. No, por ahí a veces tenemos muchas palabras en alemán que suenan muy naturales o con mucho... ¿Qué mejor es clase? ¿Táctica clase? Mucha lógica, sí. Pero, ¿en qué sentido? Forma muchas palabras en alemán usando Una vez no lo toqué y sí era. Ah, sí. Ah, acá tenemos que trabajar nosotros. Nos traba hay que tocarle así. ¿Qué pasó? ¿Qué pasó? ¿Qué pasó? Una vez no lo toqué y sí. Claro, porque por lo general para porque siempre hay gente esperando o alguien se baja, pero si no lo tocas, sí. Y de noche, porque no hay nadie. Ya, ya, ya apareció acá. Así que ya casi más, ¿estamos? Estamos. 23 Uhr 50, Bro. 6:50 Uhr, Lang ES Plus, ein Jack Daniel's. Ciao!",
+  "words": [
+    {
+      "text": "Sí,",
+      "start": 112,
+      "end": 225,
+      "confidence": 0.6611814,
+      "speaker": "A"
+    },
+    {
+      "text": "ubicado.",
+      "start": 516,
+      "end": 1114,
+      "confidence": 0.7322461,
+      "speaker": "A"
+    },
+    {
+      "text": "Estoy",
+      "start": 1244,
+      "end": 1373,
+      "confidence": 0.70836383,
+      "speaker": "A"
+    },
+    {
+      "text": "tratando",
+      "start": 1373,
+      "end": 2521,
+      "confidence": 0.99150693,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 2602,
+      "end": 2715,
+      "confidence": 0.9969478,
+      "speaker": "A"
+    },
+    {
+      "text": "aprender",
+      "start": 2941,
+      "end": 3475,
+      "confidence": 0.6902075,
+      "speaker": "A"
+    },
+    {
+      "text": "tu",
+      "start": 3491,
+      "end": 3669,
+      "confidence": 0.58529913,
+      "speaker": "A"
+    },
+    {
+      "text": "idioma.",
+      "start": 3669,
+      "end": 4024,
+      "confidence": 0.72763705,
+      "speaker": "A"
+    },
+    {
+      "text": "Nadie",
+      "start": 4218,
+      "end": 4315,
+      "confidence": 0.7650668,
+      "speaker": "A"
+    },
+    {
+      "text": "está",
+      "start": 4315,
+      "end": 4542,
+      "confidence": 0.8851712,
+      "speaker": "A"
+    },
+    {
+      "text": "respondiendo",
+      "start": 4542,
+      "end": 4978,
+      "confidence": 0.99960476,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 4978,
+      "end": 5043,
+      "confidence": 0.9932467,
+      "speaker": "A"
+    },
+    {
+      "text": "inglés.",
+      "start": 5043,
+      "end": 5318,
+      "confidence": 0.9997773,
+      "speaker": "A"
+    },
+    {
+      "text": "Bueno,",
+      "start": 5431,
+      "end": 5883,
+      "confidence": 0.9993679,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 6093,
+      "end": 6271,
+      "confidence": 0.66218215,
+      "speaker": "A"
+    },
+    {
+      "text": "nosotros",
+      "start": 6320,
+      "end": 6659,
+      "confidence": 0.9978356,
+      "speaker": "A"
+    },
+    {
+      "text": "nos",
+      "start": 6676,
+      "end": 6805,
+      "confidence": 0.99977463,
+      "speaker": "A"
+    },
+    {
+      "text": "favorece",
+      "start": 6805,
+      "end": 7274,
+      "confidence": 0.9989331,
+      "speaker": "A"
+    },
+    {
+      "text": "eso",
+      "start": 7274,
+      "end": 7354,
+      "confidence": 0.78548366,
+      "speaker": "A"
+    },
+    {
+      "text": "cuando",
+      "start": 7354,
+      "end": 7516,
+      "confidence": 0.833347,
+      "speaker": "A"
+    },
+    {
+      "text": "hablamos",
+      "start": 7516,
+      "end": 7840,
+      "confidence": 0.99993104,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 7840,
+      "end": 7872,
+      "confidence": 0.9993399,
+      "speaker": "A"
+    },
+    {
+      "text": "inglés,",
+      "start": 7872,
+      "end": 8227,
+      "confidence": 0.93856215,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 8259,
+      "end": 8292,
+      "confidence": 0.77362764,
+      "speaker": "A"
+    },
+    {
+      "text": "responden",
+      "start": 8292,
+      "end": 8841,
+      "confidence": 0.7053738,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 8841,
+      "end": 8922,
+      "confidence": 0.9928141,
+      "speaker": "A"
+    },
+    {
+      "text": "inglés,",
+      "start": 8922,
+      "end": 9115,
+      "confidence": 0.85899496,
+      "speaker": "A"
+    },
+    {
+      "text": "sino",
+      "start": 9148,
+      "end": 9261,
+      "confidence": 0.55136913,
+      "speaker": "A"
+    },
+    {
+      "text": "responden",
+      "start": 9261,
+      "end": 9648,
+      "confidence": 0.9980173,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 9648,
+      "end": 9745,
+      "confidence": 0.99948776,
+      "speaker": "A"
+    },
+    {
+      "text": "alemán.",
+      "start": 9745,
+      "end": 10084,
+      "confidence": 0.99918914,
+      "speaker": "A"
+    },
+    {
+      "text": "Yo",
+      "start": 10197,
+      "end": 10262,
+      "confidence": 0.99107426,
+      "speaker": "A"
+    },
+    {
+      "text": "hacía",
+      "start": 10262,
+      "end": 10504,
+      "confidence": 0.99867684,
+      "speaker": "A"
+    },
+    {
+      "text": "un",
+      "start": 10504,
+      "end": 10601,
+      "confidence": 0.9999387,
+      "speaker": "A"
+    },
+    {
+      "text": "gran",
+      "start": 10601,
+      "end": 10779,
+      "confidence": 0.99997985,
+      "speaker": "A"
+    },
+    {
+      "text": "esfuerzo",
+      "start": 10779,
+      "end": 11166,
+      "confidence": 0.9999967,
+      "speaker": "A"
+    },
+    {
+      "text": "pidiendo",
+      "start": 11166,
+      "end": 11732,
+      "confidence": 0.9993289,
+      "speaker": "A"
+    },
+    {
+      "text": "algo",
+      "start": 11764,
+      "end": 12039,
+      "confidence": 0.9995333,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 12039,
+      "end": 12152,
+      "confidence": 0.9996679,
+      "speaker": "A"
+    },
+    {
+      "text": "alemán",
+      "start": 12152,
+      "end": 12555,
+      "confidence": 0.99769074,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 12555,
+      "end": 12620,
+      "confidence": 0.9996879,
+      "speaker": "A"
+    },
+    {
+      "text": "me",
+      "start": 12620,
+      "end": 12733,
+      "confidence": 0.9999552,
+      "speaker": "A"
+    },
+    {
+      "text": "respondían",
+      "start": 12733,
+      "end": 13201,
+      "confidence": 0.9998947,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 13201,
+      "end": 13282,
+      "confidence": 0.99997306,
+      "speaker": "A"
+    },
+    {
+      "text": "inglés.",
+      "start": 13282,
+      "end": 13476,
+      "confidence": 0.812211,
+      "speaker": "A"
+    },
+    {
+      "text": "Era",
+      "start": 13573,
+      "end": 13702,
+      "confidence": 0.9326623,
+      "speaker": "A"
+    },
+    {
+      "text": "como—",
+      "start": 13702,
+      "end": 13912,
+      "confidence": 0.8702061,
+      "speaker": "A"
+    },
+    {
+      "text": "Lo",
+      "start": 31970,
+      "end": 32002,
+      "confidence": 0.45543963,
+      "speaker": "B"
+    },
+    {
+      "text": "entiendo.",
+      "start": 32002,
+      "end": 36216,
+      "confidence": 0.9865487,
+      "speaker": "B"
+    },
+    {
+      "text": "Ojitis",
+      "start": 36506,
+      "end": 37712,
+      "confidence": 0.89149433,
+      "speaker": "B"
+    },
+    {
+      "text": "en",
+      "start": 37712,
+      "end": 37873,
+      "confidence": 0.75567746,
+      "speaker": "B"
+    },
+    {
+      "text": "México.",
+      "start": 37937,
+      "end": 38870,
+      "confidence": 0.91110957,
+      "speaker": "B"
+    },
+    {
+      "text": "Yo",
+      "start": 39964,
+      "end": 40833,
+      "confidence": 0.8218483,
+      "speaker": "A"
+    },
+    {
+      "text": "le",
+      "start": 40833,
+      "end": 40993,
+      "confidence": 0.9147299,
+      "speaker": "A"
+    },
+    {
+      "text": "digo,",
+      "start": 40993,
+      "end": 41283,
+      "confidence": 0.9768996,
+      "speaker": "A"
+    },
+    {
+      "text": "se",
+      "start": 41380,
+      "end": 41428,
+      "confidence": 0.21071106,
+      "speaker": "A"
+    },
+    {
+      "text": "empieza",
+      "start": 41428,
+      "end": 42060,
+      "confidence": 0.99190986,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 42060,
+      "end": 42093,
+      "confidence": 0.9998167,
+      "speaker": "A"
+    },
+    {
+      "text": "hablar",
+      "start": 42141,
+      "end": 42579,
+      "confidence": 0.99935204,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 42612,
+      "end": 42855,
+      "confidence": 0.34849745,
+      "speaker": "A"
+    },
+    {
+      "text": "español",
+      "start": 43033,
+      "end": 44054,
+      "confidence": 0.696519,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 44054,
+      "end": 44070,
+      "confidence": 0.9881542,
+      "speaker": "A"
+    },
+    {
+      "text": "como",
+      "start": 44070,
+      "end": 44378,
+      "confidence": 0.900227,
+      "speaker": "A"
+    },
+    {
+      "text": "pasa",
+      "start": 44378,
+      "end": 44800,
+      "confidence": 0.64088464,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 44816,
+      "end": 45059,
+      "confidence": 0.58046234,
+      "speaker": "A"
+    },
+    {
+      "text": "los",
+      "start": 45124,
+      "end": 45367,
+      "confidence": 0.3826352,
+      "speaker": "A"
+    },
+    {
+      "text": "colegios,",
+      "start": 45367,
+      "end": 45983,
+      "confidence": 0.6060876,
+      "speaker": "A"
+    },
+    {
+      "text": "igual",
+      "start": 46032,
+      "end": 46356,
+      "confidence": 0.44168055,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 46421,
+      "end": 46583,
+      "confidence": 0.68940306,
+      "speaker": "A"
+    },
+    {
+      "text": "como",
+      "start": 46583,
+      "end": 46826,
+      "confidence": 0.70287114,
+      "speaker": "A"
+    },
+    {
+      "text": "los",
+      "start": 46826,
+      "end": 47005,
+      "confidence": 0.99544626,
+      "speaker": "A"
+    },
+    {
+      "text": "alemanes.",
+      "start": 47005,
+      "end": 47280,
+      "confidence": 0.9975548,
+      "speaker": "A"
+    },
+    {
+      "text": "Yo",
+      "start": 49701,
+      "end": 49782,
+      "confidence": 0.53768045,
+      "speaker": "A"
+    },
+    {
+      "text": "siempre",
+      "start": 50025,
+      "end": 50785,
+      "confidence": 0.96205765,
+      "speaker": "A"
+    },
+    {
+      "text": "le",
+      "start": 50833,
+      "end": 50914,
+      "confidence": 0.9995029,
+      "speaker": "A"
+    },
+    {
+      "text": "digo,",
+      "start": 50914,
+      "end": 51447,
+      "confidence": 0.99332947,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 51480,
+      "end": 51561,
+      "confidence": 0.98682076,
+      "speaker": "A"
+    },
+    {
+      "text": "subestimes",
+      "start": 51561,
+      "end": 51900,
+      "confidence": 0.9023839,
+      "speaker": "A"
+    },
+    {
+      "text": "a",
+      "start": 51900,
+      "end": 51916,
+      "confidence": 0.7730266,
+      "speaker": "A"
+    },
+    {
+      "text": "la",
+      "start": 51916,
+      "end": 51997,
+      "confidence": 0.9998909,
+      "speaker": "A"
+    },
+    {
+      "text": "gente",
+      "start": 51997,
+      "end": 52288,
+      "confidence": 0.99999785,
+      "speaker": "A"
+    },
+    {
+      "text": "porque",
+      "start": 52369,
+      "end": 53096,
+      "confidence": 0.81162,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 53096,
+      "end": 53177,
+      "confidence": 0.2323843,
+      "speaker": "A"
+    },
+    {
+      "text": "sé",
+      "start": 53177,
+      "end": 53339,
+      "confidence": 0.33291993,
+      "speaker": "A"
+    },
+    {
+      "text": "si",
+      "start": 53339,
+      "end": 53420,
+      "confidence": 0.5077878,
+      "speaker": "A"
+    },
+    {
+      "text": "sabe",
+      "start": 53420,
+      "end": 53598,
+      "confidence": 0.46043935,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 53598,
+      "end": 53678,
+      "confidence": 0.41496333,
+      "speaker": "A"
+    },
+    {
+      "text": "español.",
+      "start": 53678,
+      "end": 55618,
+      "confidence": 0.97871166,
+      "speaker": "A"
+    },
+    {
+      "text": "Hay",
+      "start": 57100,
+      "end": 57116,
+      "confidence": 0.9957004,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 57116,
+      "end": 57150,
+      "confidence": 0.99999416,
+      "speaker": "A"
+    },
+    {
+      "text": "tener",
+      "start": 57150,
+      "end": 57250,
+      "confidence": 0.9999932,
+      "speaker": "A"
+    },
+    {
+      "text": "cuidado",
+      "start": 57250,
+      "end": 57483,
+      "confidence": 0.9999585,
+      "speaker": "A"
+    },
+    {
+      "text": "con",
+      "start": 57483,
+      "end": 57700,
+      "confidence": 0.9977768,
+      "speaker": "A"
+    },
+    {
+      "text": "lo",
+      "start": 57700,
+      "end": 57783,
+      "confidence": 0.9991571,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 57783,
+      "end": 58016,
+      "confidence": 0.999798,
+      "speaker": "A"
+    },
+    {
+      "text": "uno",
+      "start": 58016,
+      "end": 58116,
+      "confidence": 0.99389654,
+      "speaker": "A"
+    },
+    {
+      "text": "habla.",
+      "start": 58133,
+      "end": 58250,
+      "confidence": 0.9969296,
+      "speaker": "A"
+    },
+    {
+      "text": "How",
+      "start": 63800,
+      "end": 64220,
+      "confidence": 0.33918056,
+      "speaker": "B"
+    },
+    {
+      "text": "old",
+      "start": 64220,
+      "end": 64520,
+      "confidence": 0.79020405,
+      "speaker": "B"
+    },
+    {
+      "text": "are",
+      "start": 64520,
+      "end": 64620,
+      "confidence": 0.87900525,
+      "speaker": "B"
+    },
+    {
+      "text": "you?",
+      "start": 64620,
+      "end": 64960,
+      "confidence": 0.722652,
+      "speaker": "B"
+    },
+    {
+      "text": "Está",
+      "start": 64960,
+      "end": 64980,
+      "confidence": 0.87025976,
+      "speaker": "A"
+    },
+    {
+      "text": "muy",
+      "start": 64980,
+      "end": 65380,
+      "confidence": 0.9996958,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 65380,
+      "end": 65580,
+      "confidence": 0.9991879,
+      "speaker": "A"
+    },
+    {
+      "text": "moda",
+      "start": 65580,
+      "end": 65760,
+      "confidence": 0.9999771,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 65760,
+      "end": 65980,
+      "confidence": 0.99671304,
+      "speaker": "A"
+    },
+    {
+      "text": "español,",
+      "start": 65980,
+      "end": 66280,
+      "confidence": 0.7370214,
+      "speaker": "A"
+    },
+    {
+      "text": "pero",
+      "start": 66280,
+      "end": 66820,
+      "confidence": 0.34720692,
+      "speaker": "A"
+    },
+    {
+      "text": "mucha",
+      "start": 66820,
+      "end": 67080,
+      "confidence": 0.9852869,
+      "speaker": "A"
+    },
+    {
+      "text": "gente",
+      "start": 67080,
+      "end": 67240,
+      "confidence": 0.99998605,
+      "speaker": "A"
+    },
+    {
+      "text": "quiere",
+      "start": 67240,
+      "end": 67480,
+      "confidence": 0.9968645,
+      "speaker": "A"
+    },
+    {
+      "text": "aprenderlo.",
+      "start": 67480,
+      "end": 68130,
+      "confidence": 0.9136623,
+      "speaker": "A"
+    },
+    {
+      "text": "Y",
+      "start": 68800,
+      "end": 68820,
+      "confidence": 0.996345,
+      "speaker": "C"
+    },
+    {
+      "text": "también",
+      "start": 68820,
+      "end": 69200,
+      "confidence": 0.99975497,
+      "speaker": "C"
+    },
+    {
+      "text": "mucha",
+      "start": 69200,
+      "end": 69460,
+      "confidence": 0.9988298,
+      "speaker": "C"
+    },
+    {
+      "text": "gente",
+      "start": 69460,
+      "end": 69840,
+      "confidence": 0.9999751,
+      "speaker": "C"
+    },
+    {
+      "text": "hispanohablante",
+      "start": 69840,
+      "end": 70520,
+      "confidence": 0.9872376,
+      "speaker": "C"
+    },
+    {
+      "text": "va,",
+      "start": 70520,
+      "end": 70940,
+      "confidence": 0.748578,
+      "speaker": "C"
+    },
+    {
+      "text": "sobre",
+      "start": 70940,
+      "end": 71180,
+      "confidence": 0.999169,
+      "speaker": "C"
+    },
+    {
+      "text": "todo",
+      "start": 71180,
+      "end": 71300,
+      "confidence": 0.99997103,
+      "speaker": "C"
+    },
+    {
+      "text": "acá",
+      "start": 71300,
+      "end": 71500,
+      "confidence": 0.9995963,
+      "speaker": "C"
+    },
+    {
+      "text": "en",
+      "start": 71500,
+      "end": 71839,
+      "confidence": 0.9993875,
+      "speaker": "C"
+    },
+    {
+      "text": "Berlín,",
+      "start": 71839,
+      "end": 72040,
+      "confidence": 0.9854512,
+      "speaker": "C"
+    },
+    {
+      "text": "mucho",
+      "start": 72040,
+      "end": 72260,
+      "confidence": 0.43458876,
+      "speaker": "C"
+    },
+    {
+      "text": "hispanohablante,",
+      "start": 72260,
+      "end": 73220,
+      "confidence": 0.97511303,
+      "speaker": "C"
+    },
+    {
+      "text": "que",
+      "start": 73430,
+      "end": 74180,
+      "confidence": 0.98147786,
+      "speaker": "C"
+    },
+    {
+      "text": "la",
+      "start": 74180,
+      "end": 74420,
+      "confidence": 0.90231204,
+      "speaker": "C"
+    },
+    {
+      "text": "relación",
+      "start": 74420,
+      "end": 74900,
+      "confidence": 0.97464246,
+      "speaker": "C"
+    },
+    {
+      "text": "con",
+      "start": 74900,
+      "end": 75140,
+      "confidence": 0.9935029,
+      "speaker": "C"
+    },
+    {
+      "text": "la",
+      "start": 75140,
+      "end": 75300,
+      "confidence": 0.972024,
+      "speaker": "C"
+    },
+    {
+      "text": "misma",
+      "start": 75300,
+      "end": 75420,
+      "confidence": 0.9948323,
+      "speaker": "C"
+    },
+    {
+      "text": "gente",
+      "start": 75420,
+      "end": 75720,
+      "confidence": 0.9999844,
+      "speaker": "C"
+    },
+    {
+      "text": "de",
+      "start": 75720,
+      "end": 75840,
+      "confidence": 0.9588621,
+      "speaker": "C"
+    },
+    {
+      "text": "acá",
+      "start": 75840,
+      "end": 76580,
+      "confidence": 0.99483955,
+      "speaker": "C"
+    },
+    {
+      "text": "terminan",
+      "start": 76580,
+      "end": 77330,
+      "confidence": 0.91921735,
+      "speaker": "C"
+    },
+    {
+      "text": "curioseando",
+      "start": 79100,
+      "end": 80100,
+      "confidence": 0.95621127,
+      "speaker": "C"
+    },
+    {
+      "text": "el",
+      "start": 80100,
+      "end": 80300,
+      "confidence": 0.9990907,
+      "speaker": "C"
+    },
+    {
+      "text": "idioma",
+      "start": 80300,
+      "end": 80700,
+      "confidence": 0.99999815,
+      "speaker": "C"
+    },
+    {
+      "text": "o",
+      "start": 80700,
+      "end": 80940,
+      "confidence": 0.9990995,
+      "speaker": "C"
+    },
+    {
+      "text": "aprendiéndolo",
+      "start": 80940,
+      "end": 81500,
+      "confidence": 0.9982452,
+      "speaker": "C"
+    },
+    {
+      "text": "de",
+      "start": 81500,
+      "end": 81680,
+      "confidence": 0.999889,
+      "speaker": "C"
+    },
+    {
+      "text": "forma",
+      "start": 81680,
+      "end": 81920,
+      "confidence": 0.9996377,
+      "speaker": "C"
+    },
+    {
+      "text": "indirecta.",
+      "start": 81920,
+      "end": 82540,
+      "confidence": 0.8964668,
+      "speaker": "C"
+    },
+    {
+      "text": "Que",
+      "start": 82540,
+      "end": 82560,
+      "confidence": 0.6024349,
+      "speaker": "A"
+    },
+    {
+      "text": "tienen",
+      "start": 82560,
+      "end": 82800,
+      "confidence": 0.92643636,
+      "speaker": "A"
+    },
+    {
+      "text": "una",
+      "start": 82800,
+      "end": 82980,
+      "confidence": 0.9607149,
+      "speaker": "A"
+    },
+    {
+      "text": "facilidad",
+      "start": 82980,
+      "end": 83560,
+      "confidence": 0.99989516,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 83560,
+      "end": 83960,
+      "confidence": 0.992241,
+      "speaker": "A"
+    },
+    {
+      "text": "aprenderlo.",
+      "start": 83960,
+      "end": 84960,
+      "confidence": 0.8892782,
+      "speaker": "A"
+    },
+    {
+      "text": "No,",
+      "start": 85100,
+      "end": 85260,
+      "confidence": 0.9987626,
+      "speaker": "B"
+    },
+    {
+      "text": "el",
+      "start": 85260,
+      "end": 85320,
+      "confidence": 0.99837995,
+      "speaker": "B"
+    },
+    {
+      "text": "español",
+      "start": 85320,
+      "end": 85640,
+      "confidence": 0.9999354,
+      "speaker": "B"
+    },
+    {
+      "text": "gramaticalmente",
+      "start": 85640,
+      "end": 86820,
+      "confidence": 0.99987614,
+      "speaker": "B"
+    },
+    {
+      "text": "es",
+      "start": 86820,
+      "end": 86940,
+      "confidence": 0.9880425,
+      "speaker": "B"
+    },
+    {
+      "text": "muy",
+      "start": 86940,
+      "end": 87180,
+      "confidence": 0.9629986,
+      "speaker": "B"
+    },
+    {
+      "text": "fácil.",
+      "start": 87180,
+      "end": 87780,
+      "confidence": 0.9994174,
+      "speaker": "B"
+    },
+    {
+      "text": "¿Sí?",
+      "start": 88520,
+      "end": 90500,
+      "confidence": 0.98545897,
+      "speaker": "B"
+    },
+    {
+      "text": "Yo",
+      "start": 90500,
+      "end": 90740,
+      "confidence": 0.6996078,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 90740,
+      "end": 91020,
+      "confidence": 0.6154079,
+      "speaker": "A"
+    },
+    {
+      "text": "sé,",
+      "start": 91020,
+      "end": 91260,
+      "confidence": 0.9029683,
+      "speaker": "A"
+    },
+    {
+      "text": "entre",
+      "start": 91260,
+      "end": 91260,
+      "confidence": 0.53997713,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 91260,
+      "end": 91380,
+      "confidence": 0.9816651,
+      "speaker": "A"
+    },
+    {
+      "text": "ser",
+      "start": 91380,
+      "end": 91580,
+      "confidence": 0.23712386,
+      "speaker": "A"
+    },
+    {
+      "text": "todos",
+      "start": 91580,
+      "end": 91640,
+      "confidence": 0.30564284,
+      "speaker": "A"
+    },
+    {
+      "text": "tipos",
+      "start": 91640,
+      "end": 92040,
+      "confidence": 0.96881336,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 92040,
+      "end": 92080,
+      "confidence": 0.9482298,
+      "speaker": "A"
+    },
+    {
+      "text": "roles.",
+      "start": 92080,
+      "end": 92300,
+      "confidence": 0.6931735,
+      "speaker": "A"
+    },
+    {
+      "text": "Creo",
+      "start": 92300,
+      "end": 92440,
+      "confidence": 0.99416256,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 92440,
+      "end": 92560,
+      "confidence": 0.99991,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 92560,
+      "end": 92740,
+      "confidence": 0.8729463,
+      "speaker": "A"
+    },
+    {
+      "text": "inglés",
+      "start": 92740,
+      "end": 92800,
+      "confidence": 0.99998504,
+      "speaker": "A"
+    },
+    {
+      "text": "es",
+      "start": 92800,
+      "end": 92920,
+      "confidence": 0.98115015,
+      "speaker": "A"
+    },
+    {
+      "text": "más",
+      "start": 92920,
+      "end": 93120,
+      "confidence": 0.99980384,
+      "speaker": "A"
+    },
+    {
+      "text": "fácil.",
+      "start": 93120,
+      "end": 93470,
+      "confidence": 0.9971665,
+      "speaker": "A"
+    },
+    {
+      "text": "Para",
+      "start": 93720,
+      "end": 93780,
+      "confidence": 0.9992766,
+      "speaker": "B"
+    },
+    {
+      "text": "mí",
+      "start": 93780,
+      "end": 93800,
+      "confidence": 0.99994814,
+      "speaker": "B"
+    },
+    {
+      "text": "es",
+      "start": 93800,
+      "end": 93820,
+      "confidence": 0.9998054,
+      "speaker": "B"
+    },
+    {
+      "text": "fácil",
+      "start": 93820,
+      "end": 93840,
+      "confidence": 0.998892,
+      "speaker": "B"
+    },
+    {
+      "text": "porque",
+      "start": 93840,
+      "end": 93860,
+      "confidence": 0.9501548,
+      "speaker": "B"
+    },
+    {
+      "text": "hablo",
+      "start": 93860,
+      "end": 93880,
+      "confidence": 0.9774276,
+      "speaker": "B"
+    },
+    {
+      "text": "español.",
+      "start": 93880,
+      "end": 93900,
+      "confidence": 0.97358716,
+      "speaker": "B"
+    },
+    {
+      "text": "Solo",
+      "start": 96422,
+      "end": 97004,
+      "confidence": 0.39729002,
+      "speaker": "A"
+    },
+    {
+      "text": "tener",
+      "start": 97053,
+      "end": 97392,
+      "confidence": 0.4380556,
+      "speaker": "A"
+    },
+    {
+      "text": "un",
+      "start": 97392,
+      "end": 97457,
+      "confidence": 0.44726896,
+      "speaker": "A"
+    },
+    {
+      "text": "grupo",
+      "start": 97457,
+      "end": 97700,
+      "confidence": 0.32326698,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 97700,
+      "end": 97748,
+      "confidence": 0.316718,
+      "speaker": "A"
+    },
+    {
+      "text": "pueda",
+      "start": 97748,
+      "end": 98039,
+      "confidence": 0.5259824,
+      "speaker": "A"
+    },
+    {
+      "text": "hablar",
+      "start": 98039,
+      "end": 98347,
+      "confidence": 0.9679625,
+      "speaker": "A"
+    },
+    {
+      "text": "conmigo",
+      "start": 98347,
+      "end": 99026,
+      "confidence": 0.44516742,
+      "speaker": "A"
+    },
+    {
+      "text": "mucho",
+      "start": 99156,
+      "end": 99479,
+      "confidence": 0.21530539,
+      "speaker": "A"
+    },
+    {
+      "text": "más",
+      "start": 99479,
+      "end": 99641,
+      "confidence": 0.9979626,
+      "speaker": "A"
+    },
+    {
+      "text": "rápido",
+      "start": 99641,
+      "end": 100288,
+      "confidence": 0.99974066,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 100288,
+      "end": 100352,
+      "confidence": 0.61452526,
+      "speaker": "A"
+    },
+    {
+      "text": "un",
+      "start": 100352,
+      "end": 100450,
+      "confidence": 0.48647067,
+      "speaker": "A"
+    },
+    {
+      "text": "español,",
+      "start": 100450,
+      "end": 101145,
+      "confidence": 0.5760685,
+      "speaker": "A"
+    },
+    {
+      "text": "porque",
+      "start": 101177,
+      "end": 101339,
+      "confidence": 0.31992757,
+      "speaker": "A"
+    },
+    {
+      "text": "tenemos",
+      "start": 101501,
+      "end": 101873,
+      "confidence": 0.38714823,
+      "speaker": "A"
+    },
+    {
+      "text": "menos",
+      "start": 102148,
+      "end": 102569,
+      "confidence": 0.76655775,
+      "speaker": "A"
+    },
+    {
+      "text": "errores",
+      "start": 102569,
+      "end": 102795,
+      "confidence": 0.9569968,
+      "speaker": "A"
+    },
+    {
+      "text": "semanales.",
+      "start": 102795,
+      "end": 103491,
+      "confidence": 0.8199884,
+      "speaker": "A"
+    },
+    {
+      "text": "Ah,",
+      "start": 103620,
+      "end": 103652,
+      "confidence": 0.92521507,
+      "speaker": "A"
+    },
+    {
+      "text": "sí,",
+      "start": 103685,
+      "end": 103895,
+      "confidence": 0.99288625,
+      "speaker": "A"
+    },
+    {
+      "text": "comparado",
+      "start": 103911,
+      "end": 104607,
+      "confidence": 0.9375874,
+      "speaker": "A"
+    },
+    {
+      "text": "con",
+      "start": 104607,
+      "end": 104849,
+      "confidence": 0.9990845,
+      "speaker": "A"
+    },
+    {
+      "text": "el",
+      "start": 104914,
+      "end": 104979,
+      "confidence": 0.9926225,
+      "speaker": "A"
+    },
+    {
+      "text": "alemán.",
+      "start": 104979,
+      "end": 105432,
+      "confidence": 0.98593086,
+      "speaker": "A"
+    },
+    {
+      "text": "No,",
+      "start": 107240,
+      "end": 107272,
+      "confidence": 0.97278434,
+      "speaker": "C"
+    },
+    {
+      "text": "por",
+      "start": 107336,
+      "end": 107546,
+      "confidence": 0.7756623,
+      "speaker": "C"
+    },
+    {
+      "text": "ahí",
+      "start": 107546,
+      "end": 107675,
+      "confidence": 0.9901721,
+      "speaker": "C"
+    },
+    {
+      "text": "a",
+      "start": 107675,
+      "end": 107739,
+      "confidence": 0.9757928,
+      "speaker": "C"
+    },
+    {
+      "text": "veces",
+      "start": 107739,
+      "end": 107981,
+      "confidence": 0.99987423,
+      "speaker": "C"
+    },
+    {
+      "text": "tenemos",
+      "start": 107981,
+      "end": 108384,
+      "confidence": 0.10588066,
+      "speaker": "C"
+    },
+    {
+      "text": "muchas",
+      "start": 108384,
+      "end": 108770,
+      "confidence": 0.98846763,
+      "speaker": "C"
+    },
+    {
+      "text": "palabras",
+      "start": 108786,
+      "end": 109141,
+      "confidence": 0.9125318,
+      "speaker": "C"
+    },
+    {
+      "text": "en",
+      "start": 109141,
+      "end": 109205,
+      "confidence": 0.8000387,
+      "speaker": "C"
+    },
+    {
+      "text": "alemán",
+      "start": 109205,
+      "end": 109431,
+      "confidence": 0.93670315,
+      "speaker": "C"
+    },
+    {
+      "text": "que",
+      "start": 109431,
+      "end": 109463,
+      "confidence": 0.88826466,
+      "speaker": "C"
+    },
+    {
+      "text": "suenan",
+      "start": 109463,
+      "end": 109834,
+      "confidence": 0.80324554,
+      "speaker": "C"
+    },
+    {
+      "text": "muy",
+      "start": 109834,
+      "end": 110366,
+      "confidence": 0.8705513,
+      "speaker": "C"
+    },
+    {
+      "text": "naturales",
+      "start": 110398,
+      "end": 111461,
+      "confidence": 0.9236871,
+      "speaker": "C"
+    },
+    {
+      "text": "o",
+      "start": 111461,
+      "end": 111526,
+      "confidence": 0.96647996,
+      "speaker": "C"
+    },
+    {
+      "text": "con",
+      "start": 113218,
+      "end": 113379,
+      "confidence": 0.9151637,
+      "speaker": "C"
+    },
+    {
+      "text": "mucho...",
+      "start": 113379,
+      "end": 113588,
+      "confidence": 0.7383379,
+      "speaker": "C"
+    },
+    {
+      "text": "¿Qué",
+      "start": 115116,
+      "end": 116036,
+      "confidence": 0.58571774,
+      "speaker": "B"
+    },
+    {
+      "text": "mejor",
+      "start": 116085,
+      "end": 117150,
+      "confidence": 0.67892843,
+      "speaker": "B"
+    },
+    {
+      "text": "es",
+      "start": 117150,
+      "end": 117263,
+      "confidence": 0.9407762,
+      "speaker": "B"
+    },
+    {
+      "text": "clase?",
+      "start": 117263,
+      "end": 117748,
+      "confidence": 0.61292374,
+      "speaker": "B"
+    },
+    {
+      "text": "¿Táctica",
+      "start": 118055,
+      "end": 118991,
+      "confidence": 0.65175813,
+      "speaker": "B"
+    },
+    {
+      "text": "clase?",
+      "start": 118991,
+      "end": 119282,
+      "confidence": 0.7371748,
+      "speaker": "B"
+    },
+    {
+      "text": "Mucha",
+      "start": 119395,
+      "end": 119960,
+      "confidence": 0.77138793,
+      "speaker": "B"
+    },
+    {
+      "text": "lógica,",
+      "start": 119960,
+      "end": 120412,
+      "confidence": 0.9947823,
+      "speaker": "B"
+    },
+    {
+      "text": "sí.",
+      "start": 120525,
+      "end": 120687,
+      "confidence": 0.95592934,
+      "speaker": "B"
+    },
+    {
+      "text": "Pero,",
+      "start": 122540,
+      "end": 122837,
+      "confidence": 0.7838865,
+      "speaker": "A"
+    },
+    {
+      "text": "¿en",
+      "start": 122903,
+      "end": 122969,
+      "confidence": 0.9956421,
+      "speaker": "A"
+    },
+    {
+      "text": "qué",
+      "start": 122969,
+      "end": 123002,
+      "confidence": 0.9999951,
+      "speaker": "A"
+    },
+    {
+      "text": "sentido?",
+      "start": 123002,
+      "end": 123515,
+      "confidence": 0.9992694,
+      "speaker": "A"
+    },
+    {
+      "text": "Forma",
+      "start": 123630,
+      "end": 123878,
+      "confidence": 0.45145062,
+      "speaker": "A"
+    },
+    {
+      "text": "muchas",
+      "start": 123878,
+      "end": 124093,
+      "confidence": 0.9953797,
+      "speaker": "A"
+    },
+    {
+      "text": "palabras",
+      "start": 124093,
+      "end": 124556,
+      "confidence": 0.9994748,
+      "speaker": "A"
+    },
+    {
+      "text": "en",
+      "start": 124556,
+      "end": 124820,
+      "confidence": 0.5075332,
+      "speaker": "A"
+    },
+    {
+      "text": "alemán",
+      "start": 124820,
+      "end": 125217,
+      "confidence": 0.9270207,
+      "speaker": "A"
+    },
+    {
+      "text": "usando",
+      "start": 125299,
+      "end": 125812,
+      "confidence": 0.6590918,
+      "speaker": "A"
+    },
+    {
+      "text": "Una",
+      "start": 128666,
+      "end": 129429,
+      "confidence": 0.90789896,
+      "speaker": "A"
+    },
+    {
+      "text": "vez",
+      "start": 129884,
+      "end": 130096,
+      "confidence": 0.99992275,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 130160,
+      "end": 130290,
+      "confidence": 0.9852787,
+      "speaker": "A"
+    },
+    {
+      "text": "lo",
+      "start": 130290,
+      "end": 130404,
+      "confidence": 0.99747866,
+      "speaker": "A"
+    },
+    {
+      "text": "toqué",
+      "start": 130404,
+      "end": 130794,
+      "confidence": 0.99456537,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 130794,
+      "end": 130859,
+      "confidence": 0.8737638,
+      "speaker": "A"
+    },
+    {
+      "text": "sí",
+      "start": 130859,
+      "end": 131119,
+      "confidence": 0.5679034,
+      "speaker": "A"
+    },
+    {
+      "text": "era.",
+      "start": 131119,
+      "end": 131379,
+      "confidence": 0.44752398,
+      "speaker": "A"
+    },
+    {
+      "text": "Ah,",
+      "start": 131688,
+      "end": 131720,
+      "confidence": 0.67101276,
+      "speaker": "A"
+    },
+    {
+      "text": "sí.",
+      "start": 131866,
+      "end": 131964,
+      "confidence": 0.55700654,
+      "speaker": "A"
+    },
+    {
+      "text": "Ah,",
+      "start": 132094,
+      "end": 132126,
+      "confidence": 0.58279854,
+      "speaker": "A"
+    },
+    {
+      "text": "acá",
+      "start": 132338,
+      "end": 132565,
+      "confidence": 0.6383731,
+      "speaker": "A"
+    },
+    {
+      "text": "tenemos",
+      "start": 132565,
+      "end": 133231,
+      "confidence": 0.8619898,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 133296,
+      "end": 133459,
+      "confidence": 0.606121,
+      "speaker": "A"
+    },
+    {
+      "text": "trabajar",
+      "start": 133459,
+      "end": 134109,
+      "confidence": 0.47678745,
+      "speaker": "A"
+    },
+    {
+      "text": "nosotros.",
+      "start": 134109,
+      "end": 134482,
+      "confidence": 0.99591875,
+      "speaker": "A"
+    },
+    {
+      "text": "Nos",
+      "start": 134596,
+      "end": 134677,
+      "confidence": 0.3964949,
+      "speaker": "A"
+    },
+    {
+      "text": "traba",
+      "start": 134677,
+      "end": 134856,
+      "confidence": 0.65400434,
+      "speaker": "A"
+    },
+    {
+      "text": "hay",
+      "start": 134856,
+      "end": 134921,
+      "confidence": 0.6851362,
+      "speaker": "A"
+    },
+    {
+      "text": "que",
+      "start": 134921,
+      "end": 135035,
+      "confidence": 0.9999784,
+      "speaker": "A"
+    },
+    {
+      "text": "tocarle",
+      "start": 135035,
+      "end": 135441,
+      "confidence": 0.98694,
+      "speaker": "A"
+    },
+    {
+      "text": "así.",
+      "start": 135506,
+      "end": 135701,
+      "confidence": 0.986991,
+      "speaker": "A"
+    },
+    {
+      "text": "¿Qué",
+      "start": 137056,
+      "end": 137217,
+      "confidence": 0.6634168,
+      "speaker": "B"
+    },
+    {
+      "text": "pasó?",
+      "start": 137217,
+      "end": 137897,
+      "confidence": 0.99677634,
+      "speaker": "B"
+    },
+    {
+      "text": "¿Qué",
+      "start": 138511,
+      "end": 138722,
+      "confidence": 0.6030202,
+      "speaker": "B"
+    },
+    {
+      "text": "pasó?",
+      "start": 138722,
+      "end": 138803,
+      "confidence": 0.597134,
+      "speaker": "B"
+    },
+    {
+      "text": "¿Qué",
+      "start": 138916,
+      "end": 139078,
+      "confidence": 0.60043615,
+      "speaker": "A"
+    },
+    {
+      "text": "pasó?",
+      "start": 139078,
+      "end": 139450,
+      "confidence": 0.9382861,
+      "speaker": "A"
+    },
+    {
+      "text": "Una",
+      "start": 139628,
+      "end": 139806,
+      "confidence": 0.4111238,
+      "speaker": "A"
+    },
+    {
+      "text": "vez",
+      "start": 139806,
+      "end": 139886,
+      "confidence": 0.99992085,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 139886,
+      "end": 140048,
+      "confidence": 0.9992403,
+      "speaker": "A"
+    },
+    {
+      "text": "lo",
+      "start": 140048,
+      "end": 140129,
+      "confidence": 0.99993587,
+      "speaker": "A"
+    },
+    {
+      "text": "toqué",
+      "start": 140129,
+      "end": 140630,
+      "confidence": 0.99998486,
+      "speaker": "A"
+    },
+    {
+      "text": "y",
+      "start": 140630,
+      "end": 140695,
+      "confidence": 0.97295547,
+      "speaker": "A"
+    },
+    {
+      "text": "sí.",
+      "start": 140695,
+      "end": 140825,
+      "confidence": 0.7080941,
+      "speaker": "A"
+    },
+    {
+      "text": "Claro,",
+      "start": 141180,
+      "end": 141633,
+      "confidence": 0.8968831,
+      "speaker": "A"
+    },
+    {
+      "text": "porque",
+      "start": 141666,
+      "end": 142183,
+      "confidence": 0.4332639,
+      "speaker": "A"
+    },
+    {
+      "text": "por",
+      "start": 142394,
+      "end": 142733,
+      "confidence": 0.52802026,
+      "speaker": "A"
+    },
+    {
+      "text": "lo",
+      "start": 142798,
+      "end": 142879,
+      "confidence": 0.9882665,
+      "speaker": "A"
+    },
+    {
+      "text": "general",
+      "start": 142960,
+      "end": 143526,
+      "confidence": 0.9999254,
+      "speaker": "A"
+    },
+    {
+      "text": "para",
+      "start": 143526,
+      "end": 144254,
+      "confidence": 0.9923611,
+      "speaker": "A"
+    },
+    {
+      "text": "porque",
+      "start": 144254,
+      "end": 144610,
+      "confidence": 0.9442792,
+      "speaker": "A"
+    },
+    {
+      "text": "siempre",
+      "start": 144610,
+      "end": 145079,
+      "confidence": 0.8372354,
+      "speaker": "A"
+    },
+    {
+      "text": "hay",
+      "start": 145079,
+      "end": 145143,
+      "confidence": 0.9773607,
+      "speaker": "A"
+    },
+    {
+      "text": "gente",
+      "start": 145143,
+      "end": 145645,
+      "confidence": 0.96248794,
+      "speaker": "A"
+    },
+    {
+      "text": "esperando",
+      "start": 145645,
+      "end": 146260,
+      "confidence": 0.99987274,
+      "speaker": "A"
+    },
+    {
+      "text": "o",
+      "start": 146260,
+      "end": 146276,
+      "confidence": 0.9137443,
+      "speaker": "A"
+    },
+    {
+      "text": "alguien",
+      "start": 146276,
+      "end": 146704,
+      "confidence": 0.99991894,
+      "speaker": "A"
+    },
+    {
+      "text": "se",
+      "start": 146770,
+      "end": 146934,
+      "confidence": 0.9997844,
+      "speaker": "A"
+    },
+    {
+      "text": "baja,",
+      "start": 146934,
+      "end": 147066,
+      "confidence": 0.9786839,
+      "speaker": "A"
+    },
+    {
+      "text": "pero",
+      "start": 147099,
+      "end": 147214,
+      "confidence": 0.9657475,
+      "speaker": "A"
+    },
+    {
+      "text": "si",
+      "start": 147214,
+      "end": 147346,
+      "confidence": 0.9973302,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 147346,
+      "end": 147543,
+      "confidence": 0.95695037,
+      "speaker": "A"
+    },
+    {
+      "text": "lo",
+      "start": 147543,
+      "end": 147642,
+      "confidence": 0.89964575,
+      "speaker": "A"
+    },
+    {
+      "text": "tocas,",
+      "start": 147642,
+      "end": 147806,
+      "confidence": 0.62465954,
+      "speaker": "A"
+    },
+    {
+      "text": "sí.",
+      "start": 147839,
+      "end": 148037,
+      "confidence": 0.74226636,
+      "speaker": "A"
+    },
+    {
+      "text": "Y",
+      "start": 148761,
+      "end": 148826,
+      "confidence": 0.6803986,
+      "speaker": "A"
+    },
+    {
+      "text": "de",
+      "start": 148826,
+      "end": 148942,
+      "confidence": 0.8291132,
+      "speaker": "A"
+    },
+    {
+      "text": "noche,",
+      "start": 148942,
+      "end": 149123,
+      "confidence": 0.59777284,
+      "speaker": "A"
+    },
+    {
+      "text": "porque",
+      "start": 149156,
+      "end": 149402,
+      "confidence": 0.46035042,
+      "speaker": "A"
+    },
+    {
+      "text": "no",
+      "start": 149402,
+      "end": 149501,
+      "confidence": 0.9188611,
+      "speaker": "A"
+    },
+    {
+      "text": "hay",
+      "start": 149501,
+      "end": 149518,
+      "confidence": 0.9885337,
+      "speaker": "A"
+    },
+    {
+      "text": "nadie.",
+      "start": 149518,
+      "end": 149699,
+      "confidence": 0.96652085,
+      "speaker": "A"
+    },
+    {
+      "text": "Ya,",
+      "start": 151820,
+      "end": 151852,
+      "confidence": 0.7918249,
+      "speaker": "B"
+    },
+    {
+      "text": "ya,",
+      "start": 152079,
+      "end": 152209,
+      "confidence": 0.72884774,
+      "speaker": "B"
+    },
+    {
+      "text": "ya",
+      "start": 152241,
+      "end": 152339,
+      "confidence": 0.9951746,
+      "speaker": "B"
+    },
+    {
+      "text": "apareció",
+      "start": 152339,
+      "end": 152971,
+      "confidence": 0.5965283,
+      "speaker": "B"
+    },
+    {
+      "text": "acá.",
+      "start": 153150,
+      "end": 153345,
+      "confidence": 0.9165161,
+      "speaker": "B"
+    },
+    {
+      "text": "Así",
+      "start": 153556,
+      "end": 153977,
+      "confidence": 0.6283071,
+      "speaker": "B"
+    },
+    {
+      "text": "que",
+      "start": 154270,
+      "end": 154351,
+      "confidence": 0.42376843,
+      "speaker": "B"
+    },
+    {
+      "text": "ya",
+      "start": 154351,
+      "end": 154708,
+      "confidence": 0.5134036,
+      "speaker": "B"
+    },
+    {
+      "text": "casi",
+      "start": 154756,
+      "end": 155324,
+      "confidence": 0.64175177,
+      "speaker": "B"
+    },
+    {
+      "text": "más,",
+      "start": 155324,
+      "end": 155373,
+      "confidence": 0.44594583,
+      "speaker": "B"
+    },
+    {
+      "text": "¿estamos?",
+      "start": 155438,
+      "end": 156590,
+      "confidence": 0.79681873,
+      "speaker": "B"
+    },
+    {
+      "text": "Estamos.",
+      "start": 156801,
+      "end": 157320,
+      "confidence": 0.7411664,
+      "speaker": "B"
+    },
+    {
+      "text": "23",
+      "start": 159516,
+      "end": 173979,
+      "confidence": 0.9516127,
+      "speaker": "B"
+    },
+    {
+      "text": "Uhr",
+      "start": 173979,
+      "end": 177321,
+      "confidence": 0.5242455,
+      "speaker": "B"
+    },
+    {
+      "text": "50,",
+      "start": 186096,
+      "end": 186736,
+      "confidence": 0.53716904,
+      "speaker": "B"
+    },
+    {
+      "text": "Bro.",
+      "start": 186938,
+      "end": 187242,
+      "confidence": 0.91042334,
+      "speaker": "B"
+    },
+    {
+      "text": "6:50",
+      "start": 191400,
+      "end": 192188,
+      "confidence": 0.52436864,
+      "speaker": "B"
+    },
+    {
+      "text": "Uhr,",
+      "start": 192478,
+      "end": 192671,
+      "confidence": 0.82045245,
+      "speaker": "B"
+    },
+    {
+      "text": "Lang",
+      "start": 193830,
+      "end": 193974,
+      "confidence": 0.32016143,
+      "speaker": "B"
+    },
+    {
+      "text": "ES",
+      "start": 194328,
+      "end": 194731,
+      "confidence": 0.7117458,
+      "speaker": "B"
+    },
+    {
+      "text": "Plus,",
+      "start": 195037,
+      "end": 195455,
+      "confidence": 0.96348536,
+      "speaker": "B"
+    },
+    {
+      "text": "ein",
+      "start": 195777,
+      "end": 196131,
+      "confidence": 0.991922,
+      "speaker": "B"
+    },
+    {
+      "text": "Jack",
+      "start": 196163,
+      "end": 196565,
+      "confidence": 0.9999291,
+      "speaker": "B"
+    },
+    {
+      "text": "Daniel's.",
+      "start": 196565,
+      "end": 197257,
+      "confidence": 0.86834544,
+      "speaker": "B"
+    },
+    {
+      "text": "Ciao!",
+      "start": 197370,
+      "end": 197740,
+      "confidence": 0.9896623,
+      "speaker": "B"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "Sí, ubicado. Estoy tratando de aprender tu idioma. Nadie está respondiendo en inglés. Bueno, a nosotros nos favorece eso cuando hablamos en inglés, no responden en inglés, sino responden en alemán. Yo hacía un gran esfuerzo pidiendo algo en alemán y me respondían en inglés. Era como—",
+      "confidence": 0.90277374,
+      "start": 112,
+      "end": 13912,
+      "words": [
+        {
+          "text": "Sí,",
+          "start": 112,
+          "end": 225,
+          "confidence": 0.6611814,
+          "speaker": "A"
+        },
+        {
+          "text": "ubicado.",
+          "start": 516,
+          "end": 1114,
+          "confidence": 0.7322461,
+          "speaker": "A"
+        },
+        {
+          "text": "Estoy",
+          "start": 1244,
+          "end": 1373,
+          "confidence": 0.70836383,
+          "speaker": "A"
+        },
+        {
+          "text": "tratando",
+          "start": 1373,
+          "end": 2521,
+          "confidence": 0.99150693,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 2602,
+          "end": 2715,
+          "confidence": 0.9969478,
+          "speaker": "A"
+        },
+        {
+          "text": "aprender",
+          "start": 2941,
+          "end": 3475,
+          "confidence": 0.6902075,
+          "speaker": "A"
+        },
+        {
+          "text": "tu",
+          "start": 3491,
+          "end": 3669,
+          "confidence": 0.58529913,
+          "speaker": "A"
+        },
+        {
+          "text": "idioma.",
+          "start": 3669,
+          "end": 4024,
+          "confidence": 0.72763705,
+          "speaker": "A"
+        },
+        {
+          "text": "Nadie",
+          "start": 4218,
+          "end": 4315,
+          "confidence": 0.7650668,
+          "speaker": "A"
+        },
+        {
+          "text": "está",
+          "start": 4315,
+          "end": 4542,
+          "confidence": 0.8851712,
+          "speaker": "A"
+        },
+        {
+          "text": "respondiendo",
+          "start": 4542,
+          "end": 4978,
+          "confidence": 0.99960476,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 4978,
+          "end": 5043,
+          "confidence": 0.9932467,
+          "speaker": "A"
+        },
+        {
+          "text": "inglés.",
+          "start": 5043,
+          "end": 5318,
+          "confidence": 0.9997773,
+          "speaker": "A"
+        },
+        {
+          "text": "Bueno,",
+          "start": 5431,
+          "end": 5883,
+          "confidence": 0.9993679,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 6093,
+          "end": 6271,
+          "confidence": 0.66218215,
+          "speaker": "A"
+        },
+        {
+          "text": "nosotros",
+          "start": 6320,
+          "end": 6659,
+          "confidence": 0.9978356,
+          "speaker": "A"
+        },
+        {
+          "text": "nos",
+          "start": 6676,
+          "end": 6805,
+          "confidence": 0.99977463,
+          "speaker": "A"
+        },
+        {
+          "text": "favorece",
+          "start": 6805,
+          "end": 7274,
+          "confidence": 0.9989331,
+          "speaker": "A"
+        },
+        {
+          "text": "eso",
+          "start": 7274,
+          "end": 7354,
+          "confidence": 0.78548366,
+          "speaker": "A"
+        },
+        {
+          "text": "cuando",
+          "start": 7354,
+          "end": 7516,
+          "confidence": 0.833347,
+          "speaker": "A"
+        },
+        {
+          "text": "hablamos",
+          "start": 7516,
+          "end": 7840,
+          "confidence": 0.99993104,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 7840,
+          "end": 7872,
+          "confidence": 0.9993399,
+          "speaker": "A"
+        },
+        {
+          "text": "inglés,",
+          "start": 7872,
+          "end": 8227,
+          "confidence": 0.93856215,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 8259,
+          "end": 8292,
+          "confidence": 0.77362764,
+          "speaker": "A"
+        },
+        {
+          "text": "responden",
+          "start": 8292,
+          "end": 8841,
+          "confidence": 0.7053738,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 8841,
+          "end": 8922,
+          "confidence": 0.9928141,
+          "speaker": "A"
+        },
+        {
+          "text": "inglés,",
+          "start": 8922,
+          "end": 9115,
+          "confidence": 0.85899496,
+          "speaker": "A"
+        },
+        {
+          "text": "sino",
+          "start": 9148,
+          "end": 9261,
+          "confidence": 0.55136913,
+          "speaker": "A"
+        },
+        {
+          "text": "responden",
+          "start": 9261,
+          "end": 9648,
+          "confidence": 0.9980173,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 9648,
+          "end": 9745,
+          "confidence": 0.99948776,
+          "speaker": "A"
+        },
+        {
+          "text": "alemán.",
+          "start": 9745,
+          "end": 10084,
+          "confidence": 0.99918914,
+          "speaker": "A"
+        },
+        {
+          "text": "Yo",
+          "start": 10197,
+          "end": 10262,
+          "confidence": 0.99107426,
+          "speaker": "A"
+        },
+        {
+          "text": "hacía",
+          "start": 10262,
+          "end": 10504,
+          "confidence": 0.99867684,
+          "speaker": "A"
+        },
+        {
+          "text": "un",
+          "start": 10504,
+          "end": 10601,
+          "confidence": 0.9999387,
+          "speaker": "A"
+        },
+        {
+          "text": "gran",
+          "start": 10601,
+          "end": 10779,
+          "confidence": 0.99997985,
+          "speaker": "A"
+        },
+        {
+          "text": "esfuerzo",
+          "start": 10779,
+          "end": 11166,
+          "confidence": 0.9999967,
+          "speaker": "A"
+        },
+        {
+          "text": "pidiendo",
+          "start": 11166,
+          "end": 11732,
+          "confidence": 0.9993289,
+          "speaker": "A"
+        },
+        {
+          "text": "algo",
+          "start": 11764,
+          "end": 12039,
+          "confidence": 0.9995333,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 12039,
+          "end": 12152,
+          "confidence": 0.9996679,
+          "speaker": "A"
+        },
+        {
+          "text": "alemán",
+          "start": 12152,
+          "end": 12555,
+          "confidence": 0.99769074,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 12555,
+          "end": 12620,
+          "confidence": 0.9996879,
+          "speaker": "A"
+        },
+        {
+          "text": "me",
+          "start": 12620,
+          "end": 12733,
+          "confidence": 0.9999552,
+          "speaker": "A"
+        },
+        {
+          "text": "respondían",
+          "start": 12733,
+          "end": 13201,
+          "confidence": 0.9998947,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 13201,
+          "end": 13282,
+          "confidence": 0.99997306,
+          "speaker": "A"
+        },
+        {
+          "text": "inglés.",
+          "start": 13282,
+          "end": 13476,
+          "confidence": 0.812211,
+          "speaker": "A"
+        },
+        {
+          "text": "Era",
+          "start": 13573,
+          "end": 13702,
+          "confidence": 0.9326623,
+          "speaker": "A"
+        },
+        {
+          "text": "como—",
+          "start": 13702,
+          "end": 13912,
+          "confidence": 0.8702061,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Lo entiendo. Ojitis en México.",
+      "confidence": 0.80005395,
+      "start": 31970,
+      "end": 38870,
+      "words": [
+        {
+          "text": "Lo",
+          "start": 31970,
+          "end": 32002,
+          "confidence": 0.45543963,
+          "speaker": "B"
+        },
+        {
+          "text": "entiendo.",
+          "start": 32002,
+          "end": 36216,
+          "confidence": 0.9865487,
+          "speaker": "B"
+        },
+        {
+          "text": "Ojitis",
+          "start": 36506,
+          "end": 37712,
+          "confidence": 0.89149433,
+          "speaker": "B"
+        },
+        {
+          "text": "en",
+          "start": 37712,
+          "end": 37873,
+          "confidence": 0.75567746,
+          "speaker": "B"
+        },
+        {
+          "text": "México.",
+          "start": 37937,
+          "end": 38870,
+          "confidence": 0.91110957,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "Yo le digo, se empieza a hablar de español y como pasa en los colegios, igual no como los alemanes. Yo siempre le digo, no subestimes a la gente porque no sé si sabe el español. Hay que tener cuidado con lo que uno habla.",
+      "confidence": 0.79472023,
+      "start": 39964,
+      "end": 58250,
+      "words": [
+        {
+          "text": "Yo",
+          "start": 39964,
+          "end": 40833,
+          "confidence": 0.8218483,
+          "speaker": "A"
+        },
+        {
+          "text": "le",
+          "start": 40833,
+          "end": 40993,
+          "confidence": 0.9147299,
+          "speaker": "A"
+        },
+        {
+          "text": "digo,",
+          "start": 40993,
+          "end": 41283,
+          "confidence": 0.9768996,
+          "speaker": "A"
+        },
+        {
+          "text": "se",
+          "start": 41380,
+          "end": 41428,
+          "confidence": 0.21071106,
+          "speaker": "A"
+        },
+        {
+          "text": "empieza",
+          "start": 41428,
+          "end": 42060,
+          "confidence": 0.99190986,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 42060,
+          "end": 42093,
+          "confidence": 0.9998167,
+          "speaker": "A"
+        },
+        {
+          "text": "hablar",
+          "start": 42141,
+          "end": 42579,
+          "confidence": 0.99935204,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 42612,
+          "end": 42855,
+          "confidence": 0.34849745,
+          "speaker": "A"
+        },
+        {
+          "text": "español",
+          "start": 43033,
+          "end": 44054,
+          "confidence": 0.696519,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 44054,
+          "end": 44070,
+          "confidence": 0.9881542,
+          "speaker": "A"
+        },
+        {
+          "text": "como",
+          "start": 44070,
+          "end": 44378,
+          "confidence": 0.900227,
+          "speaker": "A"
+        },
+        {
+          "text": "pasa",
+          "start": 44378,
+          "end": 44800,
+          "confidence": 0.64088464,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 44816,
+          "end": 45059,
+          "confidence": 0.58046234,
+          "speaker": "A"
+        },
+        {
+          "text": "los",
+          "start": 45124,
+          "end": 45367,
+          "confidence": 0.3826352,
+          "speaker": "A"
+        },
+        {
+          "text": "colegios,",
+          "start": 45367,
+          "end": 45983,
+          "confidence": 0.6060876,
+          "speaker": "A"
+        },
+        {
+          "text": "igual",
+          "start": 46032,
+          "end": 46356,
+          "confidence": 0.44168055,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 46421,
+          "end": 46583,
+          "confidence": 0.68940306,
+          "speaker": "A"
+        },
+        {
+          "text": "como",
+          "start": 46583,
+          "end": 46826,
+          "confidence": 0.70287114,
+          "speaker": "A"
+        },
+        {
+          "text": "los",
+          "start": 46826,
+          "end": 47005,
+          "confidence": 0.99544626,
+          "speaker": "A"
+        },
+        {
+          "text": "alemanes.",
+          "start": 47005,
+          "end": 47280,
+          "confidence": 0.9975548,
+          "speaker": "A"
+        },
+        {
+          "text": "Yo",
+          "start": 49701,
+          "end": 49782,
+          "confidence": 0.53768045,
+          "speaker": "A"
+        },
+        {
+          "text": "siempre",
+          "start": 50025,
+          "end": 50785,
+          "confidence": 0.96205765,
+          "speaker": "A"
+        },
+        {
+          "text": "le",
+          "start": 50833,
+          "end": 50914,
+          "confidence": 0.9995029,
+          "speaker": "A"
+        },
+        {
+          "text": "digo,",
+          "start": 50914,
+          "end": 51447,
+          "confidence": 0.99332947,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 51480,
+          "end": 51561,
+          "confidence": 0.98682076,
+          "speaker": "A"
+        },
+        {
+          "text": "subestimes",
+          "start": 51561,
+          "end": 51900,
+          "confidence": 0.9023839,
+          "speaker": "A"
+        },
+        {
+          "text": "a",
+          "start": 51900,
+          "end": 51916,
+          "confidence": 0.7730266,
+          "speaker": "A"
+        },
+        {
+          "text": "la",
+          "start": 51916,
+          "end": 51997,
+          "confidence": 0.9998909,
+          "speaker": "A"
+        },
+        {
+          "text": "gente",
+          "start": 51997,
+          "end": 52288,
+          "confidence": 0.99999785,
+          "speaker": "A"
+        },
+        {
+          "text": "porque",
+          "start": 52369,
+          "end": 53096,
+          "confidence": 0.81162,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 53096,
+          "end": 53177,
+          "confidence": 0.2323843,
+          "speaker": "A"
+        },
+        {
+          "text": "sé",
+          "start": 53177,
+          "end": 53339,
+          "confidence": 0.33291993,
+          "speaker": "A"
+        },
+        {
+          "text": "si",
+          "start": 53339,
+          "end": 53420,
+          "confidence": 0.5077878,
+          "speaker": "A"
+        },
+        {
+          "text": "sabe",
+          "start": 53420,
+          "end": 53598,
+          "confidence": 0.46043935,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 53598,
+          "end": 53678,
+          "confidence": 0.41496333,
+          "speaker": "A"
+        },
+        {
+          "text": "español.",
+          "start": 53678,
+          "end": 55618,
+          "confidence": 0.97871166,
+          "speaker": "A"
+        },
+        {
+          "text": "Hay",
+          "start": 57100,
+          "end": 57116,
+          "confidence": 0.9957004,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 57116,
+          "end": 57150,
+          "confidence": 0.99999416,
+          "speaker": "A"
+        },
+        {
+          "text": "tener",
+          "start": 57150,
+          "end": 57250,
+          "confidence": 0.9999932,
+          "speaker": "A"
+        },
+        {
+          "text": "cuidado",
+          "start": 57250,
+          "end": 57483,
+          "confidence": 0.9999585,
+          "speaker": "A"
+        },
+        {
+          "text": "con",
+          "start": 57483,
+          "end": 57700,
+          "confidence": 0.9977768,
+          "speaker": "A"
+        },
+        {
+          "text": "lo",
+          "start": 57700,
+          "end": 57783,
+          "confidence": 0.9991571,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 57783,
+          "end": 58016,
+          "confidence": 0.999798,
+          "speaker": "A"
+        },
+        {
+          "text": "uno",
+          "start": 58016,
+          "end": 58116,
+          "confidence": 0.99389654,
+          "speaker": "A"
+        },
+        {
+          "text": "habla.",
+          "start": 58133,
+          "end": 58250,
+          "confidence": 0.9969296,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "How old are you?",
+      "confidence": 0.6827605,
+      "start": 63800,
+      "end": 64960,
+      "words": [
+        {
+          "text": "How",
+          "start": 63800,
+          "end": 64220,
+          "confidence": 0.33918056,
+          "speaker": "B"
+        },
+        {
+          "text": "old",
+          "start": 64220,
+          "end": 64520,
+          "confidence": 0.79020405,
+          "speaker": "B"
+        },
+        {
+          "text": "are",
+          "start": 64520,
+          "end": 64620,
+          "confidence": 0.87900525,
+          "speaker": "B"
+        },
+        {
+          "text": "you?",
+          "start": 64620,
+          "end": 64960,
+          "confidence": 0.722652,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "Está muy de moda el español, pero mucha gente quiere aprenderlo.",
+      "confidence": 0.8950783,
+      "start": 64960,
+      "end": 68130,
+      "words": [
+        {
+          "text": "Está",
+          "start": 64960,
+          "end": 64980,
+          "confidence": 0.87025976,
+          "speaker": "A"
+        },
+        {
+          "text": "muy",
+          "start": 64980,
+          "end": 65380,
+          "confidence": 0.9996958,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 65380,
+          "end": 65580,
+          "confidence": 0.9991879,
+          "speaker": "A"
+        },
+        {
+          "text": "moda",
+          "start": 65580,
+          "end": 65760,
+          "confidence": 0.9999771,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 65760,
+          "end": 65980,
+          "confidence": 0.99671304,
+          "speaker": "A"
+        },
+        {
+          "text": "español,",
+          "start": 65980,
+          "end": 66280,
+          "confidence": 0.7370214,
+          "speaker": "A"
+        },
+        {
+          "text": "pero",
+          "start": 66280,
+          "end": 66820,
+          "confidence": 0.34720692,
+          "speaker": "A"
+        },
+        {
+          "text": "mucha",
+          "start": 66820,
+          "end": 67080,
+          "confidence": 0.9852869,
+          "speaker": "A"
+        },
+        {
+          "text": "gente",
+          "start": 67080,
+          "end": 67240,
+          "confidence": 0.99998605,
+          "speaker": "A"
+        },
+        {
+          "text": "quiere",
+          "start": 67240,
+          "end": 67480,
+          "confidence": 0.9968645,
+          "speaker": "A"
+        },
+        {
+          "text": "aprenderlo.",
+          "start": 67480,
+          "end": 68130,
+          "confidence": 0.9136623,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "Y también mucha gente hispanohablante va, sobre todo acá en Berlín, mucho hispanohablante, que la relación con la misma gente de acá terminan curioseando el idioma o aprendiéndolo de forma indirecta.",
+      "confidence": 0.9569139,
+      "start": 68800,
+      "end": 82540,
+      "words": [
+        {
+          "text": "Y",
+          "start": 68800,
+          "end": 68820,
+          "confidence": 0.996345,
+          "speaker": "C"
+        },
+        {
+          "text": "también",
+          "start": 68820,
+          "end": 69200,
+          "confidence": 0.99975497,
+          "speaker": "C"
+        },
+        {
+          "text": "mucha",
+          "start": 69200,
+          "end": 69460,
+          "confidence": 0.9988298,
+          "speaker": "C"
+        },
+        {
+          "text": "gente",
+          "start": 69460,
+          "end": 69840,
+          "confidence": 0.9999751,
+          "speaker": "C"
+        },
+        {
+          "text": "hispanohablante",
+          "start": 69840,
+          "end": 70520,
+          "confidence": 0.9872376,
+          "speaker": "C"
+        },
+        {
+          "text": "va,",
+          "start": 70520,
+          "end": 70940,
+          "confidence": 0.748578,
+          "speaker": "C"
+        },
+        {
+          "text": "sobre",
+          "start": 70940,
+          "end": 71180,
+          "confidence": 0.999169,
+          "speaker": "C"
+        },
+        {
+          "text": "todo",
+          "start": 71180,
+          "end": 71300,
+          "confidence": 0.99997103,
+          "speaker": "C"
+        },
+        {
+          "text": "acá",
+          "start": 71300,
+          "end": 71500,
+          "confidence": 0.9995963,
+          "speaker": "C"
+        },
+        {
+          "text": "en",
+          "start": 71500,
+          "end": 71839,
+          "confidence": 0.9993875,
+          "speaker": "C"
+        },
+        {
+          "text": "Berlín,",
+          "start": 71839,
+          "end": 72040,
+          "confidence": 0.9854512,
+          "speaker": "C"
+        },
+        {
+          "text": "mucho",
+          "start": 72040,
+          "end": 72260,
+          "confidence": 0.43458876,
+          "speaker": "C"
+        },
+        {
+          "text": "hispanohablante,",
+          "start": 72260,
+          "end": 73220,
+          "confidence": 0.97511303,
+          "speaker": "C"
+        },
+        {
+          "text": "que",
+          "start": 73430,
+          "end": 74180,
+          "confidence": 0.98147786,
+          "speaker": "C"
+        },
+        {
+          "text": "la",
+          "start": 74180,
+          "end": 74420,
+          "confidence": 0.90231204,
+          "speaker": "C"
+        },
+        {
+          "text": "relación",
+          "start": 74420,
+          "end": 74900,
+          "confidence": 0.97464246,
+          "speaker": "C"
+        },
+        {
+          "text": "con",
+          "start": 74900,
+          "end": 75140,
+          "confidence": 0.9935029,
+          "speaker": "C"
+        },
+        {
+          "text": "la",
+          "start": 75140,
+          "end": 75300,
+          "confidence": 0.972024,
+          "speaker": "C"
+        },
+        {
+          "text": "misma",
+          "start": 75300,
+          "end": 75420,
+          "confidence": 0.9948323,
+          "speaker": "C"
+        },
+        {
+          "text": "gente",
+          "start": 75420,
+          "end": 75720,
+          "confidence": 0.9999844,
+          "speaker": "C"
+        },
+        {
+          "text": "de",
+          "start": 75720,
+          "end": 75840,
+          "confidence": 0.9588621,
+          "speaker": "C"
+        },
+        {
+          "text": "acá",
+          "start": 75840,
+          "end": 76580,
+          "confidence": 0.99483955,
+          "speaker": "C"
+        },
+        {
+          "text": "terminan",
+          "start": 76580,
+          "end": 77330,
+          "confidence": 0.91921735,
+          "speaker": "C"
+        },
+        {
+          "text": "curioseando",
+          "start": 79100,
+          "end": 80100,
+          "confidence": 0.95621127,
+          "speaker": "C"
+        },
+        {
+          "text": "el",
+          "start": 80100,
+          "end": 80300,
+          "confidence": 0.9990907,
+          "speaker": "C"
+        },
+        {
+          "text": "idioma",
+          "start": 80300,
+          "end": 80700,
+          "confidence": 0.99999815,
+          "speaker": "C"
+        },
+        {
+          "text": "o",
+          "start": 80700,
+          "end": 80940,
+          "confidence": 0.9990995,
+          "speaker": "C"
+        },
+        {
+          "text": "aprendiéndolo",
+          "start": 80940,
+          "end": 81500,
+          "confidence": 0.9982452,
+          "speaker": "C"
+        },
+        {
+          "text": "de",
+          "start": 81500,
+          "end": 81680,
+          "confidence": 0.999889,
+          "speaker": "C"
+        },
+        {
+          "text": "forma",
+          "start": 81680,
+          "end": 81920,
+          "confidence": 0.9996377,
+          "speaker": "C"
+        },
+        {
+          "text": "indirecta.",
+          "start": 81920,
+          "end": 82540,
+          "confidence": 0.8964668,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "Que tienen una facilidad para aprenderlo.",
+      "confidence": 0.89516675,
+      "start": 82540,
+      "end": 84960,
+      "words": [
+        {
+          "text": "Que",
+          "start": 82540,
+          "end": 82560,
+          "confidence": 0.6024349,
+          "speaker": "A"
+        },
+        {
+          "text": "tienen",
+          "start": 82560,
+          "end": 82800,
+          "confidence": 0.92643636,
+          "speaker": "A"
+        },
+        {
+          "text": "una",
+          "start": 82800,
+          "end": 82980,
+          "confidence": 0.9607149,
+          "speaker": "A"
+        },
+        {
+          "text": "facilidad",
+          "start": 82980,
+          "end": 83560,
+          "confidence": 0.99989516,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 83560,
+          "end": 83960,
+          "confidence": 0.992241,
+          "speaker": "A"
+        },
+        {
+          "text": "aprenderlo.",
+          "start": 83960,
+          "end": 84960,
+          "confidence": 0.8892782,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "No, el español gramaticalmente es muy fácil. ¿Sí?",
+      "confidence": 0.991609,
+      "start": 85100,
+      "end": 90500,
+      "words": [
+        {
+          "text": "No,",
+          "start": 85100,
+          "end": 85260,
+          "confidence": 0.9987626,
+          "speaker": "B"
+        },
+        {
+          "text": "el",
+          "start": 85260,
+          "end": 85320,
+          "confidence": 0.99837995,
+          "speaker": "B"
+        },
+        {
+          "text": "español",
+          "start": 85320,
+          "end": 85640,
+          "confidence": 0.9999354,
+          "speaker": "B"
+        },
+        {
+          "text": "gramaticalmente",
+          "start": 85640,
+          "end": 86820,
+          "confidence": 0.99987614,
+          "speaker": "B"
+        },
+        {
+          "text": "es",
+          "start": 86820,
+          "end": 86940,
+          "confidence": 0.9880425,
+          "speaker": "B"
+        },
+        {
+          "text": "muy",
+          "start": 86940,
+          "end": 87180,
+          "confidence": 0.9629986,
+          "speaker": "B"
+        },
+        {
+          "text": "fácil.",
+          "start": 87180,
+          "end": 87780,
+          "confidence": 0.9994174,
+          "speaker": "B"
+        },
+        {
+          "text": "¿Sí?",
+          "start": 88520,
+          "end": 90500,
+          "confidence": 0.98545897,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "Yo no sé, entre que ser todos tipos de roles. Creo que el inglés es más fácil.",
+      "confidence": 0.808102,
+      "start": 90500,
+      "end": 93470,
+      "words": [
+        {
+          "text": "Yo",
+          "start": 90500,
+          "end": 90740,
+          "confidence": 0.6996078,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 90740,
+          "end": 91020,
+          "confidence": 0.6154079,
+          "speaker": "A"
+        },
+        {
+          "text": "sé,",
+          "start": 91020,
+          "end": 91260,
+          "confidence": 0.9029683,
+          "speaker": "A"
+        },
+        {
+          "text": "entre",
+          "start": 91260,
+          "end": 91260,
+          "confidence": 0.53997713,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 91260,
+          "end": 91380,
+          "confidence": 0.9816651,
+          "speaker": "A"
+        },
+        {
+          "text": "ser",
+          "start": 91380,
+          "end": 91580,
+          "confidence": 0.23712386,
+          "speaker": "A"
+        },
+        {
+          "text": "todos",
+          "start": 91580,
+          "end": 91640,
+          "confidence": 0.30564284,
+          "speaker": "A"
+        },
+        {
+          "text": "tipos",
+          "start": 91640,
+          "end": 92040,
+          "confidence": 0.96881336,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 92040,
+          "end": 92080,
+          "confidence": 0.9482298,
+          "speaker": "A"
+        },
+        {
+          "text": "roles.",
+          "start": 92080,
+          "end": 92300,
+          "confidence": 0.6931735,
+          "speaker": "A"
+        },
+        {
+          "text": "Creo",
+          "start": 92300,
+          "end": 92440,
+          "confidence": 0.99416256,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 92440,
+          "end": 92560,
+          "confidence": 0.99991,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 92560,
+          "end": 92740,
+          "confidence": 0.8729463,
+          "speaker": "A"
+        },
+        {
+          "text": "inglés",
+          "start": 92740,
+          "end": 92800,
+          "confidence": 0.99998504,
+          "speaker": "A"
+        },
+        {
+          "text": "es",
+          "start": 92800,
+          "end": 92920,
+          "confidence": 0.98115015,
+          "speaker": "A"
+        },
+        {
+          "text": "más",
+          "start": 92920,
+          "end": 93120,
+          "confidence": 0.99980384,
+          "speaker": "A"
+        },
+        {
+          "text": "fácil.",
+          "start": 93120,
+          "end": 93470,
+          "confidence": 0.9971665,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Para mí es fácil porque hablo español.",
+      "confidence": 0.9855845,
+      "start": 93720,
+      "end": 93900,
+      "words": [
+        {
+          "text": "Para",
+          "start": 93720,
+          "end": 93780,
+          "confidence": 0.9992766,
+          "speaker": "B"
+        },
+        {
+          "text": "mí",
+          "start": 93780,
+          "end": 93800,
+          "confidence": 0.99994814,
+          "speaker": "B"
+        },
+        {
+          "text": "es",
+          "start": 93800,
+          "end": 93820,
+          "confidence": 0.9998054,
+          "speaker": "B"
+        },
+        {
+          "text": "fácil",
+          "start": 93820,
+          "end": 93840,
+          "confidence": 0.998892,
+          "speaker": "B"
+        },
+        {
+          "text": "porque",
+          "start": 93840,
+          "end": 93860,
+          "confidence": 0.9501548,
+          "speaker": "B"
+        },
+        {
+          "text": "hablo",
+          "start": 93860,
+          "end": 93880,
+          "confidence": 0.9774276,
+          "speaker": "B"
+        },
+        {
+          "text": "español.",
+          "start": 93880,
+          "end": 93900,
+          "confidence": 0.97358716,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "Solo tener un grupo que pueda hablar conmigo mucho más rápido que un español, porque tenemos menos errores semanales. Ah, sí, comparado con el alemán.",
+      "confidence": 0.6734292,
+      "start": 96422,
+      "end": 105432,
+      "words": [
+        {
+          "text": "Solo",
+          "start": 96422,
+          "end": 97004,
+          "confidence": 0.39729002,
+          "speaker": "A"
+        },
+        {
+          "text": "tener",
+          "start": 97053,
+          "end": 97392,
+          "confidence": 0.4380556,
+          "speaker": "A"
+        },
+        {
+          "text": "un",
+          "start": 97392,
+          "end": 97457,
+          "confidence": 0.44726896,
+          "speaker": "A"
+        },
+        {
+          "text": "grupo",
+          "start": 97457,
+          "end": 97700,
+          "confidence": 0.32326698,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 97700,
+          "end": 97748,
+          "confidence": 0.316718,
+          "speaker": "A"
+        },
+        {
+          "text": "pueda",
+          "start": 97748,
+          "end": 98039,
+          "confidence": 0.5259824,
+          "speaker": "A"
+        },
+        {
+          "text": "hablar",
+          "start": 98039,
+          "end": 98347,
+          "confidence": 0.9679625,
+          "speaker": "A"
+        },
+        {
+          "text": "conmigo",
+          "start": 98347,
+          "end": 99026,
+          "confidence": 0.44516742,
+          "speaker": "A"
+        },
+        {
+          "text": "mucho",
+          "start": 99156,
+          "end": 99479,
+          "confidence": 0.21530539,
+          "speaker": "A"
+        },
+        {
+          "text": "más",
+          "start": 99479,
+          "end": 99641,
+          "confidence": 0.9979626,
+          "speaker": "A"
+        },
+        {
+          "text": "rápido",
+          "start": 99641,
+          "end": 100288,
+          "confidence": 0.99974066,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 100288,
+          "end": 100352,
+          "confidence": 0.61452526,
+          "speaker": "A"
+        },
+        {
+          "text": "un",
+          "start": 100352,
+          "end": 100450,
+          "confidence": 0.48647067,
+          "speaker": "A"
+        },
+        {
+          "text": "español,",
+          "start": 100450,
+          "end": 101145,
+          "confidence": 0.5760685,
+          "speaker": "A"
+        },
+        {
+          "text": "porque",
+          "start": 101177,
+          "end": 101339,
+          "confidence": 0.31992757,
+          "speaker": "A"
+        },
+        {
+          "text": "tenemos",
+          "start": 101501,
+          "end": 101873,
+          "confidence": 0.38714823,
+          "speaker": "A"
+        },
+        {
+          "text": "menos",
+          "start": 102148,
+          "end": 102569,
+          "confidence": 0.76655775,
+          "speaker": "A"
+        },
+        {
+          "text": "errores",
+          "start": 102569,
+          "end": 102795,
+          "confidence": 0.9569968,
+          "speaker": "A"
+        },
+        {
+          "text": "semanales.",
+          "start": 102795,
+          "end": 103491,
+          "confidence": 0.8199884,
+          "speaker": "A"
+        },
+        {
+          "text": "Ah,",
+          "start": 103620,
+          "end": 103652,
+          "confidence": 0.92521507,
+          "speaker": "A"
+        },
+        {
+          "text": "sí,",
+          "start": 103685,
+          "end": 103895,
+          "confidence": 0.99288625,
+          "speaker": "A"
+        },
+        {
+          "text": "comparado",
+          "start": 103911,
+          "end": 104607,
+          "confidence": 0.9375874,
+          "speaker": "A"
+        },
+        {
+          "text": "con",
+          "start": 104607,
+          "end": 104849,
+          "confidence": 0.9990845,
+          "speaker": "A"
+        },
+        {
+          "text": "el",
+          "start": 104914,
+          "end": 104979,
+          "confidence": 0.9926225,
+          "speaker": "A"
+        },
+        {
+          "text": "alemán.",
+          "start": 104979,
+          "end": 105432,
+          "confidence": 0.98593086,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "No, por ahí a veces tenemos muchas palabras en alemán que suenan muy naturales o con mucho...",
+      "confidence": 0.85668457,
+      "start": 107240,
+      "end": 113588,
+      "words": [
+        {
+          "text": "No,",
+          "start": 107240,
+          "end": 107272,
+          "confidence": 0.97278434,
+          "speaker": "C"
+        },
+        {
+          "text": "por",
+          "start": 107336,
+          "end": 107546,
+          "confidence": 0.7756623,
+          "speaker": "C"
+        },
+        {
+          "text": "ahí",
+          "start": 107546,
+          "end": 107675,
+          "confidence": 0.9901721,
+          "speaker": "C"
+        },
+        {
+          "text": "a",
+          "start": 107675,
+          "end": 107739,
+          "confidence": 0.9757928,
+          "speaker": "C"
+        },
+        {
+          "text": "veces",
+          "start": 107739,
+          "end": 107981,
+          "confidence": 0.99987423,
+          "speaker": "C"
+        },
+        {
+          "text": "tenemos",
+          "start": 107981,
+          "end": 108384,
+          "confidence": 0.10588066,
+          "speaker": "C"
+        },
+        {
+          "text": "muchas",
+          "start": 108384,
+          "end": 108770,
+          "confidence": 0.98846763,
+          "speaker": "C"
+        },
+        {
+          "text": "palabras",
+          "start": 108786,
+          "end": 109141,
+          "confidence": 0.9125318,
+          "speaker": "C"
+        },
+        {
+          "text": "en",
+          "start": 109141,
+          "end": 109205,
+          "confidence": 0.8000387,
+          "speaker": "C"
+        },
+        {
+          "text": "alemán",
+          "start": 109205,
+          "end": 109431,
+          "confidence": 0.93670315,
+          "speaker": "C"
+        },
+        {
+          "text": "que",
+          "start": 109431,
+          "end": 109463,
+          "confidence": 0.88826466,
+          "speaker": "C"
+        },
+        {
+          "text": "suenan",
+          "start": 109463,
+          "end": 109834,
+          "confidence": 0.80324554,
+          "speaker": "C"
+        },
+        {
+          "text": "muy",
+          "start": 109834,
+          "end": 110366,
+          "confidence": 0.8705513,
+          "speaker": "C"
+        },
+        {
+          "text": "naturales",
+          "start": 110398,
+          "end": 111461,
+          "confidence": 0.9236871,
+          "speaker": "C"
+        },
+        {
+          "text": "o",
+          "start": 111461,
+          "end": 111526,
+          "confidence": 0.96647996,
+          "speaker": "C"
+        },
+        {
+          "text": "con",
+          "start": 113218,
+          "end": 113379,
+          "confidence": 0.9151637,
+          "speaker": "C"
+        },
+        {
+          "text": "mucho...",
+          "start": 113379,
+          "end": 113588,
+          "confidence": 0.7383379,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "¿Qué mejor es clase? ¿Táctica clase? Mucha lógica, sí.",
+      "confidence": 0.76993096,
+      "start": 115116,
+      "end": 120687,
+      "words": [
+        {
+          "text": "¿Qué",
+          "start": 115116,
+          "end": 116036,
+          "confidence": 0.58571774,
+          "speaker": "B"
+        },
+        {
+          "text": "mejor",
+          "start": 116085,
+          "end": 117150,
+          "confidence": 0.67892843,
+          "speaker": "B"
+        },
+        {
+          "text": "es",
+          "start": 117150,
+          "end": 117263,
+          "confidence": 0.9407762,
+          "speaker": "B"
+        },
+        {
+          "text": "clase?",
+          "start": 117263,
+          "end": 117748,
+          "confidence": 0.61292374,
+          "speaker": "B"
+        },
+        {
+          "text": "¿Táctica",
+          "start": 118055,
+          "end": 118991,
+          "confidence": 0.65175813,
+          "speaker": "B"
+        },
+        {
+          "text": "clase?",
+          "start": 118991,
+          "end": 119282,
+          "confidence": 0.7371748,
+          "speaker": "B"
+        },
+        {
+          "text": "Mucha",
+          "start": 119395,
+          "end": 119960,
+          "confidence": 0.77138793,
+          "speaker": "B"
+        },
+        {
+          "text": "lógica,",
+          "start": 119960,
+          "end": 120412,
+          "confidence": 0.9947823,
+          "speaker": "B"
+        },
+        {
+          "text": "sí.",
+          "start": 120525,
+          "end": 120687,
+          "confidence": 0.95592934,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "Pero, ¿en qué sentido? Forma muchas palabras en alemán usando Una vez no lo toqué y sí era. Ah, sí. Ah, acá tenemos que trabajar nosotros. Nos traba hay que tocarle así.",
+      "confidence": 0.7872698,
+      "start": 122540,
+      "end": 135701,
+      "words": [
+        {
+          "text": "Pero,",
+          "start": 122540,
+          "end": 122837,
+          "confidence": 0.7838865,
+          "speaker": "A"
+        },
+        {
+          "text": "¿en",
+          "start": 122903,
+          "end": 122969,
+          "confidence": 0.9956421,
+          "speaker": "A"
+        },
+        {
+          "text": "qué",
+          "start": 122969,
+          "end": 123002,
+          "confidence": 0.9999951,
+          "speaker": "A"
+        },
+        {
+          "text": "sentido?",
+          "start": 123002,
+          "end": 123515,
+          "confidence": 0.9992694,
+          "speaker": "A"
+        },
+        {
+          "text": "Forma",
+          "start": 123630,
+          "end": 123878,
+          "confidence": 0.45145062,
+          "speaker": "A"
+        },
+        {
+          "text": "muchas",
+          "start": 123878,
+          "end": 124093,
+          "confidence": 0.9953797,
+          "speaker": "A"
+        },
+        {
+          "text": "palabras",
+          "start": 124093,
+          "end": 124556,
+          "confidence": 0.9994748,
+          "speaker": "A"
+        },
+        {
+          "text": "en",
+          "start": 124556,
+          "end": 124820,
+          "confidence": 0.5075332,
+          "speaker": "A"
+        },
+        {
+          "text": "alemán",
+          "start": 124820,
+          "end": 125217,
+          "confidence": 0.9270207,
+          "speaker": "A"
+        },
+        {
+          "text": "usando",
+          "start": 125299,
+          "end": 125812,
+          "confidence": 0.6590918,
+          "speaker": "A"
+        },
+        {
+          "text": "Una",
+          "start": 128666,
+          "end": 129429,
+          "confidence": 0.90789896,
+          "speaker": "A"
+        },
+        {
+          "text": "vez",
+          "start": 129884,
+          "end": 130096,
+          "confidence": 0.99992275,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 130160,
+          "end": 130290,
+          "confidence": 0.9852787,
+          "speaker": "A"
+        },
+        {
+          "text": "lo",
+          "start": 130290,
+          "end": 130404,
+          "confidence": 0.99747866,
+          "speaker": "A"
+        },
+        {
+          "text": "toqué",
+          "start": 130404,
+          "end": 130794,
+          "confidence": 0.99456537,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 130794,
+          "end": 130859,
+          "confidence": 0.8737638,
+          "speaker": "A"
+        },
+        {
+          "text": "sí",
+          "start": 130859,
+          "end": 131119,
+          "confidence": 0.5679034,
+          "speaker": "A"
+        },
+        {
+          "text": "era.",
+          "start": 131119,
+          "end": 131379,
+          "confidence": 0.44752398,
+          "speaker": "A"
+        },
+        {
+          "text": "Ah,",
+          "start": 131688,
+          "end": 131720,
+          "confidence": 0.67101276,
+          "speaker": "A"
+        },
+        {
+          "text": "sí.",
+          "start": 131866,
+          "end": 131964,
+          "confidence": 0.55700654,
+          "speaker": "A"
+        },
+        {
+          "text": "Ah,",
+          "start": 132094,
+          "end": 132126,
+          "confidence": 0.58279854,
+          "speaker": "A"
+        },
+        {
+          "text": "acá",
+          "start": 132338,
+          "end": 132565,
+          "confidence": 0.6383731,
+          "speaker": "A"
+        },
+        {
+          "text": "tenemos",
+          "start": 132565,
+          "end": 133231,
+          "confidence": 0.8619898,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 133296,
+          "end": 133459,
+          "confidence": 0.606121,
+          "speaker": "A"
+        },
+        {
+          "text": "trabajar",
+          "start": 133459,
+          "end": 134109,
+          "confidence": 0.47678745,
+          "speaker": "A"
+        },
+        {
+          "text": "nosotros.",
+          "start": 134109,
+          "end": 134482,
+          "confidence": 0.99591875,
+          "speaker": "A"
+        },
+        {
+          "text": "Nos",
+          "start": 134596,
+          "end": 134677,
+          "confidence": 0.3964949,
+          "speaker": "A"
+        },
+        {
+          "text": "traba",
+          "start": 134677,
+          "end": 134856,
+          "confidence": 0.65400434,
+          "speaker": "A"
+        },
+        {
+          "text": "hay",
+          "start": 134856,
+          "end": 134921,
+          "confidence": 0.6851362,
+          "speaker": "A"
+        },
+        {
+          "text": "que",
+          "start": 134921,
+          "end": 135035,
+          "confidence": 0.9999784,
+          "speaker": "A"
+        },
+        {
+          "text": "tocarle",
+          "start": 135035,
+          "end": 135441,
+          "confidence": 0.98694,
+          "speaker": "A"
+        },
+        {
+          "text": "así.",
+          "start": 135506,
+          "end": 135701,
+          "confidence": 0.986991,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "¿Qué pasó? ¿Qué pasó?",
+      "confidence": 0.7150868,
+      "start": 137056,
+      "end": 138803,
+      "words": [
+        {
+          "text": "¿Qué",
+          "start": 137056,
+          "end": 137217,
+          "confidence": 0.6634168,
+          "speaker": "B"
+        },
+        {
+          "text": "pasó?",
+          "start": 137217,
+          "end": 137897,
+          "confidence": 0.99677634,
+          "speaker": "B"
+        },
+        {
+          "text": "¿Qué",
+          "start": 138511,
+          "end": 138722,
+          "confidence": 0.6030202,
+          "speaker": "B"
+        },
+        {
+          "text": "pasó?",
+          "start": 138722,
+          "end": 138803,
+          "confidence": 0.597134,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "¿Qué pasó? Una vez no lo toqué y sí. Claro, porque por lo general para porque siempre hay gente esperando o alguien se baja, pero si no lo tocas, sí. Y de noche, porque no hay nadie.",
+      "confidence": 0.85703284,
+      "start": 138916,
+      "end": 149699,
+      "words": [
+        {
+          "text": "¿Qué",
+          "start": 138916,
+          "end": 139078,
+          "confidence": 0.60043615,
+          "speaker": "A"
+        },
+        {
+          "text": "pasó?",
+          "start": 139078,
+          "end": 139450,
+          "confidence": 0.9382861,
+          "speaker": "A"
+        },
+        {
+          "text": "Una",
+          "start": 139628,
+          "end": 139806,
+          "confidence": 0.4111238,
+          "speaker": "A"
+        },
+        {
+          "text": "vez",
+          "start": 139806,
+          "end": 139886,
+          "confidence": 0.99992085,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 139886,
+          "end": 140048,
+          "confidence": 0.9992403,
+          "speaker": "A"
+        },
+        {
+          "text": "lo",
+          "start": 140048,
+          "end": 140129,
+          "confidence": 0.99993587,
+          "speaker": "A"
+        },
+        {
+          "text": "toqué",
+          "start": 140129,
+          "end": 140630,
+          "confidence": 0.99998486,
+          "speaker": "A"
+        },
+        {
+          "text": "y",
+          "start": 140630,
+          "end": 140695,
+          "confidence": 0.97295547,
+          "speaker": "A"
+        },
+        {
+          "text": "sí.",
+          "start": 140695,
+          "end": 140825,
+          "confidence": 0.7080941,
+          "speaker": "A"
+        },
+        {
+          "text": "Claro,",
+          "start": 141180,
+          "end": 141633,
+          "confidence": 0.8968831,
+          "speaker": "A"
+        },
+        {
+          "text": "porque",
+          "start": 141666,
+          "end": 142183,
+          "confidence": 0.4332639,
+          "speaker": "A"
+        },
+        {
+          "text": "por",
+          "start": 142394,
+          "end": 142733,
+          "confidence": 0.52802026,
+          "speaker": "A"
+        },
+        {
+          "text": "lo",
+          "start": 142798,
+          "end": 142879,
+          "confidence": 0.9882665,
+          "speaker": "A"
+        },
+        {
+          "text": "general",
+          "start": 142960,
+          "end": 143526,
+          "confidence": 0.9999254,
+          "speaker": "A"
+        },
+        {
+          "text": "para",
+          "start": 143526,
+          "end": 144254,
+          "confidence": 0.9923611,
+          "speaker": "A"
+        },
+        {
+          "text": "porque",
+          "start": 144254,
+          "end": 144610,
+          "confidence": 0.9442792,
+          "speaker": "A"
+        },
+        {
+          "text": "siempre",
+          "start": 144610,
+          "end": 145079,
+          "confidence": 0.8372354,
+          "speaker": "A"
+        },
+        {
+          "text": "hay",
+          "start": 145079,
+          "end": 145143,
+          "confidence": 0.9773607,
+          "speaker": "A"
+        },
+        {
+          "text": "gente",
+          "start": 145143,
+          "end": 145645,
+          "confidence": 0.96248794,
+          "speaker": "A"
+        },
+        {
+          "text": "esperando",
+          "start": 145645,
+          "end": 146260,
+          "confidence": 0.99987274,
+          "speaker": "A"
+        },
+        {
+          "text": "o",
+          "start": 146260,
+          "end": 146276,
+          "confidence": 0.9137443,
+          "speaker": "A"
+        },
+        {
+          "text": "alguien",
+          "start": 146276,
+          "end": 146704,
+          "confidence": 0.99991894,
+          "speaker": "A"
+        },
+        {
+          "text": "se",
+          "start": 146770,
+          "end": 146934,
+          "confidence": 0.9997844,
+          "speaker": "A"
+        },
+        {
+          "text": "baja,",
+          "start": 146934,
+          "end": 147066,
+          "confidence": 0.9786839,
+          "speaker": "A"
+        },
+        {
+          "text": "pero",
+          "start": 147099,
+          "end": 147214,
+          "confidence": 0.9657475,
+          "speaker": "A"
+        },
+        {
+          "text": "si",
+          "start": 147214,
+          "end": 147346,
+          "confidence": 0.9973302,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 147346,
+          "end": 147543,
+          "confidence": 0.95695037,
+          "speaker": "A"
+        },
+        {
+          "text": "lo",
+          "start": 147543,
+          "end": 147642,
+          "confidence": 0.89964575,
+          "speaker": "A"
+        },
+        {
+          "text": "tocas,",
+          "start": 147642,
+          "end": 147806,
+          "confidence": 0.62465954,
+          "speaker": "A"
+        },
+        {
+          "text": "sí.",
+          "start": 147839,
+          "end": 148037,
+          "confidence": 0.74226636,
+          "speaker": "A"
+        },
+        {
+          "text": "Y",
+          "start": 148761,
+          "end": 148826,
+          "confidence": 0.6803986,
+          "speaker": "A"
+        },
+        {
+          "text": "de",
+          "start": 148826,
+          "end": 148942,
+          "confidence": 0.8291132,
+          "speaker": "A"
+        },
+        {
+          "text": "noche,",
+          "start": 148942,
+          "end": 149123,
+          "confidence": 0.59777284,
+          "speaker": "A"
+        },
+        {
+          "text": "porque",
+          "start": 149156,
+          "end": 149402,
+          "confidence": 0.46035042,
+          "speaker": "A"
+        },
+        {
+          "text": "no",
+          "start": 149402,
+          "end": 149501,
+          "confidence": 0.9188611,
+          "speaker": "A"
+        },
+        {
+          "text": "hay",
+          "start": 149501,
+          "end": 149518,
+          "confidence": 0.9885337,
+          "speaker": "A"
+        },
+        {
+          "text": "nadie.",
+          "start": 149518,
+          "end": 149699,
+          "confidence": 0.96652085,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Ya, ya, ya apareció acá. Así que ya casi más, ¿estamos? Estamos. 23 Uhr 50, Bro. 6:50 Uhr, Lang ES Plus, ein Jack Daniel's. Ciao!",
+      "confidence": 0.73334306,
+      "start": 151820,
+      "end": 197740,
+      "words": [
+        {
+          "text": "Ya,",
+          "start": 151820,
+          "end": 151852,
+          "confidence": 0.7918249,
+          "speaker": "B"
+        },
+        {
+          "text": "ya,",
+          "start": 152079,
+          "end": 152209,
+          "confidence": 0.72884774,
+          "speaker": "B"
+        },
+        {
+          "text": "ya",
+          "start": 152241,
+          "end": 152339,
+          "confidence": 0.9951746,
+          "speaker": "B"
+        },
+        {
+          "text": "apareció",
+          "start": 152339,
+          "end": 152971,
+          "confidence": 0.5965283,
+          "speaker": "B"
+        },
+        {
+          "text": "acá.",
+          "start": 153150,
+          "end": 153345,
+          "confidence": 0.9165161,
+          "speaker": "B"
+        },
+        {
+          "text": "Así",
+          "start": 153556,
+          "end": 153977,
+          "confidence": 0.6283071,
+          "speaker": "B"
+        },
+        {
+          "text": "que",
+          "start": 154270,
+          "end": 154351,
+          "confidence": 0.42376843,
+          "speaker": "B"
+        },
+        {
+          "text": "ya",
+          "start": 154351,
+          "end": 154708,
+          "confidence": 0.5134036,
+          "speaker": "B"
+        },
+        {
+          "text": "casi",
+          "start": 154756,
+          "end": 155324,
+          "confidence": 0.64175177,
+          "speaker": "B"
+        },
+        {
+          "text": "más,",
+          "start": 155324,
+          "end": 155373,
+          "confidence": 0.44594583,
+          "speaker": "B"
+        },
+        {
+          "text": "¿estamos?",
+          "start": 155438,
+          "end": 156590,
+          "confidence": 0.79681873,
+          "speaker": "B"
+        },
+        {
+          "text": "Estamos.",
+          "start": 156801,
+          "end": 157320,
+          "confidence": 0.7411664,
+          "speaker": "B"
+        },
+        {
+          "text": "23",
+          "start": 159516,
+          "end": 173979,
+          "confidence": 0.9516127,
+          "speaker": "B"
+        },
+        {
+          "text": "Uhr",
+          "start": 173979,
+          "end": 177321,
+          "confidence": 0.5242455,
+          "speaker": "B"
+        },
+        {
+          "text": "50,",
+          "start": 186096,
+          "end": 186736,
+          "confidence": 0.53716904,
+          "speaker": "B"
+        },
+        {
+          "text": "Bro.",
+          "start": 186938,
+          "end": 187242,
+          "confidence": 0.91042334,
+          "speaker": "B"
+        },
+        {
+          "text": "6:50",
+          "start": 191400,
+          "end": 192188,
+          "confidence": 0.52436864,
+          "speaker": "B"
+        },
+        {
+          "text": "Uhr,",
+          "start": 192478,
+          "end": 192671,
+          "confidence": 0.82045245,
+          "speaker": "B"
+        },
+        {
+          "text": "Lang",
+          "start": 193830,
+          "end": 193974,
+          "confidence": 0.32016143,
+          "speaker": "B"
+        },
+        {
+          "text": "ES",
+          "start": 194328,
+          "end": 194731,
+          "confidence": 0.7117458,
+          "speaker": "B"
+        },
+        {
+          "text": "Plus,",
+          "start": 195037,
+          "end": 195455,
+          "confidence": 0.96348536,
+          "speaker": "B"
+        },
+        {
+          "text": "ein",
+          "start": 195777,
+          "end": 196131,
+          "confidence": 0.991922,
+          "speaker": "B"
+        },
+        {
+          "text": "Jack",
+          "start": 196163,
+          "end": 196565,
+          "confidence": 0.9999291,
+          "speaker": "B"
+        },
+        {
+          "text": "Daniel's.",
+          "start": 196565,
+          "end": 197257,
+          "confidence": 0.86834544,
+          "speaker": "B"
+        },
+        {
+          "text": "Ciao!",
+          "start": 197370,
+          "end": 197740,
+          "confidence": 0.9896623,
+          "speaker": "B"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.8327288,
+  "audio_duration": 199,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": true,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": 0.5228,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 1459062,
+  "token_id": 1471794
+}
