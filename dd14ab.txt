@@ -1,0 +1,21 @@
+at14ab86b0 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14ab86d7 db laut Kk582 43m45s sagten wir MiDoFi ergo md0923
+at14ab871a db Drau
+at14ab8722 db DrauPitch
+at14ab8725 db DrauPtch
+at14abeb02 db cat dd14ab.txt
+at14abeb89 db wget https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/KkSm844.txt
+at14abebbc db ls -l KkSm844.txt..
+at14abebed db mv -iv KkSm844.txt.1 OrigKkSm844.txt
+at14abec27 db sn 3beb637fa66f251eaf1b645303ca1d0610a757b5db3bb8aa4e180dd8c6bc9945 579 dd14aa.txt
+at14abec2d db sn b201721641b09098a8f4e9fae3de3c3b53bce25e8bc34b20976e6cf6477b9218 2ad dd14a9.txt
+at14abec31 db sn 16e8d7133e443faa69f082268602baa1d275137b4b02a789fee3c85c0ea6aa6a 2f8 dd14a8.txt
+at14abec37 db sn dd5d370ae3fdcbb4ab950034c62acda1e70540f96b039d94edff0240e8d52a96 353 dd14a7.txt
+at14abedd1 db ls
+at14abedda db hisBoneAd14a0.txu
+at14abee1f db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+at14abee25 db sn db835b4bacea3cfeaaf259efac389571efdd66addc54132dc22e330a6dffcab6 6578 hisBoneAd14a8.txu
+at14abee2a db sn af666e6ebb8970e418373613c84eb3557ff83d4674ff80d66363d7bcda5ca31e 647e hisBoneAd14a0.txu
+at14abee2f db sn e02ef6d1fc9683e0d80b11461c33bda2ec70299c7dfc0ae9a96399bcc4c63390 60c6 hisBoneAd1498.txu
+at14abee34 db sn 26d2a4ad032aa6c70a22a2556b6cee65ade41e3cb29dc436468e3bcd926b800b 5dc3 hisBoneAd1490.txu
+at14abee79 db cat hisGiselaAd1424.txu
