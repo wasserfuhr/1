@@ -1,0 +1,29 @@
+at14b6b53f db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14b6b545 db https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3?source=webplayer-download
+at14b6b54f db https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+at14b6b55d db 2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+at14b6b578 db ls /storage/2627/1373
+at14b6b585 db ls /storage/2627-1373
+at14b6b65f db sm cf09b45b0397ad91896f758b2be7f757a22da2cab5faf0a91c346bd2d02c2b79 2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+at14b6b66c db cd /storage/2627-1373
+at14b6b673 db wget https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+at14b6b67f db cp -p 2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3 tmp.m4a
+at14b6b68e db cd
+at14b6b6ad db sn f4332ceaf7f4f5ccb9eaa619a124f541c70d2caf9808bd640e5635b6a32b0581 3a6 dd14b5.txt
+at14b6b6b3 db sn bd97bb749fa7547a3331fac09f6ae10d45b819da39d6d312cb95188592163c58 cf4 dd14b4.txt
+at14b6b6b7 db sn e286880b60e369a9403206c9227cff0cee7eda8516c21af7945e8fa897357f1e 567 dd14b3.txt
+at14b6b6bc db sn 5895cca51c87c6be35ba0a263c4474371801a8fa71b02053ad28b194a41c17bb 29f dd14b2.txt
+at14b6bf65 db https://whats-chippening-halbleiternews.podigee.io/
+at14b6cea7 db https://de.wikipedia.org/wiki/FDIR
+at14b6ceb7 db https://de.wikipedia.org/wiki/FDE
+at14b6cecc db https://www.linkedin.com/in/mirzajhanzaib?originalSubdomain=de
+at14b6ced0 db https://www.linkedin.com/in/mirzajhanzaib
+at14b6d83f db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14b6d86a db sn f781a67bcd5b58c7b9af9ca20e625a130ece5762ee3eb980e3ff6bbd4f7b45a6 7ea88c AdXxx.txt
+at14b6d9db db VierWocheb
+at14b6d9dd db VierWochen
+at14b6d9e3 db VierWochenStress
+at14b6f8b5 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14b6f8ba db https://github.com/wasserfuhr/1/commit/fb7c450498d15492ed4813a412cb81452b31578a
+at14b6f8c4 db DlfBug
+at14b6fae2 db grep 306.09
