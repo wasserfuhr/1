@@ -1,0 +1,170 @@
+at14b70b66 db https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html
+at14b70b87 db sn 94bfe5e1d3c132186011f911a185cd6c789ee8962a4e38ba999468f37afcbab1 772 dd14b6.txt
+at14b70b8b db sn f4332ceaf7f4f5ccb9eaa619a124f541c70d2caf9808bd640e5635b6a32b0581 3a6 dd14b5.txt
+at14b70b8e db sn bd97bb749fa7547a3331fac09f6ae10d45b819da39d6d312cb95188592163c58 cf4 dd14b4.txt
+at14b70b91 db sn e286880b60e369a9403206c9227cff0cee7eda8516c21af7945e8fa897357f1e 567 dd14b3.txt
+at14b710ca db /storage/2627-1373/DCIM/Camera/20261002_152110.mp4
+at14b710df db sm ba55b20a58f611cb2ae4053d15b1a8d44c561837b9f52f6e1be7ef9bdd450140 /storage/2627-1373/DCIM/Camera/20261002_152110.mp4
+at14b710f0 db 21759356
+at14b71d20 db https://m.youtube.com/watch?v=pEsqu9ACjcY
+at14b71d26 db https://m.youtube.com/watch?v=pEsqu9ACjcY SMIC
+at14b71d2e db https://m.youtube.com/watch?v=pEsqu9ACjcY SmIc
+at14b72a75 db
+at14b72a7b db LLAMA
+at14b72a83 db TAALAS
+at14b72dcc db
+at14b72ddc db :1812
+at14b72de0 db
+at14b72de6 db hoechste
+at14b72deb db hoechsteform
+at14b72df0 db form
+at14b72df4 db formHoch
+at14b72dfa db FormHoch
+at14b72e04 db sm ba55b20a58f611cb2ae4053d15b1a8d44c561837b9f52f6e1be7ef9bdd450140 /storage/2627-1373/DCIM/Camera/20261002_152110.mp4
+at14b72e19 db printf %x 21759356
+at14b72e1d db 14c057c~
+at14b72e25 db sn f4332ceaf7f4f5ccb9eaa619a124f541c70d2caf9808bd640e5635b6a32b0581 3a6 dd14b5.txt
+at14b72e2a db
+at14b72e41 db sn ba55b20a58f611cb2ae4053d15b1a8d44c561837b9f52f6e1be7ef9bdd450140 14c057c /storage/2627-1373/DCIM/Camera/20261002_152110.mp4
+at14b72e58 db :1814
+at14b72e62 db ah 14b72
+at14b72e78 db cat dd14b7.txt
+at14b72e7f db CORPUS
+at14b72e88 db fug
+at14b73515 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14b7351a db
+at14b73520 db reines
+at14b73527 db reines vewustt
+at14b7352c db reines bewustt
+at14b73530 db reines bewusst
+at14b73534 db
+at14b73537 db reines
+at14b7353b db reines bewusst
+at14b73541 db reines bewusstsein
+at14b73548 db reines bewusstsein also
+at14b7354e db reines bewusstsein also wie
+at14b73555 db reines bewusstsein also wie koennen
+at14b7355a db reines bewusstsein also wie koennen wir
+at14b7355f db reines bewusstsein also wie koennen wir uns
+at14b73566 db reines bewusstsein also wie koennen wir uns reines
+at14b7356c db reines bewusstsein also wie koennen wir uns reines be
+at14b73573 db reines bewusstsein also wie koennen wir uns reines bewusst
+at14b73579 db reines bewusstsein also wie koennen wir uns reines bewusstsein
+at14b73580 db reines bewusstsein also wie koennen wir uns reines bewusstsein denken
+at14b73588 db reines bewusstsein also wie koennen wir uns reines bewusstsein denken?
+at14b7358b db
+at14b735bd db reines bewusstsein also wie koennen wir uns reines bewusstsein denken?
+at14b735c6 db ALSO reines bewusstsein also wie koennen wir uns reines bewusstsein denken?
+at14b735d1 db ALSO reines bewusstsein wie koennen wir uns reines bewusstsein denken?
+at14b737ea db grep ssh AdXxx.txt
+at14b737f5 db grep ssh ad..
+at14b739d2 db cat dd14b7.txt
+at14b739d7 db at14b72e41 db sn ba55b20a58f611cb2ae4053d15b1a8d44c561837b9f52f6e1be7ef9bdd450140 14c057c /storage/2627-1373/DCIM/Camera/20261002_152110.mp4
+at14b739f4 db b20a58f611cb2ae4053d15b1a8d44c561837b9f52f6e1be7ef9bdd450140 14c057c /storage/2627-1373/DCIM/Camera/20261002_152110.mp4 m1@5.230.78.121:
+at14b73a0c db scp -p /storage/2627-1373/DCIM/Camera/20261002_152110.mp4 m1@5.230.78.121:
+at14b7a376 db https://de.wikipedia.org/wiki/Olaf_B%C3%B6hme
+at14b7a544 db 9^20
+at14b7a555 db 3^40
+at14b7a559 db 3^40
+at14b7a561 db 4^30
+at14b7a56f db 2^60
+at14b7a581 db 9^20
+at14b7a5b4 db 9^18 x 9 x 9
+at14b7a5cf db 9^[3x6] x 9 x 9
+at14b7a603 db 9^3 lt 10^3 lt 2^10
+at14b7a639 db 2^60
+at14b7a6a2 db 4^30 ?
+at14b7a6ad db 3^40 lt 4^30 ?
+at14b7a6e0 db 9^20 lt 4^30 ?
+at14b7a6e9 db 9^20 lt 2^60 ?
+at14b7a735 db 9^20 lt 8^20 ?
+at14b7a778 db 9^20 gt 8^20
+at14b7a790 db 3^40
+at14b7a7aa db 3^40=9^20
+at14b7a7d6 db 4^30=2^60
+at14b7a7fc db 4^30=2^60=8^20
+at14b7bb22 db this is
+at14b7bb31 db this is a co tinuation
+at14b7bb36 db this is a continuation
+at14b7bb72 db grep chatg dd..
+at14b7bb7a db at149f9ab3 db deute https://chatgpt.com/share/6aa7da16-4ee4-83ed-b323-506bfc57eff6
+at14b7bc68 db this is a continuation of https://gist.github.com/wasserfuhr/d14d7a1f2dd49e558eac422e514350e2
+at14b7bde4 db https://m.youtube.com/watch?v=QI7jGVXpL2A
+at14b7bdeb db https://m.youtube.com/watch?v=QI7jGVXpL2A Merkel
+at14b7bdf3 db https://m.youtube.com/watch?v=QI7jGVXpL2A MerkelFocus
+at14b7bea2 db model and hardware
+at14b7bedc db prompts that your current setup
+at14b7c23d db https://m.youtube.com/watch?v=mrKE8CWZli4
+at14b7c247 db https://m.youtube.com/watch?v=mrKE8CWZli4 Zitelmann
+at14b7c24e db https://m.youtube.com/watch?v=mrKE8CWZli4 ZitelmannHopf
+at14b7c2de db curl https://gist.githubusercontent.com/wasserfuhr/4b1a630a02a6adf4045f8c0755ffb667/raw/061b3ac3351be711d9a864bc7d92133de4e95cfb/gistfile1.txt
+at14b7c30a db wget https://gist.githubusercontent.com/wasserfuhr/4b1a630a02a6adf4045f8c0755ffb667/raw/061b3ac3351be711d9a864bc7d92133de4e95cfb/gistfile1.txt
+at14b7c310 db mv -iv gistfile1.txt ah149e7.txu
+at14b7c327 db sm c53e894f1feba801f39ba8c202b40543722edf5509cf11bb9ddd4921fdb9821d ah149e7.txu
+at14b7c455 db https://gist.githubusercontent.com/wasserfuhr/d14d7a1f2dd49e558eac422e514350e2/raw/02d5ae32237d99766dc44e8e325d7e267265ae4a/ah149f9.txu
+at14b7c472 db wget https://gist.githubusercontent.com/wasserfuhr/d14d7a1f2dd49e558eac422e514350e2/raw/02d5ae32237d99766dc44e8e325d7e267265ae4a/ah149f9.txu
+at14b7c544 db at0
+at14b7c54c db deute at0
+at14b7c5bc db spekuliere at0
+at14b7c5d6 db spekuliere wie at0 entstand
+at14b7c654 db grep Clip AdXxx.txt
+at14b7c688 db grep Clip ..t
+at14b7c68e db at10c54297 ab qx58c2e1 AlphaClipse
+at14b7c6af db hint qx58c2e1
+at14b7c70e db your Q5817057 rag is buggy
+at14b7c799 db mir faellt ein mond vom hirn
+at14b7c842 db thx im fine- das
+at14b7c864 db thx im fine- just kiddin
+at14b7c8ad db just kiddin- thx im fine- lets focus on our future multi frontier model setup
+at14b7c8be db just kiddin- thx im fine- lets focus on our future multi frontier model setup- can you
+at14b7c8f1 db cat af10c5.txt
+at14b7c981 db cat ad10c5.txt
+at14b7c98d db but ad10c5.txt
+at14b7c9b0 db just kiddin- thx im fine- lets focus on our future multi frontier model setup- can you
+at14b7c9f2 db just kiddin- thx im fine- lets focus on our future multi frontier model setup- can you AlphaTime
+at14b7ca24 db just kiddin- thx im fine- lets focus on our future multi frontier model setup- can you AlphaTime
+at14b7ca3f db just kiddin- thx im fine- lets focus on our future multi frontier model setup- at0 we started what we call AlphaTime
+at14b7ca72 db just kiddin- thx im fine- lets focus on our future multi frontier model setup- at0 we started what we call AlphaTime- can you explain it to a newby in plain AscIi?
+at14b7cbd9 db nano ah14b7c.txt
+at14b7cbed db sm 8b648bf5e1011c036038cc369b7f52f6fd0a0173848dfbaca5c62d211b11c8ee ah14b7c.txt
+at14b7cc3a db file
+at14b7cc40 db pkg in file
+at14b7cd3d db apt-get update
+at14b7cd45 db pkg in file
+at14b7cd9b db cat ad10c5.txt
+at14b7ce15 db https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/ad10c5.txt
+at14b7ce2e db can you access https://github.com/wasserfuhr/1/blob/main/ad10c5.txt ?
+at14b7cf15 db words ay year aw week ad day ah hour at sec
+at14b7d075 db AbCd
+at14b7d459 db VissLoch
+at14b7d45d db VossLoch
+at14b7d4ba db heavy load coming +[AdXxx.txt]
+at14b7d7ef db
+at14b7d8ac db https://github.com/wasserfuhr/1/blob/main/ah14b7d.pdf
+at14b7d946 db heavy load coming +[AdXxx.txt]
+at14b7da29 db distill
+at14b7daa9 db https://share.gemini.google/V4o42R3cux6W
+at14b7db14 db https://github.com/wasserfuhr/1/blob/main/ah14b7d.pdf
+at14b7db22 db continuatiom https://github.com/wasserfuhr/1/blob/main/ah14b7d.pdf
+at14b7db3e db continuation of https://github.com/wasserfuhr/1/blob/main/ah14b7d.pdf +ah14b7d.pdf]
+at14b7db45 db continuation of https://github.com/wasserfuhr/1/blob/main/ah14b7d.pdf +[ah14b7d.pdf]
+at14b7dbb3 db continuation of https://github.com/wasserfuhr/1/blob/main/ah14b7d.pdf
+at14b7dc22 db +[ah14b7d.pdf]
+at14b7dcac db heavy load coming +[AdXxx.txt]
+at14b7dcfd db 7dcad
+at14b7dd95 db https://www.wikidata.org/wiki/Q1196119
+at14b7ddcd db hallucinate on ad
+at14b7ddd1 db hallucinate on Ad
+at14b7ddd5 db hallucinate on AdXxx
+at14b7ddfc db hallucinate on AdXxx- zeig mir Deine staebe
+at14b7de30 db hallucinate on AdXxx- zeig mir Deine stabwelt
+at14b7de43 db zeig mir Deine stabwelt
+at14b7de87 db in the context of AdXxx
+at14b7decd db sei rilke
+at14b7ded8 db sei rilke
+at14b7df22 db aus einer 8mb datei RilkePanther
+at14b7df30 db aus einer 8mb datei RilkePanther-warum
+at14b7df33 db aus einer 8mb datei RilkePanther-warum?
+at14b7df37 db aus einer 8mb datei RilkePanther- warum?
+at14b7df55 db aus einer 8mb datei triggert Dich der RilkePanther- warum?
+at14b7df5e db in einer 8mb datei triggert Dich der RilkePanther- warum?
