@@ -1,0 +1,162 @@
+at14b80784 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14b8078a db reines bewusstsein also wie koennen wir uns reines bewusstsein denken?
+at14b80799 db reines bewusstsein wie koennen wir uns reines bewusstsein denken?
+at14b8079f db also reines bewusstsein wie koennen wir uns reines bewusstsein denken?
+at14b807a8 db geist
+at14b807ad db geist gott
+at14b807e2 db sn 676e16e80f7569aadd2652a86e79816214e70ef2a1c4dde6cd2827c659ca6879 22a1 dd14b7.txt
+at14b807e5 db sn 94bfe5e1d3c132186011f911a185cd6c789ee8962a4e38ba999468f37afcbab1 772 dd14b6.txt
+at14b807e8 db sn f4332ceaf7f4f5ccb9eaa619a124f541c70d2caf9808bd640e5635b6a32b0581 3a6 dd14b5.txt
+at14b807ec db sn bd97bb749fa7547a3331fac09f6ae10d45b819da39d6d312cb95188592163c58 cf4 dd14b4.txt
+at14b819d5 db [make computation autobiographical]
+at14b82481 db https://chatgpt.com/c/6ac08a1f-4c48-83eb-a9c7-3c3822038d45
+at14b82490 db hisBoneAd14b0.txu
+at14b82498 db ls ls
+at14b8249b db ls
+at14b8249d db hisBoneAd14b0.txu
+at14b824a2 db hisBoneAd14b8.txu
+at14b824af db file hisBoneAd14b8.txu
+at14b824e9 db sn e0db26523aa8bf69549d66a227541c0e88a2bbd8d2250d6208cbdb07cc45089b 6aa8 hisBoneAd14b8.txu
+at14b824ec db sn 05d1984cfab7ac851a06e9e26e00d7e5cbc3753271163bc846d050b50a6ef7dd 6598 hisBoneAd14b0.txu
+at14b824f7 db sn db835b4bacea3cfeaaf259efac389571efdd66addc54132dc22e330a6dffcab6 6578 hisBoneAd14a8.txu
+at14b82500 db sn af666e6ebb8970e418373613c84eb3557ff83d4674ff80d66363d7bcda5ca31e 647e hisBoneAd14a0.txu
+at14b82508 db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+at14b825f5 db TESLA
+at14b8262e db ls AdXxx.txt
+at14b8263c db ls -l AdXxx.txt
+at14b82640 db 8300684
+at14b82660 db printf%x 8300684
+at14b82664 db printf %x 8300684
+at14b82669 db 7ea88c~
+at14b8268d db 7dcad
+at14b8276a db cli for gemini?
+at14b827e6 db grep DC h..
+at14b827eb db /storage/2627-1373/DCIM/Camera/
+at14b828e6 db
+at14b82904 db nano ah14b82.txt
+at14b8294d db nano ah14b82.txt
+at14b829b7 db s=/storage/2627-1373/DCIM/Camera/2026
+at14b829c2 db export s=/storage/2627-1373/DCIM/Camera/2026
+at14b829e2 db ls $s/20260715_112531?0?.jpg 0715_112531
+at14b829f5 db export s=/storage/2627-1373/DCIM/Camera
+at14b82a07 db ls $s/20260715_112531?0?.jpg 0715_112531
+at14b82d0d db 562
+at14b82d83 db sm bf1a1bafe4665780daca0361db076ba252c17135cec0644c012dbd82e1621309 ah14b801.txu
+at14b83284 db export s=/storage/2627-1373/DCIM/Camera/2026
+at14b8332d db grep format h..
+at14b8334b db grep style h..
+at14b8339d db hisBoneAd1498.txu: 116 db ls -l --time-style=+%s
+at14b83bb1 db sm eb14c60fccef626570e23c5acc68f5e4cd8b1017c3201196dcec2ef7f102757d CamSmAd14b8.txt
+at14b83e54 db wie wirktsich vermoegen auf grundsicherungsgeld aus?
+at14b83e5b db wie wirkt sich vermoegen auf grundsicherungsgeld aus?
+at14b83eaf db schonvermoegen
+at14b83ee8 db ueblicher hausrat
+at14b83eee db HausRat
+at14b8414d db ls $/.
+at14b84153 db ls $s/.
+at14b8415a db du $s/.
+at14b8415e db du $s
+at14b84166 db du -b $s
+at14b84186 db 34558253260 /storage/2627-1373/DCIM/Camera
+at14b8421d
+at14b8421f db /storage/2627-1373/Recordings/Voice Recorder
+at14b84227 db /storage/2627-1373/Recordings/Voice Recorder
+at14b849b6 db /storage/2627-1373/DCIM/Camera/
+at14b849d8 db sm da92bb5d5aa97b6746b784c27af3264731d51fa097ef70d7068204f81134f086 TonSmAd14b8.txt
+at14b84a2a db :1425
+at14b84a34
+at14b84a39 db :1426
+at14b84a3c db ah 14b84
+at14b84d97 db VierHochViet
+at14b84d9b db VierHochVier
+at14b84dcf db Zwei
+at14b84dd3 db ZweiHoch
+at14b84dd9 db ZweiHochAcht
+at14b84e6d db dsm TonSmAd14b8.txt
+at14b84ea6 db sort -k2 TonSmAd14b8.txt
+at14b84eae db sort -rk2 TonSmAd14b8.txt
+at14b84ed8 db tslf at1488cdff 001fcaa8f4b7764304a7a74d4eaec7dd36aee2d5ccf24ab6ee6fccd5f0ae06b4 10a4382 Kk234.m4a
+at14b84eee db sn 001fcaa8f4b7764304a7a74d4eaec7dd36aee2d5ccf24ab6ee6fccd5f0ae06b4 10a4382 Kk234.m4a
+at14b85397 db 001fcaa8f4b7764304a7a74d4eaec7dd36aee2d5ccf24ab6ee6fccd5f0ae06b4
+at14b853bc db cat dd1488.txt
+at14b853c1 db at14887a9e db CLEMENS
+at14b853ce db at14887aa8 db MAU
+at14b853df db Kk234.m4a
+at14b853e6 db Kk234.m4a EsMt
+at14b853ed db Kk234.m4a EsMt HaarBand
+at14b853f6 db Kk234.m4a EsMt HaarBand LuMuLo
+at14b86452 db ExaRom
+at14b86483 db Ll202.m4a
+at14b8648a db Ll202.m4a ExaRom
+at14b86491 db Ll202.m4a CORPUS ExaRom
+at14b86af9 db TankRabatt
+at14b86aff db EmPoer
+at14b86b36 db kmh
+at14b86b39 db kmg
+at14b86b3f db kmg tpe
+at14b86b47 db kmg tpe zy
+at14b86be0 db exa
+at14b86be5 db exa terra
+at14b86bff db exa tera
+at14b86c32 db bischen
+at14b86c38 db bischen scarcity
+at14b86c43 db Erste
+at14b86c48 db ErsteRunde
+at14b86c4c db ErstRunde
+at14b86c4e db ErstRund
+at14b86c8e db 32 bit
+at14b86ca3 db ExaRom
+at14b86ce7 db Tages
+at14b86cec db TagesSchau
+at14b86cf0 db Ts
+at14b86cf4 db TsAi
+at14b86dec db 00000
+at14b86df2 db 0000 0
+at14b86df5 db 0000 009
+at14b86df8 db 0000 000
+at14b86dfb db 0000 0000
+at14b86e2b db 00 0000 0000
+at14b86e37 db 0100 0000 0000
+at14b86e62 db 01001 0000 0000
+at14b86e68 db 0001 0000 0000
+at14b86e7a db 0001 0000 0000 ExaRo.
+at14b86e7c db 0001 0000 0000 ExaRom
+at14b86fef db tpe
+at14b87027 db exa is zehn hoch achtzehn
+at14b87038 db exa is zehn hoch sex mal drei
+at14b8704a db 2 hoch sechzig
+at14b87053 db 64 bit
+at14b8707f db 0001 0000 0000 ExaRo.
+at14b87084 db 0001 0000 0000
+at14b8708e db 0001 0000 0000 0000
+at14b870e3 db 0000 0000 0000 0000
+at14b87173 db 0000 0000 0000 0000
+at14b8717b db 0000 0001 0000 0000
+at14b89e0e db ab 2^500 or 5^200?
+at14b89e15 db 2^500 or 5^200?
+at14b89e3f db 125 128
+at14b89e61 db 128 125
+at14b89e6c db 128
+at14b89e8a db 500=490+10
+at14b89e98 db 500=497+3
+at14b89eb1 db 70x7
+at14b89ee8 db 71x7+3
+at14b89f11 db 2^[71x7+3]
+at14b89f89 db 2^500=2^[71x7]x2^3
+at14b89fb3 db 2^500=128^71x2^3
+at14b89fbe db 5^200
+at14b89fd8 db 200=150+50
+at14b89fe8 db 200=3x50+50
+at14b89ff0 db 200=3x50+45+5
+at14b8a006 db 200=3x50+3x15+5
+at14b8a00f db 200=3x50+3x15++3+2
+at14b8a014 db 200=3x50+3x15+3+2
+at14b8a01d db 200=3x50+3x16+2
+at14b8a02b db 200=3x[50+16]+2
+at14b8a034 db 200=3x[66]+2
+at14b8a046 db 200=3x66+2
+at14b8a064 db 5^200=5^[3x66+2]
+at14b8a081 db 5^200=5^[3x66]x5^2
+at14b8a09d db 5^200=125^66x5^2
+at14b8a0af db 2^500=128^71x2^3
+at14b8a10a db 125^66x5^2 lt 128^71x2^3
