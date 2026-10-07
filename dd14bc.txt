@@ -1,0 +1,32 @@
+at14bc1de5 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14bc1e77 db sn 8b3aaccc9233ec64dce1658439e0359657259b2e3ab485e8226fc26034cfb444 27d dd14bb.txt
+at14bc1e7e db sn 681c0817439c0b3a7ab4188dfbc773d8f4b57a61708766836634a2845ec54829 28e8 dd14ba.txt
+at14bc1e81 db sn 37e1537f85707022c3c9966c95c60e7d7937d4a33466b4af4d5da75672f068f0 ccc dd14b9.txt
+at14bc1e86 db sn 6600b1efb7ed48f03507c65893a8a3cdfed92a92245ae4fef83b4623ab5e1d6a 17e1 dd14b8.txt
+at14bc1ebd db AllSn
+at14bc1ec0 db AllSl
+at14bc1ec2 db AllSm
+at14bc1eee db sn b1bef8cf209fb1c475d39e94b91797a00e96445059f2ca2edc55b7077de33cdc 192db TrueSmAdXxx.txt
+at14bc1f10 db sn da92bb5d5aa97b6746b784c27af3264731d51fa097ef70d7068204f81134f086 3193f TonSmAd14b8.txt
+at14bc1f35 db sn 7d1f60266465e73a7fcdf3cfb69c84a180f6f9837a134a1341d29d281cdd0854 120ea OrigKkSm844.txt
+at14bc1f76 db sn ef598d6ce1319c8fc6441b646399cfffb87062b3a2993b8b23bdf6f92c50b8ca 55 KkSm844.txt
+at14bc1fa9 db sn eb14c60fccef626570e23c5acc68f5e4cd8b1017c3201196dcec2ef7f102757d 11e02d CamSmAd14b8.txt
+at14bc1fc4 db sn 7a9feb1641e7901ef765918f1cea67f743cd0e8d2fb599603752e0350a02899e 2864c BoneSmAw146.txt
+at14bc21ef db HANNING
+at14bc234b db https://www.tagesspiegel.de/politik/wegen-spionageverdachts-ex-bnd-chef-august-hanning-festgenommen-16130486.html
+at14bc74b8 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14bc74bf db muede
+at14bc74d3 db cat dd14bc.txt
+at14bc79b2 db YGOERING
+at14bc79b8 db GOERING
+at14bc79ca db ECKARDT
+at14bc8254 db https://de.wikipedia.org/wiki/Philipp_Ruch
+at14bc82a8 db https://de.wikipedia.org/wiki/Philipp_Ruch
+at14bc82f4 db https://de.wikipedia.org/wiki/Katrin_G%C3%B6ring-Eckardt
+at14bc833e db https://de.wikipedia.org/wiki/Eckardt
+at14bc83aa db https://de.wikipedia.org/wiki/Zentrum_f%C3%BCr_Politische_Sch%C3%B6nheit
+at14bc83d5 db https://de.wikipedia.org/wiki/ZPS
+at14bc844d db https://de.wikipedia.org/wiki/Anne_Rabe
+at14bc888b db ab INITIATI E
+at14bc888f db ab INITIATIVE
+at14bc8895 db INITIATIVE
