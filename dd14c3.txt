@@ -1,0 +1,80 @@
+at14c3c835 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14c3c840 db SchnIrsch
+at14c3c849 db SPUNI
+at14c3c84d db SPUNK
+at14c3c857 db SPUNCK
+at14c3c85d db SPUNCK?
+at14c3c87b db :0739
+at14c3c886 db ah 14c3c
+at14c3c8ac db sn 08ec6012fd2ed3f414a26b2703e561176b2620e5c8f720fff4ecad0fe574d4b2 809 dd14c2.txt
+at14c3c8af db sn 444949167de73cac9fdc5321a960b36e44b272d950770ab7c64526145d7c908d 2ca dd14c1.txt
+at14c3c8b4 db sn 96cc9806aa414e6c20a84be2210e8feb443c901677a60c31ce14f908d1a80703 9f7 dd14c0.txt
+at14c3c8bd db sn 22ae3cb524fed273bff9f652bce1baab896d6053dc6e17179d5b9fe31f3bacdd 67a dd14bf.txt
+at14c3ce79 db https://www.welt.de/debatte/kommentare/plus201718856/Terror-in-Halle-Nie-wieder-nie-wieder.html
+at14c3dc65 db https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html
+at14c3dc6c db BaerbelBas
+at14c3dc7d db sms10q8
+at14c3dc81 db sms1018
+at14c3dc91 db chiffre
+at14c3dc96 db sms1018 ist
+at14c3dc9d db sms1018 ist eine chiffre
+at14c3dcae db damit markiere ich
+at14c3dcbf db damit markiere ich meine schwierigkeit
+at14c3dcd1 db gegen
+at14c3dcd7 db gegen herrschende
+at14c3dce5 db gegen herrschende glaubens
+at14c3dcea db gegen herrschende glaubenssaetze
+at14c3dcf1 db gegen herrschende glaubenssysteme
+at14c3dd04 db MACHT
+at14c3dd09 db son
+at14c3dd0d db son dummer
+at14c3dd11 db son dummer SUV
+at14c3dd1a db materialisiert
+at14c3dd1f db materialisiert leider
+at14c3dd25 db materialisiert leider MACHT
+at14c3dd2b db PANZER
+at14c3dd35 db KAMPF
+at14c3dd51 db vic
+at14c3dd61 db vic
+at14c3dd69 db Dan
+at14c3dd6b db Dian
+at14c3dd6f db Diana
+at14c3dd74 db DianaKampf
+at14c3dd78 db DianaKampfwert
+at14c3dec7 db LINKENHEIL
+at14c3df8a db voice
+at14c3df8f db voiceinter
+at14c3df92 db voiceintercon
+at14c3df97 db voiceinterconnect
+at14c3dfa3 db vicn
+at14c3dfa8 db vicn?
+at14c3dfb3 db vic
+at14c3dfd5 db https://www.voiceinterconnect.de/de/
+at14c3dfe5 db www.voiceinterconnect.de
+at14c3dfed db voiceinterconnect.de
+at14c3dff3 db voiceinterconnect
+at14c3dffd db 1:.de.voiceinterconnect
+at14c3e1bd db ping voiceinterconnect.de
+at14c3e1c3 db dd49806.kasserver.com
+at14c3e1d2 db 85.13.128.25
+at14c3e1f5 db 55 0d 80 19
+at14c3e206 db 19466
+at14c3e210 db AmmonHif
+at14c3e214 db AmmonHof
+at14c3ed70 db https://www.familienunternehmen.de/de
+at14c3ee6a db https://www.familienunternehmer.eu/
+at14c3f0e2 db https://www.lobbyregister.bundestag.de/suche/R000433/67548
+at14c3f7f9 db md0721 - RolfWiehagen
+at14c3f819 db son
+at14c3f835 db history .. grep sty
+at14c3f83f
+at14c3f840 db history .. grep form
+at14c3f8f1 db DdSmAq148
+at14c3f922 db DdSmAq148.txt
+at14c3f959 db sm 7101fb9f52b29a6d536aff59d4afc46fdb902df5f357f7811877b440d20ae6ab DdSmAq148.txt
+at14c3f960 db OSTERMABB
+at14c3f962 db OSTERMANN
+at14c3f96c db McOstermann
+at14c3f9ff db sort -k2r DdSmAq148.txt
+at14c3fa0d db . at1486a04e 00609228114696d39defb0cd6e7b832ab11740d55297deae798bc7c40e700b18 2b9 dd1486.txt
+at14c3fa4e db sm 00609228114696d39defb0cd6e7b832ab11740d55297deae798bc7c40e700b18 dd1486.txt
