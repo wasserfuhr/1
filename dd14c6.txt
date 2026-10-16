@@ -1,0 +1,45 @@
+at14c60333 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14c60339 db CcEu
+at14c60561 db
+at14c60578 db :0024
+at14c60584 db ah 14c60
+at14c6058d db HackMarkt
+at14c60591 db l HackMarkt
+at14c64605 db
+at14c6460e db Ll199
+at14c64616 db Ll199 MauKi
+at14c64bb7 db Ll399
+at14c64bbf db Ll399 BahnTalk
+at14c64bc9 db Ll399 InnoTrans BahnTalk
+at14c64be0 db Nach
+at14c64be4 db NachVoen
+at14c64bf6 db cat dd14c6.txt
+at14c64c14 db sn f121f4a574aca2cb5b5b3afd6c5b31989b68e120c7e43d74fd3e7d82f951bcbe 8ae dd14c5.txt
+at14c64c17 db sn b4c3a9e6e13c3dccf7e48da7f0c9e5c4bec13aacc0204ed8277c386eb402c164 22a0 dd14c4.txt
+at14c64c1a db sn 392d465e43aa94fca5fa8397a2adfcf584f8499674adeb3849f433067693aed7 b94 dd14c3.txt
+at14c64c1e db sn 08ec6012fd2ed3f414a26b2703e561176b2620e5c8f720fff4ecad0fe574d4b2 809 dd14c2.txt
+at14c659a3 db https://www.wikidata.org/wiki/Q131622206
+at14c67f1a db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14c67f23 db https://en.wikipedia.org/wiki/Nathan_Fielder
+at14c6815d db wandle
+at14c6817d db wandle csv in ein brritrpng
+at14c68194 db wandle csv in ein breites png- 8pt courier
+at14c681bb db ls ah..
+at14c681de db wandle [ah14c44.txu.csv] in ein breites png- 8pt courier
+at14c684a5 db cat ah14c44.txu.csv cat ah14c50.csv.txu
+at14c684b4 db cp -p ah14c44.txu.csv ah14c50.csv.txu
+at14c68562 db nano ah14c50.csv.txu
+at14c685a6 db wandle [ah14c50.csv.txu] in ein breites png- 8pt courier- spaltennamen aus erster zeile
+at14c686ae db grep 665546 dd..
+at14c686d2 db grep 665546 ?d..
+at14c686d7 db bd11ec.txt:at11ec53f7 bb at11e8e42a ab 66554611609
+at14c6919e db cp -p ah14c44.txu.csv ah14c51.csv.txu
+at14c69240 db nano ah14c51.csv.txu
+at14c69250 db sm 85d95c3ff2d6bfda18ffc58cfb043dcb7ab859c034b006111525cb5fef48a52f ah14c51.csv.txu
+at14c6926a db wandle [ah14c51.csv.txu] in ein breites png- 10pt courier- spaltennamen aus erster zeile
+at14c694ae db sm 7c4e1254d0ee3c92ce4910b5d5b0f55fa66b82ff0ec52fa55a1574a03c45551b /storage/2627-1373/Download/ah14c51.png
+at14c69577 db ping alphaspeech.ai
+at14c6958a db ping alphaspeech.de
+at14c6958e db www645.your-server.de
+at14c695a3 db 188.40.219.137
+at14c695eb db 43884
