@@ -1,0 +1,500 @@
+   23  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+   24  db sn 681c0817439c0b3a7ab4188dfbc773d8f4b57a61708766836634a2845ec54829 28e8 dd14ba.txt
+   25  db sn 8b3aaccc9233ec64dce1658439e0359657259b2e3ab485e8226fc26034cfb444 27d dd14bb.txt
+   26  db sn 1ec50e99a9e261b9de479a0892fa5eabdc86b297e03200820068b071b6ac7a1e 7bb dd14bc.txt
+   27  db sn e5dbc7f4fc3b6e60fef4a2b73a30c6d729fc947721418303eaae523f44eea300 6b0 dd14bd.txt
+   28  db sn 1ec50e99a9e261b9de479a0892fa5eabdc86b297e03200820068b071b6ac7a1e 7bb dd14bc.txt
+   29  db sn 8b3aaccc9233ec64dce1658439e0359657259b2e3ab485e8226fc26034cfb444 27d dd14bb.txt
+   30  db sn 681c0817439c0b3a7ab4188dfbc773d8f4b57a61708766836634a2845ec54829 28e8 dd14ba.txt
+   31  db l STRK
+   32  cat TonSmAd14b8.txt
+   33  db cat TonSmAd14b8.txt
+   34  sm TonSmAd14b8.txt
+   35  db sm da92bb5d5aa97b6746b784c27af3264731d51fa097ef70d7068204f81134f086  TonSmAd14b8.txt
+   36  db https://de.wikipedia.org/wiki/FRMCS
+   37  db https://www.railwaygazette.com/sponsored-content/2026/09/07/fp2-morane-2-and-the-path-to-frmcs-deployment-in-europe/
+   38  db https://www.cs.rptu.de/aktuelles/2026-08-07_Nachruf_Prof_Dr_Wiehagen/
+   39  db Wiehagen
+   40  db RolfWiehagen
+   41  db md0721 - RolfWiehagen
+   42  db md0119 + RolfWiehagen
+   43  db DERSI
+   44  db 5608aa2b
+   45  db https://www.sv-mattnetz-berlin.de/
+   46  db https://www.cs.utexas.edu/~danama/
+   47  db https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on
+   48  db PINKER
+   49  db ALEXANDER
+   50  db ScottAlexander
+   51  db AARONSON
+   52  history
+   53  db ScottAaronson
+   54  db https://de.wikipedia.org/wiki/Scott_Aaronson
+   55  db https://en.wikipedia.org/wiki/Slate_Star_Codex
+   56  echo "db https://x.com/VitalikButerin/status/2107976296320106851?fbclid=IwY2xjawU0UXpleHRuA2FlbQIxMQBwZG9mA3NydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHtSwUhCo-NxpnUB_yXvvjTyYaXUZA8uMKhDQieuWN0OGkv711RnQxSVBGuZz_aem_Tji0SF_tB9ai-vc1EHyTKw"|wc
+   57  db https://x.com/VitalikButerin/status/2107976296320106851?fbclid=IwY2xjawU0UXpleHRuA2FlbQIxMQBwZG9mA3NydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHtSwUhCo-NxpnUB_yXvvjTyYaXUZA8uMKhDQieuWN0OGkv711RnQxSVBGuZz_aem_Tji0SF_tB9ai-vc1EHyTKw
+   58  db https://x.com/VitalikButerin/status/2107976296320106851
+   59  history
+   60  544
+   61  db 544
+   62  more downloads/paypal.txt 
+   63  db https://de.wikipedia.org/wiki/Constantin_Schreiber
+   64  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+   65  db sn 8b3aaccc9233ec64dce1658439e0359657259b2e3ab485e8226fc26034cfb444 27d dd14bb.txt
+   66  db sn 1ec50e99a9e261b9de479a0892fa5eabdc86b297e03200820068b071b6ac7a1e 7bb dd14bc.txt
+   67  db sn e5dbc7f4fc3b6e60fef4a2b73a30c6d729fc947721418303eaae523f44eea300 6b0 dd14bd.txt
+   68  db sn 76be7e479920b3233759be2541aeb5f43eed1a03224562d8b1859bf11a683067 6e7 dd14be.txt
+   69  db sn e5dbc7f4fc3b6e60fef4a2b73a30c6d729fc947721418303eaae523f44eea300 6b0 dd14bd.txt
+   70  db sn 1ec50e99a9e261b9de479a0892fa5eabdc86b297e03200820068b071b6ac7a1e 7bb dd14bc.txt
+   71  db sn 8b3aaccc9233ec64dce1658439e0359657259b2e3ab485e8226fc26034cfb444 27d dd14bb.txt
+   72  db https://www.facebook.com/photo.php?fbid=1533191088843234
+   73  db https://www.facebook.com/share/v/1CCVKF72Ar/
+   74  db https://www.facebook.com/share/v/1CCVKF72Ar/ EIDINGER
+   75  db https://www.facebook.com/share/v/1CC5x1ZGpE/
+   76  db https://de.wikipedia.org/wiki/Fertighaus_63
+   77  db https://de.wikipedia.org/wiki/Bewobau-Siedlung_Quickborn
+   78  db https://de.wikipedia.org/wiki/Richard_Neutra
+   79  db https://de.wikipedia.org/wiki/Kaufmann_Desert_House
+   80  db https://de.wikipedia.org/wiki/Ebelin_Bucerius
+   81  db https://de.wikipedia.org/wiki/Gerd_Bucerius
+   82  db https://de.wikipedia.org/wiki/Bucerius
+   83  db https://de.wikipedia.org/wiki/Moot_Court
+   84  db https://de.wikipedia.org/wiki/Bucerius_Law_School
+   85  db https://m.youtube.com/watch?v=qIYxf9ab5aw
+   86  db https://m.youtube.com/watch?v=qIYxf9ab5aw GerdBucerius
+   87  db https://github.com/baochip/baochip-1x
+   88  db https://www.facebook.com/story.php?story_fbid=1568571557928798 ... id=1523044566296844
+   89  db https://www.facebook.com/share/v/1K7a3yrS7L/
+   90  db https://www.facebook.com/share/v/1K7a3yrS7L/ StClair
+   91  df
+   92  db https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3?source=webplayer-download
+   93  db https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+   94  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+   95  db sn 1ec50e99a9e261b9de479a0892fa5eabdc86b297e03200820068b071b6ac7a1e 7bb dd14bc.txt
+   96  db sn e5dbc7f4fc3b6e60fef4a2b73a30c6d729fc947721418303eaae523f44eea300 6b0 dd14bd.txt
+   97  db sn 76be7e479920b3233759be2541aeb5f43eed1a03224562d8b1859bf11a683067 6e7 dd14be.txt
+   98  db sn 22ae3cb524fed273bff9f652bce1baab896d6053dc6e17179d5b9fe31f3bacdd 67a dd14bf.txt
+   99  db sn 76be7e479920b3233759be2541aeb5f43eed1a03224562d8b1859bf11a683067 6e7 dd14be.txt
+  100  db sn e5dbc7f4fc3b6e60fef4a2b73a30c6d729fc947721418303eaae523f44eea300 6b0 dd14bd.txt
+  101  db sn 1ec50e99a9e261b9de479a0892fa5eabdc86b297e03200820068b071b6ac7a1e 7bb dd14bc.txt
+  102  db https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+  103  df
+  104  db dv cd /storage/2627-1373
+  105  db cd /storage/2627-1373
+  106  cd /storage/2627-1373
+  107  wget https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+  108  ls -Sl
+  109  ls -Slr
+  110  #wget https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+  111  cd
+  112  db #wget https://audio.podigee-cdn.net/2609710-m-4c26a1b7846d91c3a6f4aeec9cc66a39.mp3
+  113  db https://www.bagw.de/de/veranstaltungen/gesundheitstagung/gesundheitstagung-2026
+  114  db https://de.wikipedia.org/wiki/Heimsuchung_%E2%80%93_Eine_Jahrhundertgeschichte
+  115  db https://de.wikipedia.org/wiki/Jenny_Erpenbeck
+  116  db https://en.wikipedia.org/wiki/R/AmItheAsshole
+  117  db https://de.wikipedia.org/wiki/G%C3%BCnther_Maria_Halmer
+  118  #db https://www.google.com/search?client=ms-android-samsung-ss&hs=OwRB&sca_esv=2cd7c0326b86c6e2&sxsrf=APpeQnsXKB_YNKvL7SW2Dg5SDzjYUWjhBA:1791559435219&udm=vids&fbs=ABfTbFUyxjQn9bne4DuflY2dNqqK7N177jWgWpM5fkywM1UejB7tg32RbLFEmja3tIVUafRUsEqsI3Re4xFftwX0G4GXvRUbMgKN8yLoOR9T4RrfRACQRk8gpx6eysfLz9FVSwD98_d4jmVsuvk7o5jnHEXnorUC3kJ922pudhYG3I-glooWb_zXp2k2S6IfBb2TIsnXA4IW&q=Familienfest(2015)&sa=X&ved=2ahUKEwj1jev9nq2XAxWuRPEDHb7kARMQtKgLegQIDxAB&biw=384&bih=724&dpr=1.88
+  119  db https://m.youtube.com/watch?v=Wle41WDNMQc
+  120  db https://m.youtube.com/watch?v=Wle41WDNMQc Familieb
+  121  db https://m.youtube.com/watch?v=Wle41WDNMQc Familien
+  122  db https://m.youtube.com/watch?v=Wle41WDNMQc FamilienFest
+  123  db https://www.openstreetmap.org/#map=15/52.43851/13.22486
+  124  history
+  125  db 657 history
+  126  history
+  127  db 659 history
+  128  ls
+  129  db ls
+  130  db hisBoneAd14b8.txu
+  131  db hisBoneAd14c0.txu
+  132  sm hisBoneAd14c0.txu
+  133  history>>hisBoneAd14c0.txu
+  134  sm h*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  135  db sn db835b4bacea3cfeaaf259efac389571efdd66addc54132dc22e330a6dffcab6 6578 hisBoneAd14a8.txu
+  136  db sn 05d1984cfab7ac851a06e9e26e00d7e5cbc3753271163bc846d050b50a6ef7dd 6598 hisBoneAd14b0.txu
+  137  db sn e0db26523aa8bf69549d66a227541c0e88a2bbd8d2250d6208cbdb07cc45089b 6aa8 hisBoneAd14b8.txu
+  138  db sn 858c02f1e4eca2137283865b34578ce5d205c6e6937b8fa736b33043e5613fca 760b hisBoneAd14c0.txu
+  139  db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+  140  db sn 858c02f1e4eca2137283865b34578ce5d205c6e6937b8fa736b33043e5613fca 760b hisBoneAd14c0.txu
+  141  db sn e0db26523aa8bf69549d66a227541c0e88a2bbd8d2250d6208cbdb07cc45089b 6aa8 hisBoneAd14b8.txu
+  142  db sn 05d1984cfab7ac851a06e9e26e00d7e5cbc3753271163bc846d050b50a6ef7dd 6598 hisBoneAd14b0.txu
+  143  db sn db835b4bacea3cfeaaf259efac389571efdd66addc54132dc22e330a6dffcab6 6578 hisBoneAd14a8.txu
+  144  db https://de.wikipedia.org/wiki/Familienfest
+  145  db https://de.wikipedia.org/wiki/FMEA
+  146  db https://de.wikipedia.org/wiki/Emil_Cioran
+  147  db Melt
+  148  db MeltDown
+  149  db MICHELSEN
+  150  db https://en.wikipedia.org/wiki/Leon_Szeli
+  151  sm h*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  152  history
+  153  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  154  db sn e5dbc7f4fc3b6e60fef4a2b73a30c6d729fc947721418303eaae523f44eea300 6b0 dd14bd.txt
+  155  db sn 76be7e479920b3233759be2541aeb5f43eed1a03224562d8b1859bf11a683067 6e7 dd14be.txt
+  156  db sn 22ae3cb524fed273bff9f652bce1baab896d6053dc6e17179d5b9fe31f3bacdd 67a dd14bf.txt
+  157  db sn 96cc9806aa414e6c20a84be2210e8feb443c901677a60c31ce14f908d1a80703 9f7 dd14c0.txt
+  158  db sn 22ae3cb524fed273bff9f652bce1baab896d6053dc6e17179d5b9fe31f3bacdd 67a dd14bf.txt
+  159  db sn 76be7e479920b3233759be2541aeb5f43eed1a03224562d8b1859bf11a683067 6e7 dd14be.txt
+  160  db sn e5dbc7f4fc3b6e60fef4a2b73a30c6d729fc947721418303eaae523f44eea300 6b0 dd14bd.txt
+  161  db CleMan
+  162  #-0
+  163  db
+  164  cat dd14c0.txt
+  165  db HighAgency
+  166  db ExaBrain
+  167  db ExaFlash
+  168  db 77231
+  169  db 77231 JaRuRa
+  170  db https://de.wikipedia.org/wiki/Christian_Kracht
+  171  db
+  172  db :1742
+  173  db ah 14c1b
+  174  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  175  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  176  db cd /storage/2627-1373
+  177  db https://audio.podigee-cdn.net/2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3?source=webplayer-download
+  178  db https://audio.podigee-cdn.net/2615179-m-8dd0821c06a192529b7857abe339
+  179  db https://audio.podigee-cdn.net/2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3
+  180  db wget https://audio.podigee-cdn.net/2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3
+  181  cd /storage/2627-1373
+  182  wget https://audio.podigee-cdn.net/2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3
+  183  cp -p 2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3 tmp.m4a
+  184  sm 2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3
+  185  cd
+  186  #cp -p 2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3 tmp.m4a
+  187  db sm e7c13c7ea7cdb020b3bb5e1d1561d110dd8eb947f2754d98d7a8b1cd7f29b29f  2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3
+  188  db cp -p 2615179-m-8dd0821c06a192529b7857abe339b6b7.mp3 tmp.m4a
+  189  db SlopCore
+  190  db [27 wird schockierend]
+  191  db [Lebensdauerverl:angerungsprojekt]
+  192  db https://www.linkedin.com/feed/update/urn:li:activity:7503764879149858817
+  193  db https://www.linkedin.com/feed/update/urn:li:activity:7503764879149858817 [Lebensdauerverl:angerungsprojekt]
+  194  db HRB19466
+  195  db Voice
+  196  db VoiceInter
+  197  db VoiceInterConnect
+  198  db WEIDEL
+  199  db Linken
+  200  db LinkenHeil
+  201  db https://github.com/wasserfuhr/1/commit/a9aa10ce6d47023589e825ba780aee4972d6669b
+  202  db sms1018
+  203  db LiPl sms1018
+  204  db https://cvj.ch/wissen/basiswissen/bittensor-tao-das-dezentrale-netzwerk-erklaert/
+  205  db BitTend
+  206  db BitTens
+  207  db BitTensor
+  208  ab Light
+  209  db ab Light
+  210  db Light
+  211  db LightMan
+  212  db Lightman
+  213  db AlexLightman
+  214  db https://www.hauke-verlag.de/ein-besuch-in-neukoelln/?fbclid=IwY2xjawU4Vp5leHRuA2FlbQIxMQBwZG9mA3NydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHghNwc2m8Cw8KmfGfOvLBSPv-GWHXs3gJyjZyK6nOwj2dq1q32KXgIPr42hj_aem_BQEpuZXe6UA_y6WeatoTqw
+  215  db https://www.hauke-verlag.de/ein-besuch-in-neukoelln/
+  216  db https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html
+  217  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  218  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  219  db Espenlaub
+  220  db EspenlaubRojas
+  221  db EspenlaubRojasFrings
+  222  db EspenlaubRojasFringsBastion
+  223  db :1843
+  224  db ah 14c46
+  225  db confidence
+  226  cat dd4c4
+  227  db cat dd4c4
+  228  db cat dd14c4
+  229  db cat dd14c4.txt
+  230  cat dd14c4.txt
+  231  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  232  db sn 96cc9806aa414e6c20a84be2210e8feb443c901677a60c31ce14f908d1a80703 9f7 dd14c0.txt
+  233  db sn 444949167de73cac9fdc5321a960b36e44b272d950770ab7c64526145d7c908d 2ca dd14c1.txt
+  234  db sn 08ec6012fd2ed3f414a26b2703e561176b2620e5c8f720fff4ecad0fe574d4b2 809 dd14c2.txt
+  235  db sn 392d465e43aa94fca5fa8397a2adfcf584f8499674adeb3849f433067693aed7 b94 dd14c3.txt
+  236  db sn 08ec6012fd2ed3f414a26b2703e561176b2620e5c8f720fff4ecad0fe574d4b2 809 dd14c2.txt
+  237  db sn 444949167de73cac9fdc5321a960b36e44b272d950770ab7c64526145d7c908d 2ca dd14c1.txt
+  238  db sn 96cc9806aa414e6c20a84be2210e8feb443c901677a60c31ce14f908d1a80703 9f7 dd14c0.txt
+  239  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  240  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  241  db ULF
+  242  db KiUlf
+  243  db :2147
+  244  db ah 14c48
+  245  db MarMus
+  246  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  247  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  248  db :0007
+  249  db ah 14c4a
+  250  db :0050
+  251  db ah 14c4b
+  252  db l STRK
+  253  db ULF
+  254  db KiUlf
+  255  db CrelleUli
+  256  db CrelleUlli
+  257  db CrelleUlli?
+  258  grep Crel d*
+  259  db grep Crel d..
+  260  grep Crel ad*
+  261  db grep Crel ad..
+  262  db at13f51c67 ab md0507 tbi md0507 CrelleUli md0507 SuedOstLink md0509:14 adi md0509 BuchNacht md0509:20 PUSSI? md0511 KernEnergie md0627 PETER md0205 sl7
+  263  db grep tbi ad..
+  264  grep tbi ad*
+  265  db atf6e7d84 ab das erste bewegtbildmaterial
+  266  grep tbi ad*
+  267  db atf6ea234 ab zusammengepuzzeltes gesamtbild aus dem wechselspiel unsrer abtastung?
+  268  grep tdi ad*
+  269  ls -l ad*
+  270  db ls -l ad..
+  271  cat ad13f3.txt
+  272  cal 2026
+  273  db cal 2026
+  274  cat ad13f4.txt
+  275  db cat ad13f4.txt
+  276  db https://de.wikipedia.org/wiki/Myalgische_Enzephalomyelitis/Chronisches_Fatigue-Syndrom
+  277  db https://en.wikipedia.org/wiki/Stephen_Balch
+  278  db KDStV
+  279  db KdStv
+  280  db https://de.wikipedia.org/wiki/Rainer_Dulger
+  281  db https://de.wikipedia.org/wiki/KDStV
+  282  db
+  283  db bhbi
+  284  db bhbi stzt
+  285  db bhbi setzt
+  286  db bhbi setzt noosphere
+  287  db bhbi setzt noo
+  288  db bhbi setzt noos
+  289  db bhbi setzt nous
+  290  db bhbi setzt nousphere
+  291  db bhbi setzt nousphere fort
+  292  db
+  293  db er
+  294  db sie
+  295  db
+  296  db du
+  297  db ich
+  298  db
+  299  db wir
+  300  db pplural
+  301  db plural
+  302  db im plural
+  303  db uns im plural
+  304  db erzehlen uns im plural
+  305  db erzaehlen uns im plural
+  306  db en uns im plural
+  307  db schreien uns im plural
+  308  db schreiben uns im plural
+  309  db erschreiben uns im plural
+  310  db also
+  311  db also er
+  312  db nd
+  313  db und
+  314  db und sie
+  315  db sie ist schoener
+  316  db wunderschoen
+  317  db wunderschoen elegant
+  318  db zelluloud
+  319  db zelluloid
+  320  db zelloloid
+  321  db https://de.wikipedia.org/wiki/Celluloid
+  322  db https://de.wikipedia.org/wiki/John_Wesley_Hyatt
+  323  db zelloloid
+  324  db zelluloid
+  325  db zelluloid gebannt
+  326  db :0426
+  327  db ah 14c4e
+  328  db
+  329  db die
+  330  db diemensch
+  331  db diemenschheit
+  332  db diemenschheitwird
+  333  db diemenschheitwirdunter
+  334  db diemenschheitwirduntergehen
+  335  db BASTION
+  336  db GIO
+  337  db MachtUfer
+  338  db
+  339  db jede .. von demokratie
+  340  db jede .. von demokratie impliziert nationalstaatlichen
+  341  db jede .. von demokratie impliziert nationalstaatlichen egoismus
+  342  db jede .. von demokratie manifestiert nationalstaatlichen egoismus
+  343  db jede anpreisung von demokratie manifestiert nationalstaatlichen egoismus
+  344  db jede anrufung von demokratie manifestiert nationalstaatlichen egoismus
+  345  db jede anrufung von demokratie zementiert nationalstaatlichen egoismus
+  346  db sms1018
+  347  db sms1018 Stuu
+  348  db sms1018 Stut
+  349  db sms1018 StutGart
+  350  db DusselDorf
+  351  db Hav
+  352  db HavFrue
+  353  db https://de.wikipedia.org/wiki/Den_lille_Havfrue
+  354  db ReBoot
+  355  db GITTE
+  356  db IchWillAlles
+  357  df
+  358  db InkedIn
+  359  db l STRK
+  360  db
+  361  db am ende dieser
+  362  db am ende dieser datei findest Du die aktuellsten
+  363  db am ende dieser datei findest Du die aktuellsten instruktionen
+  364  txt2pdf
+  365  db txt2pdf
+  366  db Anke
+  367  db AnkeDank
+  368  db Rob
+  369  db RobCrow
+  370  db RobCrowQuest
+  371  db DUDE
+  372  db Hav
+  373  db HavFrue
+  374  db RobCrowQuest
+  375  db jede anrufung von demokratie zementiert nationalstaatlichen egoismus
+  376  db :0532
+  377  db ah 14c4f
+  378  history
+  379  db am ende dieser datei findest Du die aktuellsten instruktionen
+  380  db Mind
+  381  db MindWiki
+  382  db Wi
+  383  db WiKi
+  384  db Anke
+  385  db AnkeDank
+  386  db AnkeDanke
+  387  db SYLT
+  388  db NARRATIV
+  389  db BASTION
+  390  db Narrativ
+  391  db NarrativBastion
+  392  db Im
+  393  db ImPuls
+  394  db BEAT
+  395  db Beat
+  396  db BeatDoebeli
+  397  db GAGA
+  398  db Gaga
+  399  db GagaNielsen
+  400  db https://gaganielsen.com/
+  401  db Anke
+  402  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  403  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  404  db DUKTUS
+  405  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  406  db sn 444949167de73cac9fdc5321a960b36e44b272d950770ab7c64526145d7c908d 2ca dd14c1.txt
+  407  db sn 08ec6012fd2ed3f414a26b2703e561176b2620e5c8f720fff4ecad0fe574d4b2 809 dd14c2.txt
+  408  db sn 392d465e43aa94fca5fa8397a2adfcf584f8499674adeb3849f433067693aed7 b94 dd14c3.txt
+  409  db sn b4c3a9e6e13c3dccf7e48da7f0c9e5c4bec13aacc0204ed8277c386eb402c164 22a0 dd14c4.txt
+  410  db sn 392d465e43aa94fca5fa8397a2adfcf584f8499674adeb3849f433067693aed7 b94 dd14c3.txt
+  411  db sn 08ec6012fd2ed3f414a26b2703e561176b2620e5c8f720fff4ecad0fe574d4b2 809 dd14c2.txt
+  412  db sn 444949167de73cac9fdc5321a960b36e44b272d950770ab7c64526145d7c908d 2ca dd14c1.txt
+  413  db https://github.com/wasserfuhr/1/commit/1c4561982557c40f0c0af3947f6e4e4c6d0bd693
+  414  db https://de.wikipedia.org/wiki/Laura_Dornheim
+  415  db reinnerden
+  416  db Quote
+  417  db Quoten
+  418  db QuotenFrau
+  419  db DORN
+  420  db DORNHEIM
+  421  db LauraDorn
+  422  db Laura
+  423  db LauraDorn
+  424  db LauraDornheim
+  425  db LauraDornheimdb BamBerg
+  426  db BamBerg
+  427  db Bam
+  428  db Berg
+  429  db BamBerg
+  430  db Sascha
+  431  db Goetz
+  432  db SaschaGoetz
+  433  sb https://www.linkedin.com/in/stefan-scholz-2aaa3240?originalSubdomain=de
+  434  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  435  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  436  db sb https://www.linkedin.com/in/stefan-scholz-2aaa3240?originalSubdomain=de
+  437  db https://www.linkedin.com/in/stefan-scholz-2aaa3240?originalSubdomain=de
+  438  db https://www.linkedin.com/in/stefan-scholz-2aaa3240
+  439  df
+  440  db
+  441  db :1531
+  442  db ah 14c58
+  443  db MESSE
+  444  db LinnLegros
+  445  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  446  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  447  db https://en.wikipedia.org/wiki/Nathan_Fielder
+  448  db wandle 
+  449  db wandle csv in ein brritrpng 
+  450  db wandle csv in ein breites png- 8pt courier
+  451  ls ah*
+  452  db ls ah..
+  453  cat ah14c44.txu.csv
+  454  db wandle [ah14c44.txu.csv] in ein breites png- 8pt courier
+  455  cat ah14c44.txu.csv
+  456  db cat ah14c44.txu.csv  cat ah14c50.csv.txu
+  457  db cp -p ah14c44.txu.csv ah14c50.csv.txu
+  458  cp -p ah14c44.txu.csv ah14c50.csv.txu
+  459  nano ah14c50.csv.txu
+  460  db nano ah14c50.csv.txu
+  461  db wandle [ah14c50.csv.txu] in ein breites png- 8pt courier- spaltennamen aus erster zeile
+  462  grep 665546 dd*
+  463  db grep 665546 dd..
+  464  grep 665546 ?d*
+  465  db grep 665546 ?d..
+  466  db bd11ec.txt:at11ec53f7 bb at11e8e42a ab 66554611609
+  467  cp -p ah14c44.txu.csv ah14c51.csv.txu
+  468  db cp -p ah14c44.txu.csv ah14c51.csv.txu
+  469  nano ah14c51.csv.txu
+  470  db nano ah14c51.csv.txu
+  471  sm ah14c51.csv.txu
+  472  db sm 85d95c3ff2d6bfda18ffc58cfb043dcb7ab859c034b006111525cb5fef48a52f  ah14c51.csv.txu
+  473  db wandle [ah14c51.csv.txu] in ein breites png- 10pt courier- spaltennamen aus erster zeile
+  474  ls downloads/ah14838 
+  475  ls /storage/2627-1373/Download/ad*
+  476  ls /storage/2627-1373/Download/ah14*
+  477  sm /storage/2627-1373/Download/ah14c51.png
+  478  db sm 7c4e1254d0ee3c92ce4910b5d5b0f55fa66b82ff0ec52fa55a1574a03c45551b  /storage/2627-1373/Download/ah14c51.png
+  479  ping alphaspeech.ai
+  480  db ping alphaspeech.ai
+  481  ping alphaspeech.de
+  482  db ping alphaspeech.de
+  483  db www645.your-server.de
+  484  ping alphaspeech.de
+  485  db 188.40.219.137
+  486  db 43884
+  487  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  488  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  489  db [DREsdner BERatung f:ur internationale Strategien]
+  490  db https://www.dreberis.com/de/ueber-uns
+  491  db https://www.dreberis.com/de/ueber-uns [DREsdner BERatung f:ur internationale Strategien]
+  492  db https://m.youtube.com/channel/UCaCy72YAF2bHIrEGZbrav-A
+  493  db https://www.facebook.com/reel/1126810820017035/
+  494  db https://www.facebook.com/reel/1126810820017035
+  495  db BMUKN
+  496  db https://www.rqi.ag/post/rqi-immobilien-managt-upper-west-und-bremsenwerk
+  497  db
+  498  db :1125
+  499  db ah 14c7f
+  500  db drin
+  501  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  502  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  503  db SCHTZNGRBN
+  504  db :0120
+  505  db ah 14c8b
+  506  db l STRK
+  507  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  508  db sn b4c3a9e6e13c3dccf7e48da7f0c9e5c4bec13aacc0204ed8277c386eb402c164 22a0 dd14c4.txt
+  509  db sn f121f4a574aca2cb5b5b3afd6c5b31989b68e120c7e43d74fd3e7d82f951bcbe 8ae dd14c5.txt
+  510  db sn ce029ffb7034585d13e35cf6781bb610ccd6c713aa4eccc530cccac1a2b80304 854 dd14c6.txt
+  511  db sn da351ec3c1a0b1be745fccde7f43e4e1c85766f05842bf5d597cfefb43e416e9 5ad dd14c7.txt
+  512  db sn ce029ffb7034585d13e35cf6781bb610ccd6c713aa4eccc530cccac1a2b80304 854 dd14c6.txt
+  513  db sn f121f4a574aca2cb5b5b3afd6c5b31989b68e120c7e43d74fd3e7d82f951bcbe 8ae dd14c5.txt
+  514  db sn b4c3a9e6e13c3dccf7e48da7f0c9e5c4bec13aacc0204ed8277c386eb402c164 22a0 dd14c4.txt
+  515  history
+  516  db 515 history
+  517  ls
+  518  db ls
+  519  db hisBoneAd14c0.txu
+  520  db hisBoneAd14c8.txu
+  521  sm hisBoneAd14c8.txu
+  522  history>>hisBoneAd14c8.txu
