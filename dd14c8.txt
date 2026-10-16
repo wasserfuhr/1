@@ -1,0 +1,53 @@
+at14c8b560 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14c8b56e db SCHTZNGRBN
+at14c8b57f db :0120
+at14c8b58d db ah 14c8b
+at14c8b595 db l STRK
+at14c8b5c0 db sn da351ec3c1a0b1be745fccde7f43e4e1c85766f05842bf5d597cfefb43e416e9 5ad dd14c7.txt
+at14c8b5c7 db sn ce029ffb7034585d13e35cf6781bb610ccd6c713aa4eccc530cccac1a2b80304 854 dd14c6.txt
+at14c8b5cb db sn f121f4a574aca2cb5b5b3afd6c5b31989b68e120c7e43d74fd3e7d82f951bcbe 8ae dd14c5.txt
+at14c8b5cf db sn b4c3a9e6e13c3dccf7e48da7f0c9e5c4bec13aacc0204ed8277c386eb402c164 22a0 dd14c4.txt
+at14c8b5e0 db 515 history
+at14c8b5f0 db ls
+at14c8b5f6 db hisBoneAd14c0.txu
+at14c8b5fd db hisBoneAd14c8.txu
+at14c8b63c db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+at14c8b641 db sn 17ddd8ca248d378d4871545c509591528c916184419e15bb6abfa7eaf39e63b0 59e9 hisBoneAd14c8.txu
+at14c8b645 db sn 858c02f1e4eca2137283865b34578ce5d205c6e6937b8fa736b33043e5613fca 760b hisBoneAd14c0.txu
+at14c8b64c db sn e0db26523aa8bf69549d66a227541c0e88a2bbd8d2250d6208cbdb07cc45089b 6aa8 hisBoneAd14b8.txu
+at14c8b657 db sn 05d1984cfab7ac851a06e9e26e00d7e5cbc3753271163bc846d050b50a6ef7dd 6598 hisBoneAd14b0.txu
+at14c8b6e1 db Sch
+at14c8b6e7 db SchTzn
+at14c8b6f0 db SchTznGrbn
+at14c8b73e db ewigerstruggle
+at14c8b744 db CcEu
+at14c8b789 db md1125
+at14c8b791 db md1125 Trans
+at14c8b797 db md1125 TransVer
+at14c8b79f db md0205 md1125 TransVer
+at14c8b7a6 db md0205 sl7 md1125 TransVer
+at14c8b948 db https://de.wikipedia.org/wiki/Roland_Werner_%28Politiker%29
+at14c8c5b1 db https://www.deutschlandradio.de/veranstaltungsreihe-merkel-unplugged-102.html
+at14c8c6a5 db https://x.com/k_frenzel/status/2090528683383505150
+at14c8c6aa db https://x.com/k_frenzel/status/2090528683383505150 liked
+at14c8c6b7 db FRENZEL
+at14c8c7bf db https://x.com/rainer/status/1640664222764761089
+at14c8c812 db [[Freiheitsgrade. Elemente einer liberalen politischen Mechanik] - der diesjaehrige sachbuchtitelpoetikaward geht an @ChristopMllers=ChrisMoellers=qx10907a=Q1085562 via @k_frenzel]
+at14c8c826 db . ate1a18a0
+at14c8c83b db cat ade1a.txt
+at14c8c870 db ate1a64d2 ab meine kuehnste annahme? noch in diesem jahrzehnt wird die MenschHeit per StarkKi ausgeloescht
+at14c8c8d5 db ate1a5f23 ab kuck ma LinChen ein echtes LIKE vom echten KorbinianFrenzel- wieviel BolleKarma punkte gibt das?
+at14c8c93d db sn def1e68d424a8f06fa4ff71999f5cc3a4c119e26d5eeb4638ba84e52be8e3e47 23d7 ade1d.txt
+at14c8c941 db sn 6e4cc3174c81033eda28fad96b2c09720612b3ad1a997de3665bad7cbe78f33e 2ab4 ade1c.txt
+at14c8c944 db sn e87dbdd6e502c001e048c681a20d9ae2f2acf1779b8a1c03baf6c08fcb51bb92 200d ade1b.txt
+at14c8c948 db sn 45d59264fd5716de8b906db4520680dc6fe77aa955c79c94f00318c62c5d5843 364b ade1a.txt
+at14c8cac6 db KiUlf
+at14c8cace db SocherUlf
+at14c8d336 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14c8d33f db JaAu
+at14c8d424 db 157515
+at14c8d442 db grep 157515 d..
+at14c8d449 db dd14b4.txt:at14b4721c db 4915751539162
+at14c8d46c db +4915751539162
+at14c8d476 db 39162
+at14c8d75b db https://de.wikipedia.org/wiki/Giesecke+Devrient
