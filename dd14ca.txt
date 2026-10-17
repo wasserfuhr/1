@@ -1,0 +1,58 @@
+at14ca019e db https://de.wikipedia.org/wiki/Deutsch-taiwanische_Beziehungen
+at14ca0265 db https://de.wikipedia.org/wiki/Gu_Ruey-sheng
+at14ca0386 db 205941
+at14ca03ea db Ja
+at14ca03f1 db JaJo
+at14ca03f5 db JaJoWu
+at14ca054d db https://en.wikipedia.org/wiki/National_Security_Council_%28Taiwan%29
+at14ca0573 db https://en.wikipedia.org/wiki/Joseph_Wu
+at14ca0607 db https://de.wikipedia.org/wiki/Joseph_Wu
+at14ca0611 db ab JoWu
+at14ca0807 db sn c1370c16dc1def10d1344ba5d9b5c407e73faacfebe329209b4af4f66f9c5e53 c50 dd14c9.txt
+at14ca080d db sn 8e5c940f74d1c9611a4fcb691a57f9b3d57c59e9c2a8190067ce2f383927ceeb bf7 dd14c8.txt
+at14ca0811 db sn da351ec3c1a0b1be745fccde7f43e4e1c85766f05842bf5d597cfefb43e416e9 5ad dd14c7.txt
+at14ca0816 db sn ce029ffb7034585d13e35cf6781bb610ccd6c713aa4eccc530cccac1a2b80304 854 dd14c6.txt
+at14ca0b38 db LongTime
+at14ca0b3e db LongTimeNoSe
+at14ca0b42 db LongTimeNoSee
+at14ca0dc4 db
+at14ca4612 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14ca46e3 db ab 454
+at14ca46e7 db 454
+at14ca46ee db 353
+at14ca46fa db Ll454
+at14ca4701 db Ll353
+at14ca470b db 7t
+at14ca4710 db 8t
+at14ca4746 db :0554
+at14ca4752 db ah 14ca4
+at14ca475a db l STRK
+at14ca4763 db regel
+at14ca4768 db Regel
+at14ca476d db REgel
+at14ca4775 db REGel
+at14ca477b db REGEl
+at14ca477e db REGEL
+at14ca478a db RegierungMan
+at14ca4791 db RegierMan
+at14ca48b3 db db454
+at14ca48b6 db 454
+at14ca48ba db 454 353
+at14ca48be db 454353
+at14ca48c4 db Rob
+at14ca48ca db RobCrow
+at14ca48d0 db RobCrowQues5
+at14ca48d3 db RobCrowQuest
+at14ca5b0c db https://www.openstreetmap.org/#map=12/52.4791/13.4388
+at14ca5b14 db Pracht
+at14ca5b19 db PrachtWerk
+at14ca5b1e db PrechtWerk
+at14cae6bb db https://www.facebook.com/586808323/posts/10163240459678324/?app=fbl
+at14cae6c0 db https://www.facebook.com/586808323/posts/10163240459678324/
+at14cae814 db https://www.siggibecker.de/noj923yeah/2025/04/20/o3-onwards/?fbclid=IwY2xjawVAcVZleHRuA2FlbQIxMQBwZG9mA3NydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHpmmnGcnmQXpBPjdHUyHwB5fEpHx_FU2lHG9y8vL7--W-M5R4x6-MS64JjNh_aem_KIUoilIouNBdcY1wbf0Lsw
+at14cae827 db https://www.siggibecker.de/noj923yeah/2025/04/20/o3-onwards/
+at14caed63 db BvTrand
+at14caed68 db BvTrans
+at14caf038 db https://x.com/Maximilius31/status/2110922451777634618
+at14caf8c7 db https://x.com/marcfriedrich/status/2110905107885723724
+at14caf8d1 db https://x.com/marcfriedrich/status/2110905107885723724 KickFlip
