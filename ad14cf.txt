@@ -1,0 +1,12 @@
+at14cfad3f ab
+at14cfad48 ab :0810
+at14cfad52 ab ah 14cfa
+at14cfad59 ab l STRK
+at14cfad7b ab sn 8f5be2b0bb931f9008ecefca5dc6a546e46438b469b6c1b5e5bd60e54b3d6fe2 277 ad14ce.txt
+at14cfad7f ab sn ef5d46a8b8c5b804b1384a032382f625f7a53d9adce7705c9c9dd89368453687 881 ad14cd.txt
+at14cfad82 ab sn 3da7cd5bbf3bcb1ae24207341a3d3cee1769021565fae7a883d2a2d3d0336eca 6b0 ad14cc.txt
+at14cfad87 ab sn fd3a94d4061c763d20a2bb1ea2833f91c40bf5183dbe573daedbb6d8de716b10 4e6 ad14cb.txt
+at14cfb0d3 ab gp BundesRat
+at14cfb0da ab at1435022a ab md0419 HochZeit md0704 GewalTango md0709 LinksHeidi md0710 BundesRat
+at14cfc176 ab CodAl
+at14cfc17d ab DidIt CodAl
