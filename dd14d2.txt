@@ -1,0 +1,68 @@
+at14d25a90 db
+at14d25a9d db :0855
+at14d25aac db ah 14d25
+at14d25ab5 db l STRK
+at14d25adb db sn 0892e57eee848e78c0709b853e00c45f763a6d60c6d867f5060719448cfd32a4 11a5 dd14d1.txt
+at14d25ae1 db sn a901b468b7d42eee4d09b796ac4dbb7ca5fb317e35c246a86b6e5b2e425c5ff0 744 dd14d0.txt
+at14d25ae7 db sn ad8496d4310ee3ed86a5decdcfcbb82cf6b428d6eb5ad0960e95c69657492092 ee5 dd14cf.txt
+at14d25aea db sn b1840d6627d57e6a5903d64e177a98d13cabaa8c15aa3f0b9b7592db08507d3e 196d dd14ce.txt
+at14d25b17 db Klein
+at14d25b1c db KleinGarten
+at14d25b21 db KleinGartenRecht
+at14d26615 db https://whats-chippening-halbleiternews.podigee.io/#latest-episode-player
+at14d26620 db 5.230
+at14d26623 db 5.230
+at14d26628 db 5
+at14d2662a db 5.230
+at14d26631 db 5.230.78
+at14d26636 db 5.230.78.121
+at14d26642 db m1@5.230.78.121
+at14d26673 db ab ls ad1..
+at14d2667c db ls ad1..
+at14d26696 db m1@5.230.78.121:ad14b?.tx5
+at14d2669a db m1@5.230.78.121:ad14b?.txt
+at14d266a0 db m1@5.230.78.121:ad14b?.txt .
+at14d266af db scp -p m1@5.230.78.121:ad14b?.txt .
+at14d26704 db scp -p m1@5.230.78.121:ad14c?.txt .
+at14d26714 db KleinGartenRecht
+at14d2673c db sn 7aadb337e86b25d7bad4cd7c19d9eeec5e2a6d6e148997825a3884b17fbaa208 27c ad14cf.txt
+at14d26741 db sn 8f5be2b0bb931f9008ecefca5dc6a546e46438b469b6c1b5e5bd60e54b3d6fe2 277 ad14ce.txt
+at14d26744 db sn ef5d46a8b8c5b804b1384a032382f625f7a53d9adce7705c9c9dd89368453687 881 ad14cd.txt
+at14d2674b db sn 3da7cd5bbf3bcb1ae24207341a3d3cee1769021565fae7a883d2a2d3d0336eca 6b0 ad14cc.txt
+at14d26752 db Grat
+at14d26757 db GratWeg
+at14d26765 db GratPlausch
+at14d267b1 db https://whats-chippening-halbleiternews.podigee.io/97-folge-91
+at14d267fc db https://whats-chippening-halbleiternews.podigee.io/96-folge-91
+at14d2681d db 542
+at14d26822 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d0.txt
+at14d2682c db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d1.txt
+at14d268c3 db https://github.com/wasserfuhr/1/upload/main
+at14d268e5 db https://whats-chippening-halbleiternews.podigee.io/96-folge-91
+at14d268f7 db https://whats-chippening-halbleiternews.podigee.io/#latest-episode-player
+at14d2690a db https://whats-chippening-halbleiternews.podigee.io/
+at14d2691c db https://www.tagesschau.de/wetter/regenradar-deutschland
+at14d26922 db SHOTTER
+at14d26939 db Open
+at14d2693e db OpenClaw
+at14d26993 db LapTop
+at14d26998 db PENG
+at14d277b5 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/ad14cf.txt
+at14d2786e db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/hisBoneAd14d0.txt
+at14d27959 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/hisBoneAd14d0.txu
+at14d2796a db 654 history
+at14d27985 db 563 db https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1982/Plenarprotokoll-512.pdf
+at14d2799c db https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/2026/Plenarprotokoll-1067.pdf
+at14d28132
+at14d28134 db https://www.berlinglobaldialogue.org/roundtables/bgd-salesforce-roundtable
+at14d2834b db https://taalas.com/products/
+at14d2955f db https://github.com/wasserfuhr/1/blob/main/ah149f2.txt
+at14d2959a db [Preface. When considering famous names in the history of mathematics, Bernhard Riemann inevitably appears high on any..]
+at14d2b23a db ls /storage/2627-1373
+at14d2b25c db https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/2026/Plenarprotokoll-1067.pdf?__blob=publicationFile ... v=3
+at14d2b3a2 db sm d1de347fa7cb51e9b889dbe6ad140406b7640af6e98133a0550a6783bdcd2e54 /storage/2627-1373/br1067.pdf
+at14d2dcc3 db https://www.ardmediathek.de/video/donald-trump-schicksalsjahre-eines-praesidenten/folge-1-money-maker-s01-e01/ard/Y3JpZDovL3N3ci5kZS9hZXgvbzIxNzYwOTA
+at14d2dcec db https://www.ardmediathek.de/video/der-angermayer-trip-geschaefte-macht-und-pilze/der-angermayer-trip-geschaefte-macht-und-pilze/rbb/Y3JpZDovL3JiYl8zOGFiMDlmNS1kMTc1LTQ2ODctYWEyMi1mM2I3MmEyMjZhYjJfcHVibGljYXRpb24
+at14d2e12f db https://www.bundesrat.de/DE/service/mediathek/mediathek-node.html
+at14d2e25d db https://www.bundesrat.de/DE/service/mediathek/mediathek-node.html
+at14d2e280 db https://www.bundesrat.de/DE/service/mediathek/mediathek-node.html
