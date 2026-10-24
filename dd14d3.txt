@@ -1,0 +1,111 @@
+at14d39f63 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14d39f6b db :0800
+at14d39f76 db ah 14d39
+at14d39f7d db l STRK
+at14d39f9d db sn ec0f9e17bb6b4d97108e71eb31bd928c51a483760f909fe5c86423feb7e9bb2b 1055 dd14d2.txt
+at14d39fa1 db sn 0892e57eee848e78c0709b853e00c45f763a6d60c6d867f5060719448cfd32a4 11a5 dd14d1.txt
+at14d39fa4 db sn a901b468b7d42eee4d09b796ac4dbb7ca5fb317e35c246a86b6e5b2e425c5ff0 744 dd14d0.txt
+at14d39fa7 db sn ad8496d4310ee3ed86a5decdcfcbb82cf6b428d6eb5ad0960e95c69657492092 ee5 dd14cf.txt
+at14d3a7c5 db 493
+at14d3a7eb db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14cf.txt
+at14d3a7f5 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d2.txt
+at14d3a7fd db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d1.txt
+at14d3aa49 db https://m.youtube.com/watch?v=y_L_8CfyoKA
+at14d3aa4f db BELTON
+at14d3aa62 db https://m.youtube.com/watch?v=y_L_8CfyoKA BELTON
+at14d3ac4b db https://www.cyberport.de/apple-und-zubehoer/apple-mac-mini.html?sortBy=PRD-2B1T_de_price_asc
+at14d3ac67 db https://www.cyberport.de/
+at14d3ac6d db SHOTTER
+at14d3ac73 db VossLoch
+at14d3ac7f db 51688
+at14d3ac9d db https://www.voss.net/de/
+at14d3acc3 db 51679
+at14d3acf1 db HRA 16573
+at14d3acf5 db voss
+at14d3acf9 db voss.de
+at14d3ad06 db 1:.de.voss
+at14d3ad26 db https://www.apple.com/de/shop/buy-mac/mac-mini
+at14d3b13a db https://fly.io/sprites-blog/local-llm-on-a-sprite/
+at14d3b192 db https://fly.io/sprites-blog/
+at14d3b1a6 db https://fly.io/pricing/
+at14d3b1b6 db https://fly.io/machines/
+at14d3b1e2 db https://fly.io/blog/feng-shui-for-robots/?utm_campaign=Blog+Updates+10%2F23%2F26 ... utm_content=Blog+Updates+10%2F23%2F26 ... utm_medium=email_action ... utm_source=customer.io
+at14d3b1f0 db https://fly.io/blog/feng-shui-for-robots/?utm_campaign=Blog+Updates+10%2F23%2F26 ...
+at14d3b1fd db https://fly.io/blog/feng-shui-for-robots/
+at14d3b200 db https://fly.io/blog/feng-shui-for-robots
+at14d3b229 db https://unikraft.com/ai
+at14d3b23b db https://unikraft.com/pricing
+at14d3b24a db https://unikraft.com/
+at14d3b259 db https://unikraft.org/docs/getting-started
+at14d3b269 db https://www.apple.com/de/shop/buy-mac/mac-mini
+at14d3b27a db https://www.apple.com/de/mac-mini/
+at14d3b28b db https://www.apple.com/de/
+at14d3b29d db https://github.com/wasserfuhr/1
+at14d3b2b5 db https://github.com/wasserfuhr/1/upload
+at14d3b303 db https://github.com/wasserfuhr/1/upload/main
+at14d3b48a db https://fnordon.de/@mspro/with_replies
+at14d3b49b db https://www.doppelgaenger.io/
+at14d3b4bc db https://m.youtube.com/watch?v=2tpMkUCvqrs ... pp=0gcJCbgCo7VqN5tD
+at14d3b4c4 db https://m.youtube.com/watch?v=2tpMkUCvqrs
+at14d3b4cd db AROOSH
+at14d3b4dc db https://m.youtube.com/watch?v=2tpMkUCvqrs Tucker
+at14d3b4e5 db https://m.youtube.com/watch?v=2tpMkUCvqrs TuckerCarlson
+at14d3b520 db https://www.google.com/search?q=carlson+the+interview ...
+at14d3b539 db https://www.facebook.com/reel/2120634691873926/?referral_source=native_in_feed_unit
+at14d3b74c db https://de.wikipedia.org/wiki/Petteri_Taalas
+at14d3b75e db https://www.bundesrat.de/DE/service/mediathek/mediathek-node.html
+at14d3b77f db https://www.bundesrat.de/DE/homepage/homepage-node.html
+at14d3b792 db https://taalas.com/products/
+at14d3b7a3 db https://taalas.com/
+at14d3b7b7 db https://www.linkedin.com/
+at14d3bdc5 db https://standort-sachsen.de/fileadmin/user_upload/Organigramm_WFS_Stand_2026_Februar_dt_20260206.pdf
+at14d3be20 db https://www.northdata.de/Wirtschaftsf%C3%B6rderung%20Sachsen%20GmbH%20%28WFS%29,%20Dresden/HRB%202931
+at14d3d124 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14d3d129 db https://deinserverhost.de/
+at14d3d29a db https://www.sandboxaq.com/press/sandbox-aq-launches-with-customers-vodafone-softbank-mobile-mt-sinai-health-system-and-prominent-investors-including-t-rowe-price-eric-schmidt-breyer-capital-guggenheim-partners-and-thomas-tull
+at14d3d3e0 db https://www.sandboxaq.com/company/about-us
+at14d3d3ef db https://www.sandboxaq.com/solutions/models
+at14d3d400 db https://www.sandboxaq.com/press/sandbox-aq-launches-with-customers-vodafone-softbank-mobile-mt-sinai-health-system-and-prominent-investors-including-t-rowe-price-eric-schmidt-breyer-capital-guggenheim-partners-and-thomas-tull
+at14d3d426 db https://en.wikipedia.org/wiki/S32_%28company%29
+at14d3d48c db https://en.wikipedia.org/wiki/Letter_beacon#ENIGMA_designation
+at14d3d492 db https://en.wikipedia.org/wiki/Letter_beacon
+at14d3d49c db KOESER
+at14d3d4f4 db https://en.wikipedia.org/wiki/Sandpit
+at14d3d505 db https://de.wikipedia.org/wiki/Sandbox
+at14d3d50d db :1149
+at14d3d51a db ah 14d3d
+at14d3d521 db l STRK
+at14d3d55c db https://novacloud-hosting.com/gpu-server#pricing
+at14d3da07 db https://de.wikipedia.org/wiki/Lars_Dittrich
+at14d3dac9 db https://paz.de/artikel/der-kaiser-und-das-automobil-a7260.html
+at14d3dba2 db https://www.hetzner.com/de/dedicated-rootserver/matrix-gpu/
+at14d3dc10 db https://www.canirun.ai/devices
+at14d3dc20 db https://www.canirun.ai/device/m2-pro
+at14d3dc34 db https://www.canirun.ai/device/m2-pro
+at14d3dc47 db https://www.canirun.ai/
+at14d3dc56 db https://www.canirun.ai/device/gtx-1050-ti/
+at14d3dc71 db https://deinserverhost.de/gpu-server-mieten#gpu
+at14d3dc83 db https://deinserverhost.de/
+at14d3dca9 db https://nebius.com/spot-prices?historyGpus=B300 ... historyRange=30d ... period=1d#price-history
+at14d3dcb8 db https://nebius.com/prices
+at14d3dcc6 db https://nebius.com/serverless
+at14d3dcd4 db https://nebius.com/
+at14d3dce4 db https://cyberse.de/business-cloud
+at14d3dcf8 db https://cyberse.de/
+at14d3dd20 db https://cyberse.de/
+at14d3dd26 db https://st-hosting.com/abrechnung#payment-paysafecard
+at14d3dd39 db https://noez.de/de/payment-methods
+at14d3dd46 db https://noez.de/de/dedicated
+at14d3dd66 db https://noez.de/de
+at14d3ee01 db https://bitsofchris.com/p/12000-dimensions-of-meaning-how-i
+at14d3ee22 db a te
+at14d3ee26 db a tae
+at14d3ee2c db a taennche
+at14d3ee31 db a taennchen
+at14d3ee35 db a taennchen
+at14d3ee39 db a taennchenn
+at14d3ee3c db a taennchen
+at14d3ee49 db a taennchen is all you need
+at14d3fd09 db
+at14d3fd11 db :1440
+at14d3fd1e db ah 14d3f
