@@ -1,0 +1,119 @@
+at14d910e6 db https://www.deutschlandfunk.de/static/timeshiftplayer/#drk
+at14d91103 db sn 95d02efdec9c4ccf2b8dd2d74f33bbf7b30605aa0bbfeb565607fb1920cf53a7 2dc dd14d8.txt
+at14d91106 db sn eb26e15e2af6de502b5451dbe804bc072a408466e186107991d4db1b5aa258ed 4ac dd14d7.txt
+at14d9110a db sn 6db8f9df78eafea9d718ddd498be767b793bbfb73cdfcf6739efafa1f305a29b b8c dd14d6.txt
+at14d91110 db sn 41d1b39dd35e4cd200bc6083649bca6dc24a5d5b8677df2aa3e7453544cc8fa1 755 dd14d5.txt
+at14d91134 db https://www.deutschlandradio.de/
+at14d91142 db https://www.deutschlandradio.de/studio9-der-tag-mit-live-aus-dem-humboldt-forum-100.html
+at14d91fcb db JosefKreiterling
+at14d91ff7 db 365
+at14d91ffb db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d5.txt
+at14d920c5 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d8.txt
+at14d920eb db sn 7aadb337e86b25d7bad4cd7c19d9eeec5e2a6d6e148997825a3884b17fbaa208 27c ad14cf.txt
+at14d920ed db sn 8f5be2b0bb931f9008ecefca5dc6a546e46438b469b6c1b5e5bd60e54b3d6fe2 277 ad14ce.txt
+at14d920f1 db sn ef5d46a8b8c5b804b1384a032382f625f7a53d9adce7705c9c9dd89368453687 881 ad14cd.txt
+at14d920f4 db sn 3da7cd5bbf3bcb1ae24207341a3d3cee1769021565fae7a883d2a2d3d0336eca 6b0 ad14cc.txt
+at14d923c4 db diebst
+at14d923c7 db dienst
+at14d923c9 db dienstauf
+at14d923cd db dienstaufsichts
+at14d923d3 db dienstaufsichtsbeschwerde
+at14d923e4 db https://www.sv-sachsen.de/impressum
+at14d9290b db https://www.facebook.com/photo.php?fbid=10159907455549916
+at14d92912 db https://www.facebook.com/photo.php?fbid=10159907455549916 UeberSicht
+at14d929d7 db isz
+at14d929d9 db ist
+at14d929ea db ist- ab pril
+at14d929f8 db ist- ab april
+at14d92a0c db ist- letztmalig
+at14d92a16
+at14d92a18 db ist- letztmalig wie bereits qiederholt
+at14d92a21 db ist- letztmalig wie bereits wiederholt
+at14d92a3f db ist- letztmalig wie bereits wiederholt geschildert
+at14d92a4a
+at14d92a4c db ist- letztmalig wie bereits wiederholt geschildert daskonto
+at14d92a50 db ist- letztmalig wie bereits wiederholt geschildert das konto
+at14d92a5f
+at14d92a61 db ist- letztmalig wie bereits wiederholt geschildert das konto- aufwendig
+at14d92a7a db ist- letztmalig wie bereits wiederholt geschildert das konto- aufwendig durch
+at14d92a8e db all das mitgeteilt
+at14d92abd db warum meine
+at14d92adc
+at14d92ade db warum meine vom 14.10 und meine nachfrage vom nicht bearbeitrt
+at14d92ae5 db warum meine vom 14.10 und meine nachfrage vom nicht bearbeitet
+at14d92ae8 db warum meine vom 14.10 und meine nachfrage vom nicht bearbeitet?
+at14d92afa db warum wurde mein upload vom 14.10 und meine nachfrage vom nicht bearbeitet?
+at14d92b02 db warum wurde mein upload vom 14.10 und meine nachfrage vom q9.10 nicht bearbeitet?
+at14d92b07 db warum wurde mein upload vom 14.10 und meine nachfrage vom 19.10 nicht bearbeitet?
+at14d92cd3 db hallo- die auszug ab
+at14d92cd8 db hallo- der auszug ab
+at14d92ce7 db hallo- der auszug ist vollstaendih- ab
+at14d92cec db hallo- der auszug ist vollstaendig- ab
+at14d92d1b db hallo- der auszug ist vollstaendig- von april bis heute habe ich PayPal nicht mehr gentu
+at14d92d21 db hallo- der auszug ist vollstaendig- von april bis heute habe ich PayPal nicht mehr genutzt
+at14d92d34 db hallo- der auszug ist vollstaendig- von april bis heute habe ich PayPal nicht mehr genutzt- lg RaWa
+at14d92d3f db warum wurde mein upload vom 14.10 und meine nachfrage vom 19.10 nicht bearbeitet?
+at14d92d67 db warum wurde mein upload vom 14.10 und meine nachfrage vom 19.10 nicht bearbeitet? stattdessen erst am 28. eine mitwirkungsaufforderung gesandt?
+at14d92d7d db warum wurde mein upload vom 14.10 und meine nachfrage vom 19.10 nicht bearbeitet und stattdessen erst am 28. eine mitwirkungsaufforderung gesandt?
+at14d92eb5 db spekulatio
+at14d92ebd db soekulationen
+at14d92f5c db jobcenter-berlin-spandau.team959@jobcenter-ge.de
+at14d9302d db domain jobcenter-ge
+at14d93037 db gemeinsame einrichtung
+at14d930b3 db PLAY
+at14d930b9 db GoPlay
+at14d9329a db ddb
+at14d932a1 db abinitio
+at14d934b3 db ls -rt storage/downloads/PDF Fortsetzung analysieren
+at14d93589 db mv -iv storage/downloads/PDF?Fortsetzung?analysieren ah14d93.pdf
+at14d935ac db sm 58958f66c4350203a916cf26ab91ec3f13058ea64edfce2b243b2d5a85541cf1 ah14d93.pdf
+at14d93625 db https://github.com/wasserfuhr/1/blob/main/ah14d93.pdf
+at14d93630 db contu https://github.com/wasserfuhr/1/blob/main/ah14d93.pdf
+at14d9363b db continuation of https://github.com/wasserfuhr/1/blob/main/ah14d93.pdf
+at14d93ba2 db https://de.wikipedia.org/wiki/Greg_Brockman
+at14d93c63 db https://open.spotify.com/episode/5KNMTBBiWtH1Uqyux6ME6a
+at14d93e92 db https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3
+at14d94109 db ls aw147/
+at14d94179 db ab ls -l /storage/2627-1373
+at14d94180 db ls -l /storage/2627-1373
+at14d94199 db ls -l /storage/2627-1373/Android/data/com.termux
+at14d94306 db sm f3574fb50509a472fc2c05c1fb5afd2087768e514f87d81ed8842bd9e5fa2a28 aw147/or814.mp4
+at14d947c0 db https://www.zeit.de/news/2026-10/27/trump-will-bezeichnung-ki-in-us-dokumenten-verbieten
+at14d9480a db https://www.zeit.de/news/2026-10/27/trump-will-bezeichnung-ki-in-us-dokumenten-verbieten
+at14d95108 db https://www.linkedin.com/in/katja-m%C3%BCller-6b2b7227b?trk=feed_main-feed-card-text
+at14d9510d db https://www.linkedin.com/in/katja-m%C3%BCller-6b2b7227b
+at14d9542a db
+at14d9544e db :1453
+at14d95c90 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14d95c94 db 377
+at14d95c97 db https://t.co/JQmZHBkRuT
+at14d95cd3 db https://live.deutsche-boerse.com/wissen/lexikon/buffett-indikator
+at14d95d49 db https://en.wikipedia.org/wiki/Sparse_Fourier_transform
+at14d95d66 db https://en.wikipedia.org/wiki/SFT
+at14d95d73 db https://de.wikipedia.org/wiki/SFT
+at14d95d85 db https://x.com/timbruysten
+at14d96710 db ab maerz
+at14d96721 db ab maerz- unterstellung
+at14d9672a db schlussfolgerung
+at14d96734 db fehlschluss
+at14d969cc db https://github.com/wasserfuhr/1/blob/main/ah14b7d.pdf
+at14d97134 db dass
+at14d97138 db dass ixh
+at14d971c8 db verwunderz
+at14d971cf db verwundert
+at14d971e2 db ich bin leichr verwundert
+at14d971e7 db ich bin leicht verwundert
+at14d97205 db ich bin leicht verwundert mir zu unterstellen
+at14d97234 db ich bin leicht verwundert mir zu unterstellen zu wolleb
+at14d97238 db ich bin leicht verwundert mir zu unterstellen zu wollen
+at14d97b95 db https://de.wikipedia.org/wiki/Sulm_%28Neckar%29
+at14d9ac56 db ab grep ommer AdXxx.txt
+at14d9ac5c db grep ommer AdXxx.txt
+at14d9ac62 db atdad5daa ab auch wenn die wonne sanfter spaetsommersonnenstrahlen zum verweilen lockt: https://twitter.com/rainer/status/906827047
+at14d9af5a db grepapeunit
+at14d9af5f db grep apeunit
+at14d9af8c db grep apeunit ad..
+at14d9afaf db grep apeunit ?d..
+at14d9afb5 db at117eea0e bb https://apeunit.com/impressum.txt
+at14d9afc3 db cat bd117e.txt
+at14d9e586 db https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer
