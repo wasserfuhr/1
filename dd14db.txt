@@ -1,0 +1,45 @@
+at14db1faa db https://www.vattenfall.de/geschaeftskunden/ves/magazin/best-practices/algenwerk-gunnar-muehlstaedt-interview
+at14db1fd7 db sn f9c33cc24e74e5ca44601cec38c0b2ac6f2531327dc074078caa4a65e3f34e23 977 dd14da.txt
+at14db1fdc db sn d53dae32d3cec848445278054f15a5e82648200b04f5791e87ba5b7b1174bd98 1afe dd14d9.txt
+at14db1fe2 db sn 95d02efdec9c4ccf2b8dd2d74f33bbf7b30605aa0bbfeb565607fb1920cf53a7 2dc dd14d8.txt
+at14db1fe7 db sn eb26e15e2af6de502b5451dbe804bc072a408466e186107991d4db1b5aa258ed 4ac dd14d7.txt
+at14db3086 db https://github.com/gwbtc/grubbery
+at14db337e db https://github.com/xocore-tech/PLAN
+at14db3b7e db https://github.com/xocore-tech/PLAN/blob/master/spec/SPEC.txt
+at14db3e1e db https://urbit.org/blog/contributor-spotlight-sicdev-pilnup
+at14db3e36 db diary
+at14db3e43 db first i have a diary
+at14db3e52 db or call it a log
+at14db3e6c db a first pri ciples
+at14db3e75 db a first principles
+at14db3e7a db a first principles diary
+at14db3e85 db a first principles diary must switch
+at14db3e92 db a first principles diary must switch from day
+at14db3e98 db a first principles diary must switch from day to second
+at14db3f21 db 2 hoch
+at14db3f2c db 2 hoch 4 mal 4
+at14db3f48 db 2 hoch 4 mal 4 sekunden
+at14dba5b1 db ab 460
+at14dba5b5 db 460
+at14dba5bc db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14dba872 db more pay
+at14dba981 db /data/data/com.termux/files/home/downloads
+at14dba998 db https://en.wikipedia.org/wiki/Systems_development_life_cycle
+at14dbab77 db https://whats-chippening-halbleiternews.podigee.io/98-
+at14dbab7d db RAPIDUS
+at14dbab84 db RAMBUS
+at14dbb734 db https://www.ireland.ie/en/
+at14dbbcde db https://www.eventbrite.ie/e/semi-conductors-me-insights-from-ireland-germany-berlin-science-week-tickets-2003205315022
+at14dbbd4a db https://www.siemens.com/de-de/products/opcenter/execution/medical-device/
+at14dbc654 db https://m.youtube.com/watch?v=QF9zU0wXvDc
+at14dbc66d db https://m.youtube.com/watch?v=QF9zU0wXvDc Filz
+at14dbc670 db https://m.youtube.com/watch?v=QF9zU0wXvDc Filiz
+at14dbc676 db https://m.youtube.com/watch?v=QF9zU0wXvDc FilizTadan
+at14dbce27 db https://www.siggibecker.de/noj923yeah/2026/10/30/linkschleuder-30-10-2026-0859/
+at14dbce29 db https://www.siggibecker.de/noj923yeah/2026/10/30/linkschleuder-30-10-2026-0859
+at14dbe366 db Grew-Met-Once-Atrached
+at14dbe36a db Grew-Met-Once-Attached
+at14dbe370 db Grew-Met-Once-Attached-Tend6
+at14dbe37d db Grew-Met-Once-Attached-Tent6
+at14dbf2c7 db https://www.linkedin.com/in/emi-zemani-684983190?originalSubdomain=de
+at14dbf2cd db https://www.linkedin.com/in/emi-zemani-684983190
