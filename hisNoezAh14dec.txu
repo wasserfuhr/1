@@ -1,0 +1,857 @@
+    1  cd
+    2  ll
+    3  ls
+    4  ls -l
+    5  alias sm=sha256sum
+    6  sm GesprAEch.m4a
+    7  #sm b6ac79b80d8111cf2d5de9ad1790e769d23afce2304848989c457b193aed7a74  GesprAEch.m4a
+    8  ls -l GesprAEch.m4a
+    9  echo
+   10  ssh arch@sl4.eu
+   11  l
+   12  ll
+   13  ls
+   14  ls -l vv1225.mp4
+   15  rsync
+   16  apt-get install rsync
+   17  #sm 18d8a1903983b3786f5953fb675640730530683dda84b93375454dd38b183972  downloads/vv3203.mp4
+   18  sha256sum vv3203.mp4
+   19  ls
+   20  ls vv1506.mp4
+   21  ls v-l v1506.mp4
+   22  ls -l v1506.mp4
+   23  ls -l vv1506.mp4
+   24  exit
+   25  ls
+   26  ls -l
+   27  sha256sum v*
+   28  hisAd13b3.txu
+   29  cat hisAd13b3.txu
+   30  history>> hisAd13b3.txu
+   31  nano stAh13b5.txu
+   32  more stAh13b5.txu
+   33  #MeisterMail
+   34  ls
+   35  ##
+   36  #Last login: Sat Mar 21 07:46:55 2026 from 84.171.8.219
+   37  #Last log: Sat Mar 21 07:46:55 2026 from 84.171.8.219
+   38  #LastLogin: Sat Mar 21 07:46:55 2026 from 84.171.8.219
+   39  ls
+   40  nano stAh13b6.txu
+   41  #stathikalaitzidis0@gmail.com
+   42  Siggibecker Info
+   43  info@siggibecker.de
+   44  Schlingpflanze
+   45  schlingpflanze@gmail.com
+   46  Rainer Wasserfuhr
+   47  wasserfuhr@yahoo.com
+   48  Hilde Van Poucke
+   49  ekcuop@gm
+   50  #ekcuop@gmail.com
+   51  schlingpflanze@gmail.com
+   52  #schlingpflanze@gmail.com
+   53  ls
+   54  history
+   55  #ekcuop@gmail.com,info@siggibecker.de
+   56  #ekcuop@gmail.com,schlingpflanze@gmail.com,info@siggibecker.de
+   57  #wasserfuhr@yahoo.com
+   58  #ekcuop@gmail.com,schlingpflanze@gmail.com,info@siggibecker.de,#wasserfuhr@yahoo.com
+   59  #ekcuop@gmail.com,schlingpflanze@gmail.com,info@siggibecker.de,wasserfuhr@yahoo.com
+   60  #nano stAh13b6.txu
+   61  more stAh13b6.txu
+   62  #f4a2972e7a133f36c05de018e41d20f44d1d2e87abd9a58a236c1fc90eccebe8  1771005184526.m4a
+   63  #sm f4a2972e7a133f36c05de018e41d20f44d1d2e87abd9a58a236c1fc90eccebe8  1771005184526.m4a
+   64  ##Last login: Sat Mar 21 19:30:37 2026 from 84.171.8.219
+   65  #Last login: Sat Mar 21 19:30:37 2026 from 84.171.8.219
+   66  #LastLogin: Sat Mar 21 19:30:37 2026 from 84.171.8.219
+   67  history
+   68  #nano stAh13b9.txu
+   69  #nano stAd13b9.txu
+   70  nano stAd13b9.txu
+   71  more stAd13b9.txu
+   72  more stAd13b9.txu 
+   73  more stAd13b9X.txu
+   74  nano stAd13b9X.txu
+   75  nano stAd13b9XX.txu
+   76  #Last login: Tue Mar 24 12:53:24 2026 from 84.171.8.219
+   77  #LastLogin: Tue Mar 24 12:53:24 2026 from 84.171.8.219
+   78  ls
+   79  git
+   80  apt
+   81  apt install git
+   82  sudo apt install git
+   83  su
+   84  git clone https://github.com/wasserfuhr/1
+   85  ls
+   86  cd 1
+   87  ls
+   88  #s
+   89  #ls -l st*|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+   90  #ls -l|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+   91  ls -l|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+   92  pwd
+   93  ls -l
+   94  #ls -l|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+   95  #ls -l|while read a;do a=($a);b=`sha256sum ${a[7]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+   96  ls -l|while read a;do a=($a);b=`sha256sum ${a[7]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+   97  ls -l *|while read a;do a=($a);b=`sha256sum ${a[7]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+   98  ls -l *|while read a;do a=($a);b=`sha256sum ${a[8]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+   99  ls -l
+  100  ls -l --time-style=+%s
+  101  ls -l --time-style=+%s|while read a;do a=($a);b=`sha256sum ${a[8]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+  102  ls -l --time-style=+%s|while read a;do a=($a);b=`sha256sum ${a[7]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+  103  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[7]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+  104  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[8]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]:20};done
+  105  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[8]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[8]};done
+  106  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[7]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[8]};done
+  107  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[7]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[7]};done
+  108  ls -l --time-style=+%s *
+  109  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[7]};done
+  110  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]};done
+  111  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=(${a[5]});echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]} $c;done
+  112  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=(${a[5]}-0x5608aa2b);echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]} $c;done
+  113  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf '%x %x' ${a[5]} ${a[4]}` ${a[6]} $c;done
+  114  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf '%x %x' $c ${a[4]}` ${a[6]};done
+  115  ls -l
+  116  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf %x ${a[4]}` ${a[6]};done
+  117  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf %x ${a[4]}` ${a[6]};done>>../SnFogAd13c0.txt
+  118  more ../SnFogAd13c0.txt
+  119  file ../SnFogAd13c0.txt
+  120  sort ../SnFogAd13c0.txt
+  121  #bezirk@dielinke-tempelhof-schoeneberg.de
+  122  #Last login: Sun Mar 29 22:48:14 2026 from 84.171.11.211
+  123  #LastLogin: Sun Mar 29 22:48:14 2026 from 84.171.11.211
+  124  #Last login: Wed Apr  1 22:31:44 2026 from 93.241.196.105
+  125  ls 1*
+  126  ls 17*
+  127  ls -l 17*
+  128  mv -iv 17* 1771005184526SHORT.m4a 
+  129  ls
+  130  df
+  131  ls
+  132  ls 1
+  133  mv -iv 1/* .
+  134  ls 1
+  135  ls -l 1/*
+  136  ls -l 20260103_052558.jpg
+  137  sm 20260103_052558.jpg
+  138  alias ssm=sha256sum
+  139  alias sm=sha256sum
+  140  sm 20260103_052558.jpg
+  141  sm 1/20260103_052558.jpg
+  142  rm -iv 1/20260103_052558.jpg
+  143  #rm -iv 1/20260103_05
+  144  sm 20260103_052558.jpg
+  145  ls -l
+  146  ls -l|more
+  147  ls
+  148  #https://www.ndr.de/fernsehen/sendungen/kulturjournal/-,kulturjournal-402.html?fbclid=IwY2xjawRKGUNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA80MDk5NjI2MjMwODU2MDkAAR7_mmNVgXSP5XLE7LdW29oBHL2I8lPvUmYA0W4lLdFBY-g6eFSxWrS08qhqNw_aem_nVeI1meLo0bfKWs0ReKIPg
+  149  df
+  150  pwd
+  151  ls
+  152  ls 1
+  153  mv -iv 1 OldOne
+  154  history
+  155  df
+  156  git clone https://github.com/wasserfuhr/1.git
+  157  ls
+  158  cd 1
+  159  ls
+  160  sm
+  161  sha256sum *>>~/GitHubertusAy14.txt
+  162  sha256sum ~/GitHubertusAy14.txt
+  163  ifconfig
+  164  tracert sl4.eu
+  165  traceroute sl4.eu
+  166  ## #  #  
+  167  #Last login: Mon May 18 10:42:03 2026 from 93.241.196.105
+  168  cd 1
+  169  ls
+  170  git pull
+  171  df
+  172  ls
+  173  mkdir ovh
+  174  pwd
+  175  hi
+  176  ls
+  177  df
+  178  ls 1
+  179  cd 1
+  180  #git pull
+  181  df
+  182  cd
+  183  ls b*
+  184  ls c*
+  185  cd 1
+  186  git pull
+  187  ls
+  188  cd 1
+  189  git pull
+  190  df
+  191  history 
+  192  d
+  193  #  117  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf %x ${a[4]}` ${a[6]};done>>../SnFogAd13c0.txt
+  194  #  117  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf %x ${a[4]}` ${a[6]};done#>>../SnFogAd13c0.txt
+  195  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf %x ${a[4]}` ${a[6]};done#>>../SnFogAd13c0.txt
+  196  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf %x ${a[4]}` ${a[6]};done #>>../SnFogAd13c0.txt
+  197  cat ../SnFogAd13c0.txt
+  198  sort -r ../SnFogAd13c0.txt
+  199  ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf %x ${a[4]}` ${a[6]};done>>../SnFogAw14b.txt
+  200  cd
+  201  ls
+  202  #ls -l --time-style=+%s *|while read a;do a=($a);b=`sha256sum ${a[6]}`;b=($b);c=$((${a[5]}-0x5608aa2b));echo ${b[0]} `printf %x ${a[4]}` ${a[6]};done>>../SnFogAw14b.txt
+  203  #hisAd13b3.txu
+  204  #hisAd14b9.txu
+  205  sha256sum hisAd14b9.txu
+  206  history>>hisAd14b9.txu;exit
+  207  ls ad*
+  208  ls ad1*
+  209  df
+  210  exit
+  211  ls ?b
+  212  lss ?d*
+  213  ls ?d*
+  214  ls
+  215  df
+  216  cd br
+  217  ls -l
+  218  cat ~/hisNoezAh14de7.txu
+  219  ls
+  220  a=54
+  221  y=51
+  222  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  223  y=51
+  224  a=55
+  225  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  226  a=56
+  227  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  228  a=57
+  229  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  230  a=58
+  231  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  232  a=59
+  233  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  234  a=60
+  235  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  236  a=61
+  237  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  238  a=62
+  239  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  240  a=63
+  241  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  242  a=64
+  243  a=65
+  244  a=64
+  245  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  246  a=65
+  247  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  248  a=66
+  249  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  250  a=67
+  251  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  252  a=68
+  253  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  254  a=69
+  255  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  256  a=70
+  257  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  258  a=71
+  259  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  260  a=72
+  261  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  262  a=73
+  263  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  264  a=74
+  265  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  266  a=75
+  267  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  268  a=76
+  269  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  270  y=52
+  271  ls -l
+  272  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  273  a=77
+  274  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  275  a=78
+  276  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  277  a=79
+  278  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  279  a=80
+  280  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  281  a=81
+  282  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  283  a=82
+  284  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  285  a=83
+  286  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  287  a=84
+  288  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  289  a=85
+  290  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  291  a=86
+  292  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  293  a=87
+  294  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  295  a=88
+  296  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  297  a=89
+  298  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  299  a=90
+  300  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  301  a=91
+  302  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  303  a=92
+  304  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  305  a=93
+  306  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  307  a=94
+  308  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  309  a=95
+  310  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  311  a=96
+  312  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  313  a=97
+  314  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  315  a=98
+  316  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  317  a=99
+  318  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  319  history
+  320  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  321  y=53
+  322  a=100
+  323  y=52
+  324  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  325  y=53
+  326  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  327  a=101
+  328  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  329  a=102
+  330  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  331  ls -l
+  332  file br0099.pdf 
+  333  a=099
+  334  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  335  #wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  336  a=99
+  337  wget -O br00$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  338  ls -l
+  339  sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  340  sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  341  sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done>>~/brSn0102.txt
+  342  cat ~/brSn0102.txt
+  343  sha256sum ~/brSn0102.txt
+  344  #d46763d4d329f159c6a936edf53351f6ce04e99e5673151d8489445d50e9c3b0  /home/m1/brSn0102.txt
+  345  a=103
+  346  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  347  a=104
+  348  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  349  a=105
+  350  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  351  a=106
+  352  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  353  a=107
+  354  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  355  a=108
+  356  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  357  a=109
+  358  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  359  a=110
+  360  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  361  a=111
+  362  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  363  a=112
+  364* wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFil
+  365  a=113
+  366  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  367  a=114
+  368  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  369  a=115
+  370  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  371  a=116
+  372  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  373  a=117
+  374  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  375  a=118
+  376  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  377  y=54
+  378  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  379  a=119
+  380  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  381  a=120
+  382  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  383  history
+  384  #383 history
+  385  ~/hisNoezAh14de7.txu
+  386  cat ~/hisNoezAh14de7.txu
+  387  cat ~/hisNoezAh14de8.txu
+  388  history>>~/hisNoezAh14de8.txu
+  389  a=121
+  390  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  391  ls -l
+  392  df
+  393  sort ~/brSn0102.txt
+  394  sort -r ~/brSn0102.txt
+  395  sort ~/brSn0102.txt
+  396  #00fd7af3f8bf75d85665c20bbd5bf83151c684f931be4cdb856019cd2fbeeffd 2c6f72 br0075.pdf
+  397  a=122
+  398  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  399  a=123
+  400  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  401  a=124
+  402  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  403  a=125
+  404  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  405  a=126
+  406  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  407  a=127
+  408  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  409  a=128
+  410  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  411  a=129
+  412  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  413  a=130
+  414  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  415  a=131
+  416  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  417  a=132
+  418  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  419  a=133
+  420  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  421  a=134
+  422  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  423  a=135
+  424  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  425  y=55
+  426  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  427  a=136
+  428  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  429  a=137
+  430  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  431  a=138
+  432  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  433  a=139
+  434  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  435  a=140
+  436  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  437  a=141
+  438  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  439  a=142
+  440  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  441  a=143
+  442  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  443  a=144
+  444  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  445  a=145
+  446  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  447  a=146
+  448  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  449  a=147
+  450  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  451  a=148
+  452  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  453  a=149
+  454  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  455  a=150
+  456* wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFil2
+  457  a=151
+  458  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  459  sm br0$a.pdf
+  460  sha256sum br0$a.pdf
+  461  #4f38d50b41ff12499ee79e619c3b10326b7aba68dea38dd3cc987587238bc2bc  br0151.pdf
+  462  a=152
+  463  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  464  y=56
+  465  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  466  a=153
+  467  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  468  file *
+  469  a=154
+  470  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  471  a=155
+  472  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  473  a=156
+  474  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  475  a=157
+  476  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  477  a=158
+  478  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  479  a=159
+  480  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  481  a=160
+  482  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  483  a=161
+  484  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  485  a=162
+  486  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  487  a=163
+  488  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  489  a=164
+  490  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  491  a=165
+  492  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  493  a=166
+  494  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  495  a=167
+  496  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  497  a=168
+  498  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  499  a=169
+  500  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  501  a=170
+  502  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  503  y=57
+  504  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  505  a=171
+  506  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  507  a=172
+  508  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  509  a=173
+  510  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  511  a=174
+  512  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  513  a=175
+  514  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  515  a=176
+  516  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  517  a=177
+  518  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  519  a=178
+  520  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  521  a=179
+  522  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  523  a=180
+  524  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  525  a=181
+  526  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  527  a=182
+  528  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  529  a=183
+  530  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  531  a=184
+  532  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  533  a=185
+  534  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  535  a=186
+  536  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  537  a=187
+  538  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  539  y=58
+  540  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  541  y=58
+  542  a=188
+  543  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  544  a=189
+  545  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  546  a=190
+  547  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  548  a=191
+  549  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  550  a=192
+  551  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  552  a=193
+  553  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  554  a=194
+  555  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  556  a=195
+  557  a=196
+  558  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  559  a=195
+  560  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  561  a=197
+  562  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  563  a=198
+  564  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  565  a=199
+  566  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  567  a=209
+  568  a=200
+  569  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  570  a=201
+  571  history
+  572  #history>>~/hisNoezAh14de8.txu
+  573  sha256sum ~/hisNoezAh14de8.txu
+  574  sha256sum ~/hisNoezAh14de9.txu
+  575  history>>~/hisNoezAh14de9.txu
+  576  sha256sum ~/hisNoezAh14de9.txu
+  577  a=202
+  578  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  579  ls
+  580  a=201
+  581  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  582  y=59
+  583  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  584  a=202
+  585  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  586  a=203
+  587  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  588  a=204
+  589  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  590  a=205
+  591  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  592  a=206
+  593  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  594  a=207
+  595  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  596  a=208
+  597  wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+  598  for a in $(seq 209 230);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  599  #for a in $(seq 213 230);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  600  y=60
+  601  #for a in $(seq 214 230);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  602  for a in $(seq 214 230);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  603  y=61
+  604  for a in $(seq 228 243);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  605  y=62
+  606  for a in $(seq 240 263);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  607  y=63
+  608  for a in $(seq 253 270);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  609  y=64
+  610  for a in $(seq 265 280);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  611  y=65
+  612  for a in $(seq 278 290);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  613  for a in $(seq 291 299);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  614  #for a in $(seq 291 309);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  615  y=66
+  616  for a in $(seq 291 309);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  617  y=67
+  618  for a in $(seq 304 319);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  619  y=68
+  620  for a in $(seq 319 340);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  621  y=69
+  622  for a in $(seq 334 350);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  623  ls -l
+  624  history
+  625  sha256sum ~/hisNoezAh14de9.txu
+  626  sha256sum ~/hisNoezAh14dea.txu
+  627  #8dddc863374fb14c7a010e44082a260605b9a22bcab919e5d5e6e23c532d67ba  /home/m1/hisNoezAh14de9.txu
+  628  history>>~/hisNoezAh14dea.txu
+  629  sha256sum ~/hisNoezAh14dea.txu
+  630  #8dddc863374fb14c7a010e44082a260605b9a22bcab919e5d5e6e23c532d67ba  /home/m1/hisNoezAh14de9.txu
+  631  ls -l
+  632  y=70
+  633  for a in $(seq 347 360);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  634  for a in $(seq 361 370);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  635  y=71
+  636  for a in $(seq 361 380);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  637  y=72
+  638  for a in $(seq 376 390);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  639  y=73
+  640  for a in $(seq 389 404);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  641  y=74
+  642  for a in $(seq 401 420);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  643  y=75
+  644  for a in $(seq 416 430);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  645  y=76
+  646  for a in $(seq 430 446);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  647  y=77
+  648  for a in $(seq 443 470);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  649  ls -l
+  650  y=78
+  651  for a in $(seq 454 470);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  652  y=79
+  653  for a in $(seq 469 487);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  654  y=80
+  655  for a in $(seq 482 500);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  656  y=81
+  657  for a in $(seq 495 512);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  658  y=82
+  659  for a in $(seq 508 522);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  660  y=83
+  661  for a in $(seq 519 532);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  662  ls -l
+  663  rm -iv br0531.pdf br0532.pdf 
+  664  history
+  665  #sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done>>~/brSn0102.txt
+  666  #sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done>>~/brSn0530.txt
+  667  sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done>>~/brSn0530.txt
+  668  sort -r ~/brSn0530.txt
+  669  ls
+  670  history
+  671  y=84
+  672  for a in $(seq 531 552);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  673  y=85
+  674  for a in $(seq 546 566);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  675  y=86
+  676  for a in $(seq 560 576);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  677  y=87
+  678  for a in $(seq 573 588);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  679  y=88
+  680  for a in $(seq 585 598);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  681  y=89
+  682  for a in $(seq 596 610);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  683  y=90
+  684  for a in $(seq 609 630);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  685  y=91
+  686  for a in $(seq 626 640);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  687  y=92
+  688  for a in $(seq 639 660);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  689  y=93
+  690  for a in $(seq 650 670);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  691  y=94
+  692  for a in $(seq 665 680);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  693  y=95
+  694  ls -l
+  695  history
+  696  y=92
+  697  for a in $(seq 650 650);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  698  ls -l
+  699  history
+  700  ls -l
+  701  y=88
+  702  for a in $(seq 596 596);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  703  ls -l
+  704  history
+  705  y=96
+  706  #for a in $(seq 596 596);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  707  ls -l
+  708  y=96
+  709  #for a in $(seq 674 674);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  710  for a in $(seq 674 674);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  711  y=94
+  712  for a in $(seq 674 674);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  713  ls -l
+  714  y=95
+  715  for a in $(seq 679 690);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  716  for a in $(seq 691 699);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  717  y=96
+  718  for a in $(seq 693 720);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  719  y=97
+  720  for a in $(seq 708 728);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  721  y=98
+  722  for a in $(seq 721 738);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  723  y=99
+  724  for a in $(seq 734 758);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  725  ls -l
+  726  y=00
+  727  for a in $(seq 747 768);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  728  y=01
+  729  for a in $(seq 759 777);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  730  y=02
+  731  df
+  732  y=03
+  733  for a in $(seq 771 797);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  734  y=04
+  735  for a in $(seq 795 817);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  736  y=05
+  737  for a in $(seq 808 827);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  738  y=06
+  739  for a in $(seq 819 832);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  740  y=07
+  741  for a in $(seq 830 852);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  742  y=08
+  743  for a in $(seq 841 859);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  744  y=09
+  745  for a in $(seq 854 879);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  746  y=10
+  747  for a in $(seq 865 879);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  748  y=11
+  749  for a in $(seq 879 893);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  750  y=12
+  751  for a in $(seq 892 906);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  752  ls -l br08*
+  753  ls -l br09*
+  754  y=13
+  755  for a in $(seq 905 919);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  756  y=14
+  757  for a in $(seq 919 933);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  758  y=15
+  759  for a in $(seq 930 945);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  760  y=16
+  761  for a in $(seq 941 963);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  762  y=17
+  763  for a in $(seq 953 973);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  764  y=18
+  765  for a in $(seq 964 979);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  766  y=19
+  767  for a in $(seq 974 989);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  768  y=20
+  769  for a in $(seq 985 999);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  770  y=21
+  771  for a in $(seq 999 1019);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  772  y=22
+  773  for a in $(seq 91019);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  774  #for a in $(seq 91019);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  775  ls
+  776  ls br?.prf
+  777  ls br?.pdf
+  778  ls br??.pdf
+  779  rm -iv br??.pdf
+  780  ls -l
+  781  ls -Sl
+  782  rm -iv br??.pdf
+  783  rm -iv br???.pdf
+  784  ls -Sl
+  785  rm -iv br???.pdf
+  786  history
+  787  y=02
+  788  ls -Sl
+  789  #for a in $(seq 771 784);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  790  for a in $(seq 771 784);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  791  ls -Sl
+  792  y=02
+  793  for a in $(seq 771 771);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  794  y=03
+  795  for a in $(seq 771 771);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  796  y=01
+  797  for a in $(seq 771 771);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  798  ls -Sl
+  799  history
+  800  y=04
+  801  for a in $(seq 795 795);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  802  y=03
+  803  for a in $(seq 795 795);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  804  ls ~/hisNoezAh14deb.txu
+  805  history>>~/hisNoezAh14deb.txu
+  806  sha256sum ~/hisNoezAh14deb.txu
+  807  ls -Sl
+  808  history
+  809  y=10
+  810  for a in $(seq 865 865);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  811  y=09
+  812  for a in $(seq 865 865);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  813  history
+  814  y=22
+  815  for a in $(seq 1015 1035);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  816  y=23
+  817  for a in $(seq 1030 1045);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  818  y=24
+  819  for a in $(seq 1041 1055);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  820  y=25
+  821  for a in $(seq 1051 1065);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  822  y=26
+  823  for a in $(seq 1060 1070);do wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  824  ls -l
+  825  rm -iv 01???.pdf
+  826  rm -iv br01???.pdf
+  827  history
+  828  y=21
+  829  for a in $(seq 1000 1020);do wget -O br$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  830  ls -lS
+  831  y=22
+  832  for a in $(seq 1015 1030);do wget -O br$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  833  y=23
+  834  for a in $(seq 1030 1050);do wget -O br$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  835  y=24
+  836  for a in $(seq 1041 1060);do wget -O br$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  837  y=25
+  838  for a in $(seq 1051 1070);do wget -O br$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  839  y=26
+  840  for a in $(seq 1061 1073);do wget -O br$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/20$y/Plenarprotokoll-$a.pdf?__blob=publicationFile;done
+  841  ls -Sl
+  842  rm -iv br107?.pdf
+  843  history
+  844  #sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done>>~/brSn0102.txt
+  845  #sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done #>>~/brSn0102.txt
+  846  #sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done #>>~/brSn1069.txt
+  847  sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done #>>~/brSn1069.txt
+  848  ls -Sl
+  849  sha256sum *|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done>>~/brSn1069.txt
+  850  #>>~/brSn1069.txt
+  851  sha256sum ~/brSn1069.txt
+  852  #9ca7de550e9a10794c2134e3dbab8acee766611cdfb1611949bef4c318a484fa  /home/m1/brSn1069.txt
+  853  history
+  854  sha256sum ~/hisNoezAh14deb.txu
+  855  #da6933dfad226aae60e5ae0f95c708fdda6c09d341a8352e0365976e645332d4  /home/m1/hisNoezAh14deb.txu
+  856  sha256sum ~/hisNoezAh14dec.txu
+  857  history>>~/hisNoezAh14dec.txu;exit
