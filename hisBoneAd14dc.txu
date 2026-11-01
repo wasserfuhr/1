@@ -1,0 +1,500 @@
+  181  db https://www.zeit.de/2026/23/gesellschaftlicher-kollaps-forschung-faktoren
+  182  db ah 14d6b
+  183  db
+  184  db https://www.arte.tv/de/videos/107211-001-A/roots/
+  185  exit
+  186  df
+  187  ls /storage/2627-1373/Download
+  188  ls -l /storage/2627-1373/Download
+  189  df
+  190  ls -l /storage/2627-1373/Download
+  191  ls -Slr /storage/2627-1373/Download
+  192  rm -iv /storage/2627-1373/Download/com.governikus.ausweisapp2_338.apk 
+  193  pwd
+  194  db halo
+  195  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  196  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  197  db halo
+  198  db halko
+  199  db hallo
+  200  db hallo- ich hatte paypal am 14.10. hochgeladen
+  201  db hallo- ich hatte paypal am 14.10. hochgeladen und am 19.10 nachgefragt
+  202  db hallo- ich hatte paypal am 14.10. hochgeladen und am 19.10 nachgefragt- hier also nichmal
+  203  db hallo- ich hatte paypal am 14.10. hochgeladen und am 19.10 nachgefragt- hier also nochmal
+  204  ls *g
+  205  db /storage/2627-1373/Download/ah14c51.png
+  206  db ah14c51.png
+  207  db hallo- ich hatte paypal am 14.10. hochgeladen und am 19.10 nachgefragt- hier also nochmal [ah14c51.png sha256 ]- lg RaWa
+  208  sm /storage/2627-1373/Download/ah14c51.png
+  209  db hallo- ich hatte paypal am 14.10. hochgeladen und am 19.10 nachgefragt- hier also nochmal [ah14c51.png sha256 7c4e1254..]- lg RaWa
+  210  db https://de.wikipedia.org/wiki/Jerusalem,_du_hochgebaute_Stadt
+  211  db AntonioGracias
+  212  db https://www.entrepreneur.com/business-news/he-loaned-elon-musk-1-million-when-tesla-was-nearly-bankrupt
+  213  db
+  214  history
+  215  db 529 history
+  216  history
+  217  396
+  218  db 396
+  219  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  220  db sn 78d64e92af75657b4f00699984ebc6ece99a5e0145fa62eda6f51ae77251c1d5 51f dd14d4.txt
+  221  db sn 41d1b39dd35e4cd200bc6083649bca6dc24a5d5b8677df2aa3e7453544cc8fa1 755 dd14d5.txt
+  222  db sn 6db8f9df78eafea9d718ddd498be767b793bbfb73cdfcf6739efafa1f305a29b b8c dd14d6.txt
+  223  db sn eb26e15e2af6de502b5451dbe804bc072a408466e186107991d4db1b5aa258ed 4ac dd14d7.txt
+  224  db sn 6db8f9df78eafea9d718ddd498be767b793bbfb73cdfcf6739efafa1f305a29b b8c dd14d6.txt
+  225  db sn 41d1b39dd35e4cd200bc6083649bca6dc24a5d5b8677df2aa3e7453544cc8fa1 755 dd14d5.txt
+  226  db sn 78d64e92af75657b4f00699984ebc6ece99a5e0145fa62eda6f51ae77251c1d5 51f dd14d4.txt
+  227  db https://www.facebook.com/story.php?story_fbid=1116127831002998 ... id=1614541150132566
+  228  df
+  229  history
+  230  467
+  231  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  232  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  233  db 467
+  234  db dfgrep
+  235  db grep gelp
+  236  db grep help
+  237  grep help dd*
+  238  db grep help dd..
+  239  db https://www.deutschlandfunk.de/static/timeshiftplayer/#drk
+  240  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  241  db sn 41d1b39dd35e4cd200bc6083649bca6dc24a5d5b8677df2aa3e7453544cc8fa1 755 dd14d5.txt
+  242  db sn 6db8f9df78eafea9d718ddd498be767b793bbfb73cdfcf6739efafa1f305a29b b8c dd14d6.txt
+  243  db sn eb26e15e2af6de502b5451dbe804bc072a408466e186107991d4db1b5aa258ed 4ac dd14d7.txt
+  244  db sn 95d02efdec9c4ccf2b8dd2d74f33bbf7b30605aa0bbfeb565607fb1920cf53a7 2dc dd14d8.txt
+  245  db sn eb26e15e2af6de502b5451dbe804bc072a408466e186107991d4db1b5aa258ed 4ac dd14d7.txt
+  246  db sn 6db8f9df78eafea9d718ddd498be767b793bbfb73cdfcf6739efafa1f305a29b b8c dd14d6.txt
+  247  db sn 41d1b39dd35e4cd200bc6083649bca6dc24a5d5b8677df2aa3e7453544cc8fa1 755 dd14d5.txt
+  248  db https://www.deutschlandradio.de/
+  249  db https://www.deutschlandradio.de/studio9-der-tag-mit-live-aus-dem-humboldt-forum-100.html
+  250  db JosefKreiterling
+  251  history
+  252  365
+  253  db 365
+  254  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d5.txt
+  255  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d5.txt
+  256  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d8.txt
+  257  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d7.txt
+  258  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d6.txt
+  259  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d5.txt
+  260  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d8.txt
+  261  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d8.txt
+  262  sm ad14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  263  db sn 3da7cd5bbf3bcb1ae24207341a3d3cee1769021565fae7a883d2a2d3d0336eca 6b0 ad14cc.txt
+  264  db sn ef5d46a8b8c5b804b1384a032382f625f7a53d9adce7705c9c9dd89368453687 881 ad14cd.txt
+  265  db sn 8f5be2b0bb931f9008ecefca5dc6a546e46438b469b6c1b5e5bd60e54b3d6fe2 277 ad14ce.txt
+  266  db sn 7aadb337e86b25d7bad4cd7c19d9eeec5e2a6d6e148997825a3884b17fbaa208 27c ad14cf.txt
+  267  db sn 8f5be2b0bb931f9008ecefca5dc6a546e46438b469b6c1b5e5bd60e54b3d6fe2 277 ad14ce.txt
+  268  db sn ef5d46a8b8c5b804b1384a032382f625f7a53d9adce7705c9c9dd89368453687 881 ad14cd.txt
+  269  db sn 3da7cd5bbf3bcb1ae24207341a3d3cee1769021565fae7a883d2a2d3d0336eca 6b0 ad14cc.txt
+  270  db diebst
+  271  db dienst
+  272  db dienstauf
+  273  db dienstaufsichts
+  274  db dienstaufsichtsbeschwerde
+  275  db https://www.sv-sachsen.de/impressum
+  276  db https://www.facebook.com/photo.php?fbid=10159907455549916
+  277  db https://www.facebook.com/photo.php?fbid=10159907455549916 UeberSicht
+  278  db isz
+  279  db ist
+  280  db ist- ab pril
+  281  db ist- ab april
+  282  db ist- letztmalig
+  283  db ist- letztmalig wie bereits qiederholt
+  284  db ist- letztmalig wie bereits wiederholt
+  285  db ist- letztmalig wie bereits wiederholt geschildert
+  286  db ist- letztmalig wie bereits wiederholt geschildert daskonto
+  287  db ist- letztmalig wie bereits wiederholt geschildert das konto
+  288  db ist- letztmalig wie bereits wiederholt geschildert das konto- aufwendig
+  289  db ist- letztmalig wie bereits wiederholt geschildert das konto- aufwendig durch
+  290  db all das mitgeteilt
+  291  db warum meine
+  292  db warum meine vom 14.10 und meine nachfrage vom nicht bearbeitrt
+  293  db warum meine vom 14.10 und meine nachfrage vom nicht bearbeitet
+  294  db warum meine vom 14.10 und meine nachfrage vom nicht bearbeitet?
+  295  db warum wurde mein upload vom 14.10 und meine nachfrage vom nicht bearbeitet?
+  296  db warum wurde mein upload vom 14.10 und meine nachfrage vom q9.10 nicht bearbeitet?
+  297  db warum wurde mein upload vom 14.10 und meine nachfrage vom 19.10 nicht bearbeitet?
+  298  db hallo- die auszug ab 
+  299  db hallo- der auszug ab 
+  300  db hallo- der auszug ist vollstaendih- ab 
+  301  db hallo- der auszug ist vollstaendig- ab 
+  302  db hallo- der auszug ist vollstaendig- von april bis heute habe ich PayPal nicht mehr gentu
+  303  db hallo- der auszug ist vollstaendig- von april bis heute habe ich PayPal nicht mehr genutzt
+  304  db hallo- der auszug ist vollstaendig- von april bis heute habe ich PayPal nicht mehr genutzt- lg RaWa
+  305  db warum wurde mein upload vom 14.10 und meine nachfrage vom 19.10 nicht bearbeitet?
+  306  db warum wurde mein upload vom 14.10 und meine nachfrage vom 19.10 nicht bearbeitet? stattdessen erst am 28. eine mitwirkungsaufforderung gesandt?
+  307  db warum wurde mein upload vom 14.10 und meine nachfrage vom 19.10 nicht bearbeitet und stattdessen erst am 28. eine mitwirkungsaufforderung gesandt?
+  308  db soekulatio
+  309  db soekulationen
+  310  db jobcenter-berlin-spandau.team959@jobcenter-ge.de
+  311  db domain jobcenter-ge
+  312  db gemeinsame einrichtung
+  313  db PLAY
+  314  db GoPlay
+  315  cal
+  316  db ddb
+  317  db abinitio
+  318  ls storage/downloads
+  319  ls -t storage/downloads
+  320  ls -rt storage/downloads
+  321  db ls -rt storage/downloads/PDF?Fortsetzung?analysieren 
+  322  mv -iv storage/downloads/PDF?Fortsetzung?analysieren ah14d93.pdf
+  323  db mv -iv storage/downloads/PDF?Fortsetzung?analysieren ah14d93.pdf
+  324  sm ah14d93.pdf
+  325  db sm 58958f66c4350203a916cf26ab91ec3f13058ea64edfce2b243b2d5a85541cf1  ah14d93.pdf
+  326  ls -l ah14d93.pdf
+  327  db https://github.com/wasserfuhr/1/blob/main/ah14d93.pdf
+  328  db contu https://github.com/wasserfuhr/1/blob/main/ah14d93.pdf
+  329  db continuation of https://github.com/wasserfuhr/1/blob/main/ah14d93.pdf
+  330  db https://de.wikipedia.org/wiki/Greg_Brockman
+  331  db https://open.spotify.com/episode/5KNMTBBiWtH1Uqyux6ME6a
+  332  db https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3
+  333  db ls aw147/
+  334  ls aw147
+  335  df
+  336  pwd
+  337  ls -l /data/data/com.termux/files/home
+  338  ls -l /storage/2627-1373
+  339  ab ls -l /storage/2627-1373
+  340  db ab ls -l /storage/2627-1373
+  341  db ls -l /storage/2627-1373
+  342  db ls -l /storage/2627-1373/Android/data/com.termux
+  343  pwd
+  344  ls /data/data/com.termux/files/home
+  345  ls /data/data/com.termux/files/aw147
+  346  ls /data/data/com.termux/files/home/aw147
+  347  sshd -p 2357s
+  348  sm aw147/or814.mp4
+  349  db sm f3574fb50509a472fc2c05c1fb5afd2087768e514f87d81ed8842bd9e5fa2a28  aw147/or814.mp4
+  350  db https://www.zeit.de/news/2026-10/27/trump-will-bezeichnung-ki-in-us-dokumenten-verbieten
+  351  db https://www.linkedin.com/in/katja-m%C3%BCller-6b2b7227b?trk=feed_main-feed-card-text
+  352  db https://www.linkedin.com/in/katja-m%C3%BCller-6b2b7227b
+  353  db
+  354  db :1453
+  355  db https://t.co/JQmZHBkRuT
+  356  history
+  357  377
+  358  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  359  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  360  db 377
+  361  db https://t.co/JQmZHBkRuT
+  362  db https://live.deutsche-boerse.com/wissen/lexikon/buffett-indikator
+  363  db https://en.wikipedia.org/wiki/Sparse_Fourier_transform
+  364  db https://en.wikipedia.org/wiki/SFT
+  365  db https://de.wikipedia.org/wiki/SFT
+  366  db https://x.com/timbruysten
+  367  db ab maerz
+  368  db ab maerz- unterstellung
+  369  db schlussfolgerung
+  370  db fehlschluss
+  371  db https://github.com/wasserfuhr/1/blob/main/ah14b7d.pdf
+  372  db dass
+  373  db dass ixh
+  374  db verwunderz
+  375  db verwundert
+  376  db ich bin leichr verwundert
+  377  db ich bin leicht verwundert
+  378  db ich bin leicht verwundert mir zu unterstellen
+  379  db ich bin leicht verwundert mir zu unterstellen zu wolleb
+  380  n
+  381  db ich bin leicht verwundert mir zu unterstellen zu wollen
+  382  history
+  383  df
+  384  db https://de.wikipedia.org/wiki/Sulm_(Neckar)
+  385  db https://de.wikipedia.org/wiki/Sulm_%28Neckar%29
+  386  grep ommer AdXxx.txt
+  387  ab grep ommer AdXxx.txt
+  388  db ab grep ommer AdXxx.txt
+  389  db grep ommer AdXxx.txt
+  390  db atdad5daa ab auch wenn die wonne sanfter spaetsommersonnenstrahlen zum verweilen lockt: https://twitter.com/rainer/status/906827047
+  391  db grepapeunit
+  392  db grep apeunit
+  393  grep apeunit ad*
+  394  db grep apeunit ad..
+  395  grep apeunit ?d*
+  396  db grep apeunit ?d..
+  397  db at117eea0e bb https://apeunit.com/impressum.txt
+  398  cat bd117e.txt
+  399  db cat bd117e.txt
+  400  cat bd117e.txt
+  401  db https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer
+  402  history
+  403  457
+  404  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  405  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  406  db 457
+  407  history
+  408  db 506 history
+  409  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  410  db sn 6db8f9df78eafea9d718ddd498be767b793bbfb73cdfcf6739efafa1f305a29b b8c dd14d6.txt
+  411  db sn eb26e15e2af6de502b5451dbe804bc072a408466e186107991d4db1b5aa258ed 4ac dd14d7.txt
+  412  db sn 95d02efdec9c4ccf2b8dd2d74f33bbf7b30605aa0bbfeb565607fb1920cf53a7 2dc dd14d8.txt
+  413  db sn d53dae32d3cec848445278054f15a5e82648200b04f5791e87ba5b7b1174bd98 1afe dd14d9.txt
+  414  db sn 95d02efdec9c4ccf2b8dd2d74f33bbf7b30605aa0bbfeb565607fb1920cf53a7 2dc dd14d8.txt
+  415  db sn eb26e15e2af6de502b5451dbe804bc072a408466e186107991d4db1b5aa258ed 4ac dd14d7.txt
+  416  db sn 6db8f9df78eafea9d718ddd498be767b793bbfb73cdfcf6739efafa1f305a29b b8c dd14d6.txt
+  417  history
+  418  191
+  419  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d5.txt
+  420  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d8.txt
+  421  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d5.txt
+  422  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d8.txt
+  423  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d9.txt
+  424  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d9.txt
+  425  #db https://res.cisco.com/portal/PortalOpen.action?link=bGluaz1HbDRyS3Z4b2tXbzRib2JtbjZwdll5TmhBd3NHZEJ4MEpLJTJCV1lEa2o2WkxjbDNPajNjUGxIcFNCJTJCNzZCRlVFMkNIZ0x3WFRTdEJadnZuZSUyRnludzJBVSUyQjM1SnVoZk5BTVBHanV0c0FqJTJGRCUyRlRscUxodFNEWDZTT2tiS0puTGRCQW1hV0ZQeUJqYzg1UWozaGh4YldaMDZvJTJCU2wlMkY2QUh5OSZ0YT1kYkBUb2tlbjg3MjU6MjMyMzY=&localeUI=en
+  426  ls
+  427  db hisBoneAd14d4.txu
+  428  db hisBoneAd14d8.txu
+  429  history>>hisBoneAd14d8.txu
+  430  sm h*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  431  db sn fa395da86f6c59e6603b39fc37c1dfa582e533c8c02c1216998280edcb140988 5d7a hisBoneAd14cc.txu
+  432  db sn f130a87bd00de38e7909dc04da5c52ae6feaf0732dfa7856da90b02902c8d776 605b hisBoneAd14d0.txu
+  433  db sn e1c60734a311c03fc71f5b32298858e5402d00d84ebeb5614e0832c5b0421027 613b hisBoneAd14d4.txu
+  434  db sn e0234a4bbd52e6510bf796dee4078378c5c317aeffe7896aa51d288f7c3648c2 6b84 hisBoneAd14d8.txu
+  435  db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+  436  db sn e0234a4bbd52e6510bf796dee4078378c5c317aeffe7896aa51d288f7c3648c2 6b84 hisBoneAd14d8.txu
+  437  db sn e1c60734a311c03fc71f5b32298858e5402d00d84ebeb5614e0832c5b0421027 613b hisBoneAd14d4.txu
+  438  db sn f130a87bd00de38e7909dc04da5c52ae6feaf0732dfa7856da90b02902c8d776 605b hisBoneAd14d0.txu
+  439  db sn fa395da86f6c59e6603b39fc37c1dfa582e533c8c02c1216998280edcb140988 5d7a hisBoneAd14cc.txu
+  440  history
+  441  termux-open
+  442  termux-open dd14da.txt
+  443  cd
+  444  termux-open dd14da.txt
+  445  cat paypal.txt 
+  446  pwd
+  447  exit
+  448  history
+  449  460
+  450  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  451  ab 460
+  452  db ab 460
+  453  db 460
+  454  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  455  cat dd14db.txt
+  456  db more pay
+  457  ls *v
+  458  cat ah14c44.txu.csv
+  459  cat ah14c43.txu.csv
+  460  db /data/data/com.termux/files/home/downloads
+  461  db https://en.wikipedia.org/wiki/Systems_development_life_cycle
+  462  db https://whats-chippening-halbleiternews.podigee.io/98-
+  463  db RAPIDUS
+  464  db RAMBUS
+  465  db https://www.ireland.ie/en/
+  466  db https://www.eventbrite.ie/e/semi-conductors-me-insights-from-ireland-germany-berlin-science-week-tickets-2003205315022
+  467  db https://www.siemens.com/de-de/products/opcenter/execution/medical-device/
+  468  ls *p
+  469  ls *g
+  470  df
+  471  ls /storage/2627-1373/
+  472  ls /storage/2627-1373
+  473  dɓ https://m.youtube.com/watch?v=QF9zU0wXvDc
+  474  db https://m.youtube.com/watch?v=QF9zU0wXvDc
+  475  db https://m.youtube.com/watch?v=QF9zU0wXvDc Filz
+  476  db https://m.youtube.com/watch?v=QF9zU0wXvDc Filiz
+  477  db https://m.youtube.com/watch?v=QF9zU0wXvDc FilizTadan
+  478  db https://www.siggibecker.de/noj923yeah/2026/10/30/linkschleuder-30-10-2026-0859/
+  479  db https://www.siggibecker.de/noj923yeah/2026/10/30/linkschleuder-30-10-2026-0859
+  480  db Grew-Met-Once-Atrached
+  481  db Grew-Met-Once-Attached
+  482  db Grew-Met-Once-Attached-Tend6
+  483  db Grew-Met-Once-Attached-Tent6
+  484  db https://www.linkedin.com/in/emi-zemani-684983190?originalSubdomain=de
+  485  db https://www.linkedin.com/in/emi-zemani-684983190
+  486  db
+  487  history
+  488  db 540 history
+  489  history
+  490  465
+  491  db 465
+  492  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  493  db sn 95d02efdec9c4ccf2b8dd2d74f33bbf7b30605aa0bbfeb565607fb1920cf53a7 2dc dd14d8.txt
+  494  db sn d53dae32d3cec848445278054f15a5e82648200b04f5791e87ba5b7b1174bd98 1afe dd14d9.txt
+  495  db sn f9c33cc24e74e5ca44601cec38c0b2ac6f2531327dc074078caa4a65e3f34e23 977 dd14da.txt
+  496  db sn a7f41dff61312c83c0de9dc50ab436d4c9c557a9033bd1ed08418aa073d53486 a24 dd14db.txt
+  497  db sn f9c33cc24e74e5ca44601cec38c0b2ac6f2531327dc074078caa4a65e3f34e23 977 dd14da.txt
+  498  db sn d53dae32d3cec848445278054f15a5e82648200b04f5791e87ba5b7b1174bd98 1afe dd14d9.txt
+  499  db sn 95d02efdec9c4ccf2b8dd2d74f33bbf7b30605aa0bbfeb565607fb1920cf53a7 2dc dd14d8.txt
+  500  db https://artikel91.eu/2026/10/30/christliches-menschenbild-frommt-wochenrueckblick-kw-44-2026/
+  501  history
+  502  404
+  503  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  504  db 404
+  505  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  506  db https://t.co/TohZaqmL7w
+  507  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  508  db sn d53dae32d3cec848445278054f15a5e82648200b04f5791e87ba5b7b1174bd98 1afe dd14d9.txt
+  509  db sn f9c33cc24e74e5ca44601cec38c0b2ac6f2531327dc074078caa4a65e3f34e23 977 dd14da.txt
+  510  db sn a7f41dff61312c83c0de9dc50ab436d4c9c557a9033bd1ed08418aa073d53486 a24 dd14db.txt
+  511  db sn 8c2c67334216abd4315acf0958ed2e415dcb30b581dbd60d7cf1ff29e1f4fa4d 2c5 dd14dc.txt
+  512  db sn a7f41dff61312c83c0de9dc50ab436d4c9c557a9033bd1ed08418aa073d53486 a24 dd14db.txt
+  513  db sn f9c33cc24e74e5ca44601cec38c0b2ac6f2531327dc074078caa4a65e3f34e23 977 dd14da.txt
+  514  db sn d53dae32d3cec848445278054f15a5e82648200b04f5791e87ba5b7b1174bd98 1afe dd14d9.txt
+  515  db https://benjamintodd.substack.com/p/almost-every-ai-forecast-of-the-last
+  516  db https://m.youtube.com/watch?v=A0kTUP7fWtk
+  517  db https://m.youtube.com/watch?v=A0kTUP7fWtk GATES
+  518  db https://m.youtube.com/watch?v=A0kTUP7fWtk Gates
+  519  db https://m.youtube.com/watch?v=A0kTUP7fWtk GatesDecoder
+  520  db BACH
+  521  history
+  522  423
+  523  db 423
+  524  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d9.txt
+  525  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14da.txt
+  526  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14da.txt
+  527  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d9.txt
+  528  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14db.txt
+  529  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14db.txt
+  530  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14dc.txt
+  531  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14dc.txt
+  532  db https://steady.page/de/techs-benedict/posts/9b10fb52-aaf7-4156-940c-29049fa1ab0c
+  533  db mopla
+  534  db moplapausieren
+  535  db moplapausieren?
+  536  db SmTh
+  537  db SmThBi
+  538  db SmThBiGa
+  539  db SmThBiGa d5
+  540  db Frz
+  541  db FrzHld
+  542  db FrTzHld
+  543  db fotzen
+  544  db fotzenfritz
+  545  db fotzenfred
+  546  db emb3
+  547  db embe
+  548  db embedded
+  549  db :1523
+  550  db ah 14dd4
+  551  db KNUEWER
+  552  db daten
+  553  db cerebras
+  554  db cerebras scheibe
+  555  db starre auf cerebras scheibe
+  556  db ich starre auf cerebras scheibe
+  557  db ich starre auf die cerebras scheibe
+  558  db picojoule
+  559  db picojoule per token
+  560  db daumenregle picojoule per token
+  561  cat dd14dd.txt
+  562  db cat dd14dd.txt
+  563  cat dd14dd.txt
+  564  db OKTO
+  565  db OCKTO
+  566  db ockto
+  567  db ockto.eu
+  568  ping ockto.eu
+  569  db ping ockto.eu
+  570  db 199.60.103.138
+  571  db https://ockto.eu/
+  572  db 11609
+  573  db 665546 11609
+  574  db
+  575  db so
+  576  db so how
+  577  db so how does
+  578  db so how does it
+  579  db so how does it work
+  580  db so how does it work?
+  581  db adressraum
+  582  sm ad14*
+  583  db sm 7aadb337e86b25d7bad4cd7c19d9eeec5e2a6d6e148997825a3884b17fbaa208  ad14cf.txt
+  584  db Cle
+  585  db CleMan
+  586  db BACH
+  587  db EDUARD
+  588  db https://kontakt-4.dastelefonbuch.de/Waldrohrbach/Sonja-u-Eduard-Schlinck-Waldrohrbach.html
+  589  db 53 99
+  590  db 06346
+  591  db 768
+  592  db 7685
+  593  db 76857
+  594  db https://www.openstreetmap.org/relation/907185
+  595  db Sonja
+  596  db SonjaSchlinck
+  597  db SoSch
+  598  db so how does it work?
+  599  db SoSchl
+  600  df
+  601  db df
+  602  db /storage/2627-1373
+  603  ls /storage/2627-1373
+  604  ls /storage/2627-1373/
+  605  termux-setup-storage
+  606  db ls /storage/2627-1373/
+  607  db termux-setup-storage
+  608  ls /storage/2627-1373/
+  609  df
+  610  db df
+  611  db /dev/fuse              61037984 61015360     22624 100% /storage/2627-1373
+  612  db BACH
+  613  db IMFRASTRUKTUR
+  614  db ShaSt
+  615  db InFRASTRUKTUR
+  616  db INFRASTRUKTUR
+  617  db NIKUTTA
+  618  db
+  619  db :1611
+  620  db ah 14dd5
+  621  db BitKom
+  622  db KIRRE
+  623  db INFRASTRUKTUR
+  624  db VINFRASTRUKTUR
+  625  db BINFRASTRUKTUR
+  626  db https://www.linke.de/de
+  627  db https://dielinke.berlin/start/
+  628  db Kerstin
+  629  db KerstinWolter
+  630  db dbCLAUDIA
+  631  db CLAUDIA
+  632  db Floh
+  633  db FlohClaudia
+  634  ab https://www.deraktionaer.de/aktien/kurse/magnificent7index-de000sl0jut3.html
+  635  db ab https://www.deraktionaer.de/aktien/kurse/magnificent7index-de000sl0jut3.html
+  636  db https://www.deraktionaer.de/aktien/kurse/magnificent7index-de000sl0jut3.html
+  637  db AAPL
+  638  db AAPL MSFT
+  639  db AAPL AMZN MSFT
+  640  db AAPL AMZN GOOG MSFT
+  641  db AAPL AMZN GOOG META MSFT
+  642  db AAPL AMZN GOOG META MSFT NVDA
+  643  db AAPL AMZN GOOG META MSFT NVDA TSLA
+  644  db mag7
+  645  db mag7 AAPL AMZN GOOG META MSFT NVDA TSLA
+  646  db Karl
+  647  db KarlKrueg
+  648  er
+  649  db KarlKrueger
+  650  db https://www.linkedin.com/in/karl-krueger-52a76b96?originalSubdomain=de
+  651  db https://www.linkedin.com/in/karl-krueger-52a76b96
+  652  ls bd1442
+  653  db ls bd1442
+  654  db ls bd1442.txt
+  655  cat bd1442.txt
+  656  db cat bd1442.txt
+  657  cat bd1441.txt
+  658  ls -l bd1441.txt
+  659  ls -l bd14*
+  660  ls -l bd13*
+  661  ls -l cd13*
+  662  ls -l cd14*
+  663  cat cd1464.txt
+  664  db cat cd1464.txt
+  665  ls -l cd1464.txt
+  666  cat cd1464.txt
+  667  ls cd13??.txt
+  668  ls ?d13??.txt
+  669  ls -t ?d13??.txt
+  670  zip
+  671  tar
+  672  history
+  673  #db 662history
+  674  history
+  675  db 674 history
+  676  ls
+  677  db hisBoneAd14d8.txu
+  678  db hisBoneAd14dc.txu
+  679  sm hisBoneAd14dc.txu
+  680  history>>hisBoneAd14dc.txu
