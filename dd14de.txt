@@ -1,0 +1,224 @@
+at14de000c db mv -iv Plenarprotokoll-1067.pdf?__blob=publicationFile br1067.pdf
+at14de0029 db sm d1de347fa7cb51e9b889dbe6ad140406b7640af6e98133a0550a6783bdcd2e54 br1067.pdf
+at14de04dc db https://adorsys.com/techradar/law-as-code-treating-legislation-as-a-database/
+at14de0a6a db https://www.linkedin.com/in/anuritha-chittedi1?trk=conversation-details-page_thread_thread-items-group_participants-profile-card_member-name
+at14de0a74 db ANURITHA
+at14de5795 db SanDiego
+at14de6214 db https://de.wikipedia.org/wiki/Model_Context_Protocol
+at14de627b db https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1949/Plenarprotokoll-1.pdf
+at14de629c db https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1949/Plenarprotokoll-1.pdf?__blob=publicationFile
+at14de647e db db sn bb1935cd410390fc5839625268dc561c35a43cc730b8b1b97200f699174f4b42 47204 br0001.pdf
+at14de64c4 db BiBuRa
+at14de6508 db BitBundesRat
+at14de6c01 db sm 87d32e25f22951cccb33904d42b59c16bf58045b3fbd5f6ad5d7c79a9f0f2999 /home/m1/hisNoezAh14de7.txu
+at14de7384 db 783 history
+at14de7390 db sb sb m1@5.230.78.121
+at14de73d8 db scp -p m1@5.230.78.121:/brSn0102.txt .
+at14de7405 db scp -p m1@5.230.78.121:brSn0102.txt .
+at14de740b db sm d46763d4d329f159c6a936edf53351f6ce04e99e5673151d8489445d50e9c3b0 brSn0102.txt
+at14de7941 db sn 00fd7af3f8bf75d85665c20bbd5bf83151c684f931be4cdb856019cd2fbeeffd 2c6f72 br0075.pdf
+at14de79be db MeineHerren
+at14de79d2 db https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1951/Plenarprotokoll-75.pdf
+at14de7a4d db Bums
+at14de7a52 db BumsRico
+at14de7a59 db JuAn
+at14de7a5f db BumsRico JuAn
+at14de7a64 db BumsRico JuAn Karl
+at14de7a69 db BumsRico JuAn KarlKruger
+at14de7a6d db BumsRico JuAn KarlKrueger
+at14de7a73 db BumsRico JuAn KarlKrueger Kerstin
+at14de7a79 db BumsRico JuAn KarlKrueger KerstinTrautmann
+at14de7a96 db BACH
+at14de7e0f db m1@vps69b4615671576541334634:~/br$ a=151
+at14de7e24 db wget -O br0$a.pdf https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/19$y/Plenarprotokoll-$a.pdf?__blob=publicationFile
+at14de7e38 db --2026-11-01 11:53:03-- https://www.bundesrat.de/SharedDocs/downloads/DE/plenarprotokolle/1955/Plenarprotokoll-151.pdf?__blob=publicationFile
+at14de7e67 db sm 4f38d50b41ff12499ee79e619c3b10326b7aba68dea38dd3cc987587238bc2bc br0151.pdf
+at14de8053 db take
+at14de8059 db take these files
+at14de8063 db BiBuRa
+at14de806f db BitBundes
+at14de8073 db BitBundesTag
+at14de8078 db BitBundesRat
+at14de8086 db :1303
+at14de8091 db ah 14de8
+at14de8237 db Druck
+at14de823b db DruckSache
+at14de82f7 db VorSchrift
+at14de82fd db LEGAL
+at14de882d db sm 8dddc863374fb14c7a010e44082a260605b9a22bcab919e5d5e6e23c532d67ba /home/m1/hisNoezAh14de9.txu
+at14de884d db QOLLMANN
+at14de8852 db WOLLMANN
+at14de8ecf db sm fd03f38bfc6d32c82f3a49090e65479161ed173c3c3480dbac6b580bf9ae6d41 /home/m1/hisNoezAh14dea.txu
+at14de928c db sm 004da3bc3898305940e0e7193cb8d1b94479cc0b074f5eec8d2c314ddc4c1d73 2133e0 br0444.pdf
+at14de92cc db CENTAUR
+at14de92d6 db DERSI
+at14de9ae7 db rpool/subvol-281985-disk-0 52428800 32568320 19860480 63% /
+at14dea06c db sm da6933dfad226aae60e5ae0f95c708fdda6c09d341a8352e0365976e645332d4 /home/m1/hisNoezAh14deb.txu
+at14dea4f1 db scp -p m1@5.230.78.121:brSn1069.txt .
+at14dea569 db sm 9ca7de550e9a10794c2134e3dbab8acee766611cdfb1611949bef4c318a484fa brSn1069.txt
+at14dea5af db bura
+at14dea5b3 db buRa
+at14dea5b7 db BuRa
+at14dea5be db BuRa /br
+at14dea82c db hisNoezAh14dec.txu
+at14dea834 db scp -p m1@5.230.78.121:brSn1069.txt .
+at14dea84a db scp -p m1@5.230.78.121:hisNoezAh14dec.txu .
+at14dea88d db scp -p m1@5.230.78.121:hisNoezAh14dec.txu .
+at14dea894 db sm 5a5b2a6472b498e03d44db17d674a0c1f748f6a5544fe215806f669d21e1c43d hisNoezAh14dec.txu
+at14deac61 db cp /storage/2627-1373/Download/ah14c51.png
+at14deac87 db cp /storage/2627-1373/Download/ah14c51.png rotAh14c51.png
+at14deac9b db cp -p /storage/2627-1373/Download/ah14c51.png rotAh14c51.png
+at14deacd4 db cp -p /storage/2627-1373/Download/ah14c51.png /storage/2627-1373/Download/rotAh14c51.png
+at14deb10b db rotiere clockwise und mach pdf draus
+at14deb12b db rotiere png clockwise und mach pdf draus
+at14deb26c db die letzen
+at14deb26f db die letzten
+at14deb28f db die letzten zahlungen sind von maerz- seit spril
+at14deb293 db die letzten zahlungen sind von maerz- seit april
+at14deb2b0 db die letzten zahlungen sind von maerz- seit april ist das konto inaktiv
+at14deb2c1 db hallo- die letzten zahlungen sind von maerz- seit april ist das konto inaktiv
+at14deb2d3 db hallo- die letzten zahlungen sind von maerz- seit april ist das konto inaktiv
+at14deb6e5 db yes a4 pls
+at14deb714 db yes --help
+at14deb71b db yes a4 pls
+at14deb7ea db the cols look messed up- again from the csv please
+at14debd00 db FRONTIER
+at14debd4a db BiBuRa
+at14debd65 db sb 882 history
+at14debd76 db 885 history
+at14debd86 db 837
+at14debd8e db sm 9ca7de550e9a10794c2134e3dbab8acee766611cdfb1611949bef4c318a484fa brSn1069.txt
+at14debda8 db 681
+at14debdee db sn 9ca7de550e9a10794c2134e3dbab8acee766611cdfb1611949bef4c318a484fa 158f7 brSn1069.txt
+at14debf11 db https://www.tagesschau.de/inland/gesellschaft/kinderlos-elternschaft-millennials-100.html
+at14debf46 db VossLoch
+at14debf69 db SENTHIL
+at14debf8e
+at14debf8e db 772
+at14debf94 db ANURITHA
+at14debfa2 db SENTHIL ANURITHA
+at14debfa8 db SENTHIL ANURITHA AROOSH
+at14debfad db SENTHIL ANURITHA AROOSH MARK
+at14debfb2 db SENTHIL ANURITHA AROOSH MARK CLEMENS
+at14debfb6 db SENTHIL ANURITHA AROOSH MARK CLEMENS SMTH
+at14dec010 db BURA
+at14dec018 db BURA BURI
+at14dec036 db TANGO
+at14dec0fe db GIO
+at14dec112 db WOLLMANN
+at14dec12b db RAMBUS
+at14dec13a db ab RAPIDUS
+at14dec1bf db https://de.wikipedia.org/wiki/Rapidus
+at14dec1f0 db ls -l brSn1069.txt
+at14dec1fc db -rw-r--r--. 1 u0_a317 u0_a317 88311 Nov 1 15:39 brSn1069.txt
+at14dec206 db -rw-r--r--. 1 u0_a317 u0_a317 88311
+at14dec216 db 88311
+at14dec26f db https://social.tchncs.de/home
+at14dec2a3 db more brSn1069.txt
+at14dec2ed db affe9
+at14dec4aa db LawTex
+at14dec82d db https://dip.bundestag.de/
+at14dec92b db https://dip.bundestag.de/plenarprotokoll/protokoll-der-1069-sitzung-des-bundesrates/5822
+at14dec955 db https://dserver.bundestag.de/brp/1069.pdf
+at14dec97a db curl https://dserver.bundestag.de/brp/1069.pdf .. sm
+at14dec97f db 061eb9bc6b08a03431b91dc2a3c43ff834a1a4f3f1e11f64ce33d6c572f6a7d9
+at14dec993 db 927
+at14deca4a db NOMIC
+at14deca51 db PLAN
+at14deca82 db grep PLAN d..
+at14deca88 db at14db3b7e db https://github.com/xocore-tech/PLAN/blob/master/spec/SPEC.txt
+at14decaba db Pin
+at14decabf db PinLaw
+at14decac3 db PinLawApp
+at14decac8 db PinLawAppNat
+at14deccd4 db https://ipld.io/
+at14deccde db :1829
+at14deccea db ah 14dec
+at14deccf2 db l STRK
+at14deceac db https://specs.ipfs.tech/
+at14decebb db https://ipfs.tech/
+at14dececa db https://en.wikipedia.org/wiki/InterPlanetary_File_System
+at14decee2 db https://github.com/xocore-tech/PLAN/blob/master/spec/SPEC.txt
+at14decf2a db https://dserver.bundestag.de/brp/1069.pdf
+at14decf49 db curl https://dserver.bundestag.de/brp/1069.pdf .. sm
+at14decf4e db 061eb9bc6b08a03431b91dc2a3c43ff834a1a4f3f1e11f64ce33d6c572f6a7d9
+at14dedadd db
+at14dedaf2 db sm 9ca7de550e9a10794c2134e3dbab8acee766611cdfb1611949bef4c318a484fa brSn1069.txt
+at14dedb30 db sm f781a67bcd5b58c7b9af9ca20e625a130ece5762ee3eb980e3ff6bbd4f7b45a6 AdXxx.txt
+at14dee067 db LawTex
+at14dee09c db sn a901b468b7d42eee4d09b796ac4dbb7ca5fb317e35c246a86b6e5b2e425c5ff0 744 dd14d0.txt
+at14dee0a0 db sn 96cc9806aa414e6c20a84be2210e8feb443c901677a60c31ce14f908d1a80703 9f7 dd14c0.txt
+at14dee0a3 db sn 8975808b8e9b9fd6b1a91bb8c6fe219fb19e2bcffe2c711bf80667cd43689d55 631 dd14b0.txt
+at14dee0a8 db sn 2575c217de84a8207f70219bcb47ceffd15b5399f40e7ab85cd150d279bea764 4ba dd14a0.txt
+at14dee0ab db
+at14dee0d0 db sn 95d02efdec9c4ccf2b8dd2d74f33bbf7b30605aa0bbfeb565607fb1920cf53a7 2dc dd14d8.txt
+at14dee0d3 db sn 8e5c940f74d1c9611a4fcb691a57f9b3d57c59e9c2a8190067ce2f383927ceeb bf7 dd14c8.txt
+at14dee0d6 db sn 6600b1efb7ed48f03507c65893a8a3cdfed92a92245ae4fef83b4623ab5e1d6a 17e1 dd14b8.txt
+at14dee0da db sn 16e8d7133e443faa69f082268602baa1d275137b4b02a789fee3c85c0ea6aa6a 2f8 dd14a8.txt
+at14def182 db
+at14def188 db :2106
+at14def191 db ah 14def
+at14def197 db GriBi
+at14def19d db l GriBi
+at14def1ae db sb HalberStadt
+at14def1bc db performance
+at14def1c4 db FlashM8b
+at14def1c8 db FlashMob
+at14def1e1 db VierHochAcht
+at14def231 db db.
+at14def235 db
+at14def239 db aus
+at14def23c db aus dem
+at14def241 db aus dem raum
+at14def244 db aus dem raum in
+at14def247 db aus dem raum in dir
+at14def249 db aus dem raum in die
+at14def24c db aus dem raum in die zeit
+at14def2b0
+at14def2b3 db 1067
+at14def2b8 db 1067 1069
+at14def2bd db 1067 1069 1070
+at14def2c4 db 1067 1069 md1120 1070
+at14def2c9 db 1067 1069 md1120 be1070
+at14def2ce db 1067 1069 md1120 br1070
+at14def2d6 db br1067 1069 md1120 br1070
+at14def2e3 db md0710 br1067 1069 md1120 br1070
+at14def40c db md0710 br1067 br1069 md1120 br1070
+at14def419 db md0710 br1067 bd1068 br1069 md1120 br1070
+at14def423 db md0710 br1067 bd1068 md1016 br1069 md1120 br1070
+at14def43c db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070
+at14def462 db cal 2026
+at14def48a db ZUSE
+at14def48f db ZUSEund
+at14def494 db ZUSEundHEGEL
+at14def4fe db ab WOLLMANN
+at14def507 db WOLLMANN
+at14def53e db ZUSEWOLLMANN
+at14def545 db ZUSEundWOLLMANN
+at14def5aa db dbEWIG
+at14def5af db EWIG
+at14def5ba db BACH
+at14def5c0 db BACHund
+at14def5c5 db BACHundEWIG
+at14def710 db Peak
+at14def714 db PeakIq
+at14def719 db PeakIq130
+at14defaa1 db grep 1071 d..
+at14defaa8 db grep 1071 dd..
+at14defab6 db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070
+at14defabf db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 bd1071
+at14defac4 db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 br1071
+at14defacd db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 br1071 br1072
+at14defad5 db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 br1071 br1072 sl7
+at14defade db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 br1071 br1072 sl7 br1073
+at14defaf2 db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 br1071 br1072 sl7 md0226 br1073
+at14defafe db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 br1071 br1072 md0205 sl7 md0226 br1073
+at14defb11 db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 br1071 md0129 br1072 md0205 sl7 md0226 br1073
+at14defb27 db md0710 br1067 md0925 bd1068 md1016 br1069 md1120 br1070 md1218 br1071 md0129 br1072 md0205 sl7 md0226 br1073
+at14defb53 db take at14defb27
+at14defb60 db take at14defb27 as absolute axiom
+at14defb67 db take at14defb27 as absolute axiom of th3
+at14defb6b db take at14defb27 as absolute axiom of the
+at14defb73 db take at14defb27 as absolute axiom of the coming
+at14defb79 db take at14defb27 as absolute axiom of the coming weeks
+at14defbda db DERSI
