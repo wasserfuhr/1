@@ -1,0 +1,77 @@
+at14e01138 db gedankenverarbeitendes
+at14e0113c db gedankenverarbeitendesgewerbe
+at14e01bf9 db https://open.spotify.com/episode/1WiqVC4ox85NNf49Me9geL
+at14e01c08 db :1819
+at14e01c11 db ah 14e01
+at14e01c17 db l STRK
+at14e01c32 db 491
+at14e01c4d db sn 27cfa9a4470a5ca5776ff06a677fb45897703b7efc3cb0efe9a3767d0b2a1f0c c00 dd14df.txt
+at14e01c51 db sn 87f007226edfcb37d95be0fab732c0b53d38f6a1cf9e7e63b45265d253c63b13 2a1c dd14de.txt
+at14e01c56 db sn ed74308a2335b5a8346da3c4c28e1cfc4bc7db7d6edacf8b1bd571d194af24ac 1e90 dd14dd.txt
+at14e01c59 db sn 8c2c67334216abd4315acf0958ed2e415dcb30b581dbd60d7cf1ff29e1f4fa4d 2c5 dd14dc.txt
+at14e01c7f db fractile.ai
+at14e01c9f db 423
+at14e01ca4 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d9.txt
+at14e01cab db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14de.txt
+at14e01d09 db https://fractile.ai/how-we-think
+at14e01d18 db https://fractile.ai/
+at14e02325 db https://www.wikidata.org/wiki/Q155
+at14e0232c db https://www.wikidata.org/wiki/Q155 CcBr
+at14e023ab db https://de.wikipedia.org/wiki/Brasilianische_Botschaft_in_Berlin
+at14e023b1 db https://de.wikipedia.org/wiki/Brasilianische_Botschaft_in_Berlin EmbBr
+at14e0242d db https://pt.wikipedia.org/wiki/Berlim
+at14e02433 db https://pt.wikipedia.org/wiki/Berlim qx40
+at14e02467 db https://de.wikipedia.org/wiki/Liste_der_Auslandsvertretungen_Brasiliens
+at14e024f7 db https://de.wikipedia.org/wiki/Brasilien#Bev%C3%B6lkerung
+at14e0250a db https://de.wikipedia.org/wiki/Brasilien#Au%C3%9Fenpolitik
+at14e0251a db https://de.wikipedia.org/wiki/Brasilien#Politik
+at14e02532 db https://de.wikipedia.org/wiki/Brasilien
+at14e029a1 db https://hasepost.de/giffey-offen-fuer-spd-parteivorsitz-773571/
+at14e02a4b db Digital
+at14e02a50 db DigitalGipfel
+at14e02a55 db Giffey
+at14e02a5a db GiffeyZipfel
+at14e02fb8 db https://dschungel-anderswelt.de/20261020/am-20-oktober-2026-wieder-ein-arbeitsjournal-zu-einem-mehr-als-nur-magischen-realismus-aus-wien-sowie-von-der-buchmesse-frankfurt-in-die-er-noch-nicht-aber-in-die-inversionsmaschine-hineinschlug/
+at14e0305c db https://dschungel-anderswelt.de/20261021/bildersunruh-im-nachnachtsarbeitsjournal-des-mittwochs-den-21-oktober-2026/
+at14e0308a db https://dschungel-anderswelt.de/20261101/woher-nur-nehmen-die-menschen-die-kraft/
+at14e0309a db https://dschungel-anderswelt.de/
+at14e03b75 db https://www.facebook.com/reel/1827694848359074/?app=fbl
+at14e03b7b db https://www.facebook.com/reel/1827694848359074/
+at14e03e95 db https://www.euro-defence.eu/
+at14e06f9d db LauraAmelie
+at14e06fa3 db Laura
+at14e06fa6 db LauraAmelie
+at14e06fad db LauraAmelieWe
+at14e06fbc db LauraAmelieWellm
+at14e06fd0 db https://www.facebook.com/profile.php?id=61595341863995
+at14e06fe2 db https://www.facebook.com/profile.php?id=61595341863995 LauraAmelieWellm
+at14e07d03 db https://en.wikipedia.org/wiki/2026_Palm_Beach_County_Learjet_60_crash
+at14e07d26 db N722BF
+at14e07d2a db N722BD
+at14e07e4f db https://moltsets.com/blog/
+at14e08f64 db https://claude.ai/share/f75091d1-ac29-4979-8a19-459038f9ad76
+at14e08f6c db https://claude.ai/share/f75091d1-ac29-4979-8a19-459038f9ad76 SENTHIL
+at14e0abfd db
+at14e0d39e db 449
+at14e0d3a5 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14e0d3ab db https://clara.imslp.org/work/169760
+at14e0d42e db https://www.wikidata.org/wiki/Q246450
+at14e0d51c db ffm
+at14e0d594 db 3DOflReU5RlZM
+at14e0d59a db OflReU5RlZM
+at14e0d5ac db ls
+at14e0d5b2 db hisBoneAd14de.txu
+at14e0d5bb db hisBoneAd14e0.txu
+at14e0d5da db db521history
+at14e0d5e4 db 523 history
+at14e0d5f2 db 491
+at14e0d621 db sn 5a5b2a6472b498e03d44db17d674a0c1f748f6a5544fe215806f669d21e1c43d dfee hisNoezAh14dec.txu
+at14e0d627 db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+at14e0d62e db sn d198b8226e3274642991a96e02af99b0219cd7fb7c78d4cc548c611200be57a4 6ddb hisBoneAd14e0.txu
+at14e0d633 db sn b0eca963eb2b493b76f5868dc9bd3f0dbfbab6ab00687d33e57be1ee57be7ec7 4e45 hisBoneAd14de.txu
+at14e0d63a db sn 2aba5e1d54b910521fba67a68c148ab825d095efa3f1f6a005459c2399a87abc 59fa hisBoneAd14dc.txu
+at14e0d641 db sn e0234a4bbd52e6510bf796dee4078378c5c317aeffe7896aa51d288f7c3648c2 6b84 hisBoneAd14d8.txu
+at14e0d64a db 491
+at14e0d656 db :0734
+at14e0d663 db ah 14e0d
+at14e0d66b db l STRK
