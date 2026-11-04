@@ -1,0 +1,38 @@
+at14e108d0 db
+at14e1121d db StaDdRat
+at14e11224 db md1126 StaDdRat
+at14e1122b db md1126 StaDdRat md0205 sl5.
+at14e11230 db md1126 StaDdRat md0205 sl7
+at14e11266 db sn 761c55648df2f17881774c606f286bea83f6b59bf52548e03d06d30e03c0d41f 10ba dd14e0.txt
+at14e1126c db sn 27cfa9a4470a5ca5776ff06a677fb45897703b7efc3cb0efe9a3767d0b2a1f0c c00 dd14df.txt
+at14e11270 db sn 87f007226edfcb37d95be0fab732c0b53d38f6a1cf9e7e63b45265d253c63b13 2a1c dd14de.txt
+at14e11273 db sn ed74308a2335b5a8346da3c4c28e1cfc4bc7db7d6edacf8b1bd571d194af24ac 1e90 dd14dd.txt
+at14e113dd db https://www.eventbrite.ie/e/semi-conductors-me-insights-from-ireland-germany-berlin-science-week-tickets-2003205315022#location
+at14e113ef db https://www.eventbrite.ie/e/semi-conductors-me-insights-from-ireland-germany-berlin-science-week-tickets-2003205315022
+at14e113f7 db https://www.eventbrite.de/mytickets-web/16019245703/
+at14e114fe db https://bmds.bund.de/aktuelles/pressemitteilungen/detail/chip-startups-in-deutschland-neue-impulse-fuer-technologische-souveraenitaet
+at14e11525 db https://www.bitkom.org/Themen/Startups-Scaleups/Chip-Startups-in-Deutschland-Neue-Impulse-fuer-technologische-Souveraenitaet
+at14e115a5 db HRB 43583
+at14e115b1 db https://www.lm-semi.com/legal/
+at14e11665 db https://www.linkedin.com/in/clemenspaulgraetsch/
+at14e1176d db 423
+at14e11771 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14d9.txt
+at14e11779 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14e0.txt
+at14e117db db https://www.linkedin.com/in/dorit-lifebalance-consultant/
+at14e118c7 db DORIT
+at14e118cd db HEGEL
+at14e118f4 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14df.txt
+at14e11c23 db https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html
+at14e11cb6 db [dancing monkey in a cage]
+at14e11cd2 db YUD
+at14e11cd7 db https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html
+at14e11cdd db DolceVita
+at14e1311c db https://www.bundesrat.de/DE/service/mediathek/mediathek-node.html
+at14e1a1c0 db Peter
+at14e1a1c4 db PeterRost
+at14e1a1ca db :2202
+at14e1a1d5 db ah 14e1a
+at14e1a1db db l STRK
+at14e1a201 db PeterRost
+at14e1a208 db SecuNet
+at14e1ab5c db https://fast-forward-podcast.podigee.io/#latest-episode-player
