@@ -1,0 +1,104 @@
+at14e21487 db TdlMiezen
+at14e2148f db :0612
+at14e21497 db ah 14e21
+at14e2149e db l STRK
+at14e214bc db sn 2f0fedec6e912f3f9a98c50fc976b352f9b4653a6e90f8770cf2a7561b2d1210 8ed dd14e1.txt
+at14e214c1 db sn 761c55648df2f17881774c606f286bea83f6b59bf52548e03d06d30e03c0d41f 10ba dd14e0.txt
+at14e214c6 db sn 27cfa9a4470a5ca5776ff06a677fb45897703b7efc3cb0efe9a3767d0b2a1f0c c00 dd14df.txt
+at14e214ca db sn 87f007226edfcb37d95be0fab732c0b53d38f6a1cf9e7e63b45265d253c63b13 2a1c dd14de.txt
+at14e229a3 db 449
+at14e229b3 db ssh m1@5.230.78.121 -o ServerAliveInterval=8
+at14e229b8 db https://de.wikipedia.org/wiki/Deutscher_Bundestag
+at14e229de db https://de.wikipedia.org/wiki/Wahl_zum_22._Deutschen_Bundestag
+at14e22a03 db 2825
+at14e22a07 db 28 25
+at14e22a0b db 28 325
+at14e22a0f db 128 325
+at14e22a14 db 128 0325
+at14e22a1c db 0128 0325
+at14e22a20 db 0128 md0325
+at14e22a26 db md0128 md0325
+at14e22a3b db cal 2029
+at14e231a5 db https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3
+at14e231a9 db cal 2029
+at14e260f8 db [So k:onnte eine bessere Einsch:atzung der Zukunft zur schlechteren Eintrittskarte in die gegenw:artige Gemeinschaft werden]
+at14e2610b db qotd [So k:onnte eine bessere Einsch:atzung der Zukunft zur schlechteren Eintrittskarte in die gegenw:artige Gemeinschaft werden]
+at14e26415 db https://x.com/rainer/status/2117932729568256321
+at14e26426 db https://x.com/home
+at14e26447 db https://www.facebook.com/story.php?story_fbid=10165484413659916 ... id=509034915
+at14e2645c db https://www.facebook.com/share/p/1CgEySowLz/
+at14e26469 db https://www.facebook.com/
+at14e2647b db https://www.linkedin.com/in/rainer/
+at14e26495 db https://www.linkedin.com/feed/update/activity:7523696145265545216
+at14e264a2 db https://www.linkedin.com/in/rainer/
+at14e264da db https://www.linkedin.com/
+at14e264f8 db https://social.tchncs.de/@rawa/117557744042993813
+at14e2650f db https://social.tchncs.de/home
+at14e267ef db https://www.siggibecker.de/noj923yeah/2026/11/04/lalaland/?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80MDk5NjI2MjMwODU2MDkAAR_M77t5HQYaVYIWGNGxg00QC8-FcV_Jr34CMjcMI5PNOaPm8DE0CQCP8OJ1oQ_aem_lDPpXz-g9tGaPHrS-9gOOg
+at14e26802 db https://www.siggibecker.de/noj923yeah/2026/11/04/lalaland/
+at14e26806 db https://www.siggibecker.de/noj923yeah/2026/11/04/lalaland
+at14e26834 db https://www.facebook.com/siggi.becker/
+at14e2683a db :1209
+at14e26841 db ah 14e26
+at14e26849 db TldMieze
+at14e2685b db https://www.facebook.com/
+at14e268d2 db TldMieze
+at14e268d9 db TdlMieze
+at14e2690f
+at14e26911 db https://de.wikipedia.org/wiki/Tarifgemeinschaft_deutscher_L%C3%A4nder
+at14e2695a db https://de.wikipedia.org/wiki/Tarifvertrag_f%C3%BCr_den_%C3%B6ffentlichen_Dienst
+at14e26c41 db https://de.wikipedia.org/wiki/TDL
+at14e26c80 db https://de.wikipedia.org/wiki/Boxhagen-Rummelsburg
+at14e26c86 db Buchs
+at14e26c8c db BuchsHagen
+at14e26cef db https://de.wikipedia.org/wiki/J%C3%B6rg_Nikutta
+at14e26d00 db https://de.wikipedia.org/wiki/Sigrid_Nikutta
+at14e26e45 db https://de.wikipedia.org/wiki/Waldbreitbach
+at14e26e50 db https://de.wikipedia.org/wiki/Waldrohrbach
+at14e26e6f db https://de.wikipedia.org/wiki/Waldrohrbach
+at14e26ec1 db Schilf
+at14e26ec7 db SchilfRohr
+at14e26ecd db SchilfRohrBach
+at14e26ed5 db SchilfRohrBacttps://de.wikipedia.org/wiki/Waldrohrbach
+at14e26edc db SchilfRohrBach
+at14e26ee3 db WaldSchilfRohrBac
+at14e26ee8 db WaldSchilfRohrBachh
+at14e26eec db WaldSchilfRohrBach
+at14e26ef3 db :1238
+at14e26f00 db ah 14e26
+at14e26f0a db l STRK
+at14e2755a db https://luma.com/nt7ei5w5
+at14e2775e db https://www.goindigo.in/
+at14e27ab3 db wir heiern
+at14e27ad6 db asapst
+at14e27ae0
+at14e27ae2 db ExaWatt asapst
+at14e27b8d db GLOECKLER
+at14e27b94 db KLOECKNER
+at14e27b9e db Gk
+at14e27ba3 db GkLn
+at14e27ca8 db djinn
+at14e27cb6 db cat dd14e2.txt
+at14e292e5 db https://www.plomlompom.com/users/plomlompom.html
+at14e292fc db https://social.tchncs.de/@plomlompom
+at14e29316 db https://social.tchncs.de/@plomlompom@status.plomlompom.com
+at14e29353 db https://social.tchncs.de/@plomlompom@status.plomlompom.com
+at14e2936e db https://fedi.plomlompom.com/
+at14e2aac2 db https://de.wikipedia.org/wiki/Ramb%C3%B8ll_Group
+at14e2aaca db :1653
+at14e2aad2 db ah 14e2a
+at14e2aad9 db l STRK
+at14e2aaf7 db cat dd14e2.txt
+at14e2ab17 db https://de.wikipedia.org/wiki/Ketteln
+at14e2ab22 db https://luma.com/home
+at14e2acfe db https://en.wikipedia.org/wiki/Electrofuel
+at14e2aef6 db https://en.wikipedia.org/wiki/Gallon#Sizes_of_gallons
+at14e2aefc db https://en.wikipedia.org/wiki/Gallon
+at14e2af23 db https://en.wikipedia.org/wiki/Jet_fuel
+at14e2af39 db https://de.wikipedia.org/wiki/Kerosin
+at14e2af60 db https://de.wikipedia.org/wiki/Barrel
+at14e2af9d db https://de.wikipedia.org/wiki/Gallone
+at14e2e9b5 db
+at14e2e9be db :2121
+at14e2e9cd db ah 14e2e
+at14e2e9d7 db l STRK
