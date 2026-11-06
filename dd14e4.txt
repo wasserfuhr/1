@@ -1,0 +1,20 @@
+at14e47663 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14e4766f db 322
+at14e4767d db 507 history
+at14e476a2 db sn 36f3de42d775021402f8cdb03e94539004881c4bfb38e3539c654aaa2692f29f 403 dd14e3.txt
+at14e476a6 db sn a1afc669423a2dab030d40957c336810d8d95f2ef751c9745142e8f585c79eed 1295 dd14e2.txt
+at14e476a8 db sn 2f0fedec6e912f3f9a98c50fc976b352f9b4653a6e90f8770cf2a7561b2d1210 8ed dd14e1.txt
+at14e476ac db sn 761c55648df2f17881774c606f286bea83f6b59bf52548e03d06d30e03c0d41f 10ba dd14e0.txt
+at14e476cb db cat dd14e4.txt
+at14e47ab5 db 488
+at14e47aba db derbehuetetejuristensohnausdemhochsauerland
+at14e47ae8 db 295
+at14e47b00 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14da.txt
+at14e47b0c db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14e0.txt
+at14e47b19 db sb curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14e1.txt
+at14e47b1e db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14e1.txt
+at14e485fc db Elster
+at14e48602 db ElsterHorst
+at14e48675 db https://www.berlin.de/sen/finanzen/steuern/finanzaemter/technisches-finanzamt/
+at14e4d293 db grep m1 d..
+at14e4d298 db at14e229b3 db ssh m1@5.230.78.121 -o ServerAliveInterval=8
