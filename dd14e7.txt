@@ -1,0 +1,246 @@
+at14e77f0a db NURTURE
+at14e77f0d
+at14e77f0f db
+at14e77f1e db :0848
+at14e77f29 db ah 14e77
+at14e77f32 db l STRK
+at14e77f4b db 476
+at14e77f76 db sn 964a6162b7651b1b1ed64d6cb90def19079efe5b3508c903645e8753ebfb9eca 1167 dd14e6.txt
+at14e77f7a db sn 759c8fc9166923826c0bb44991f036e23d98af7a481106304e61432d222324c7 992 dd14e5.txt
+at14e77f7d db sn 4be8ac196cb1110b586b21e5b026d1490bcd534a35ee869a1914ff6435957e9d 4d8 dd14e4.txt
+at14e77f80 db sn 36f3de42d775021402f8cdb03e94539004881c4bfb38e3539c654aaa2692f29f 403 dd14e3.txt
+at14e77fdc db 408
+at14e7811a db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14e6.txt
+at14e78125 db 589 history
+at14e78132 db hisBoneAd14e0.txu
+at14e7813b db hisBoneAd14e4.txu
+at14e78195 db sn 5a5b2a6472b498e03d44db17d674a0c1f748f6a5544fe215806f669d21e1c43d dfee hisNoezAh14dec.txu
+at14e78199 db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+at14e7819e db sn 2cc0d188ef08603b7863ef3ad4a8a2aca8724fc4d23b7d4d001751240731bd35 636a hisBoneAd14e4.txu
+at14e781a2 db sn d198b8226e3274642991a96e02af99b0219cd7fb7c78d4cc548c611200be57a4 6ddb hisBoneAd14e0.txu
+at14e781a9 db sn b0eca963eb2b493b76f5868dc9bd3f0dbfbab6ab00687d33e57be1ee57be7ec7 4e45 hisBoneAd14de.txu
+at14e781af db sn 2aba5e1d54b910521fba67a68c148ab825d095efa3f1f6a005459c2399a87abc 59fa hisBoneAd14dc.txu
+at14e781bf db JonOssof
+at14e781c4 db JonOssoff
+at14e781d6 db ab JoOs?
+at14e781db db JoOs?
+at14e78218 db https://m.youtube.com/watch?v=YG4Q7N3NS6g
+at14e78223 db https://m.youtube.com/watch?v=YG4Q7N3NS6g ChrisBauckhage
+at14e7889c db https://m.youtube.com/watch?v=Q3RsISN6UtA
+at14e788a5 db https://m.youtube.com/watch?v=Q3RsISN6UtA AiWanger
+at14e788ac db https://m.youtube.com/watch?v=Q3RsISN6UtA AiWanger UnStaat
+at14e788b5 db https://m.youtube.com/watch?v=Q3RsISN6UtA AiWanger UnStaat qxb7
+at14e788cb db https://m.youtube.com/watch?v=Q3RsISN6UtA AiWanger UnStaat qxb7 Sabine
+at14e788d0 db https://m.youtube.com/watch?v=Q3RsISN6UtA AiWanger UnStaat qxb7 SabineJarothe
+at14e788dc db SabineJarothe
+at14e78a67 db BruchLos
+at14e78a73 db BruchLos TobiasGotthardz
+at14e78a76 db BruchLos TobiasGotthardt
+at14e78aa2 db https://de.wikipedia.org/wiki/Tobias_Gotthardt
+at14e78afa db https://de.wikipedia.org/wiki/Verband_der_Katholiken_in_Wirtschaft_und_Verwaltung
+at14e78bf3 db https://kkv-bund.de/
+at14e78c49 db https://kkv-podcast.letscast.fm/episode/kkv005-auf-kurs-zukunft-was-ist-ein-gelungenes-und-glueckliches-leben
+at14e78d22 db PeterSchallenberg
+at14e78d2f db https://kkv-bund.de/ueber-uns/podcast/
+at14e78d3d db https://kkv-bund.de/
+at14e78d52 db https://kkv-bund.de/standorte/
+at14e78d68 db https://kkv-bund.de/
+at14e78d6d db https://de.wikipedia.org/wiki/Verband_der_Katholiken_in_Wirtschaft_und_Verwaltung
+at14e78d84 db https://de.wikipedia.org/wiki/Tobias_Gotthardt
+at14e78d9a db https://bsky.app/profile/velokira.bsky.social
+at14e78db6 db https://nowkoelln.de/
+at14e78dc5 db https://www.kulturkaufhaus.de/de/veranstaltungen/detail/Signierstunde-mit-Joachim-Sauer/Signierstunde-mit-Joachim-Sauer
+at14e78ddb db https://www.kulturkaufhaus.de/de/veranstaltungen/buchevent
+at14e78e2c db https://www.kulturkaufhaus.de/de/veranstaltungen/detail/Signierstunde-mit-Joachim-Sauer/Signierstunde-mit-Joachim-Sauer?bpmctrl=bpmrownr.4%7Cforeign.665126-77-0-634671
+at14e78e3a db https://www.kulturkaufhaus.de/de/veranstaltungen/kostenfreie-events
+at14e78e5e db https://www.kulturkaufhaus.de/de/veranstaltungen
+at14e78e70 db https://www.kulturkaufhaus.de/de/service/versand
+at14e78e83 db https://www.kulturkaufhaus.de/de/start
+at14e78ea3 db https://de.dussmann.de/
+at14e78ed1 db https://m.youtube.com/watch?v=lokA-pdTbAY
+at14e78ed9 db https://m.youtube.com/watch?v=lokA-pdTbAY BeSeCo
+at14e78f3d db https://www.euro-defence.eu/
+at14e78f59 db https://m.youtube.com/watch?v=019fNT1DH-8
+at14e78f5f db https://m.youtube.com/watch?v=019fNT1DH-8 Prager
+at14e78f65 db https://m.youtube.com/watch?v=019fNT1DH-8 PragerGeheimnis
+at14e78fb1 db https://m.youtube.com/watch?v=019fNT1DH-8 PragerGeheimnis Utta
+at14e78fb7 db https://m.youtube.com/watch?v=019fNT1DH-8 PragerGeheimnis UttaDanella
+at14e78fbd db UttaDanella
+at14e78fed db https://m.youtube.com/watch?v=Q3RsISN6UtA
+at14e78ff7 db https://m.youtube.com/watch?v=Q3RsISN6UtA AiWanger
+at14e78ffb db Test
+at14e79001 db TestRuediger
+at14e79004 db TestRudi
+at14e79a6f db Nipple
+at14e79a76 db NippleConfusion
+at14e79a8a db NippleConfusion:1
+at14e79a8d db NippleConfusion:111
+at14e79a90 db NippleConfusion:11111
+at14e79ca4 db TRAGISCH
+at14e79cab db :1054
+at14e79cb4 db ah 14e79
+at14e79cbb db l STRK
+at14e79cc0 db GIO
+at14e79cc9 db HdGio
+at14e79e9a db https://m.youtube.com/watch?v=7YfWhwke6CM
+at14e7a4e8 db MiniApple
+at14e7a4f0 db KupferWasser
+at14e7a4f4 db Kupfereasser
+at14e7a4fa db Kupferewsser
+at14e7a4fe db Kupferwasser
+at14e7a50c db RonnieKupferwasser
+at14e7a607 db THERON
+at14e7a617 db 7Y
+at14e7a625 db grep AdXxx.txt 7Y
+at14e7a63d db grep 7Y AdXxx.txt
+at14e7a641 db atf3ae239 ab http://sl4.eu/xl/Q2L47Y2wHOU.mp4
+at14e7a664 db grep 7Yf AdXxx.txt
+at14e7a66b db atd8b43b4 ab https://www.facebook.com/siggi.becker/posts/pfbid02R4YpXE9ZhYGSYtTPMMe3WEAdmctrxz2CrTTimQP8r1B6JDFFKScvn7YfzdW7PS1Fl?notif_id=1670635958401670...
+at14e7a67c db atdcda101 ab https://kraftsabrina.com/?fbclid=IwAR2zx7OajtaFNruGQFi8Vtg5riCOau2efpfPwepgwza3HX7Yfj4DOwqimtA
+at14e7a690 db https://www.facebook.com/siggi.becker/posts/pfbid02R4YpXE9ZhYGSYtTPMMe3WEAdmctrxz2CrTTimQP8r1B6JDFFKScvn7YfzdW7PS1Fl
+at14e7a72f db Asset
+at14e7a735 db AssetClass
+at14e7a797 db
+at14e7a79f db :1141
+at14e7a7aa db ah 14e7a
+at14e7a7b1 db l STRK
+at14e7a8d7 db https://de.wikipedia.org/wiki/Young_Adult_%28Film%29
+at14e7a945 db https://www.wikidata.org/wiki/Special:EntityPage/Q1460394
+at14e7a94a db Q1460394
+at14e7a960 db printf %x 1460394
+at14e7a965 db 1648aa~
+at14e7a970 db 1648aa YoungAdul5
+at14e7a972 db 1648aa YoungAdult
+at14e7a977 db qx1648aa YoungAdult
+at14e7a987 db aa d5 b7 3a f1 69 40
+at14e7a990 db aa d5 b7 3a f1 69 40 20
+at14e7a995 db aa d5 b7 3a f1 69 40 20 dd
+at14e7a9a4 db aa d5 b7 3a f1 69 40 20 dd 2a
+at14e7aa01 db df
+at14e7aa06 db /dev/fuse 61037984 61018496 19488 100% /storage/2627-1373
+at14e7bf32 db John
+at14e7bf37 db JohnMoody
+at14e7cac2 db kalakanis
+at14e7cac7 db calakanis
+at14e7d261 db https://m.youtube.com/watch?v=2v8b062QzTI
+at14e7d267 db https://m.youtube.com/watch?v=2v8b062QzTI AllIn
+at14e7d272 db SACKS
+at14e7d278 db :1444
+at14e7d282 db ah 14e7d
+at14e7d289 db l STRK
+at14e7d417 db https://allin.com/
+at14e7d44e db https://en.wikipedia.org/wiki/All-In_Podcast
+at14e7d46e db CHAMATH
+at14e7d47d db Chamath
+at14e7d482 db ChamathDavid
+at14e7d487 db ChamathDavidDavid
+at14e7d48c db ChamathDavidDavidJason
+at14e7d49d db https://en.wikipedia.org/wiki/Jason_Calacanis
+at14e7d4a4 db TechBro
+at14e7d4b1 db https://en.wikipedia.org/wiki/37signals
+at14e7d4be db https://en.wikipedia.org/wiki/37signals Jason
+at14e7d4c4 db https://en.wikipedia.org/wiki/37signals JasonFried
+at14e7d4d8 db Fried
+at14e7d4dc db FriedBerg
+at14e7d4e0 db Friedberg
+at14e7d4e6 db DavidFriedberg
+at14e7d4f3 db https://en.wikipedia.org/wiki/All-In_Podcast
+at14e7d501 db https://en.wikipedia.org/wiki/Jason_Calacanis
+at14e7d50d db https://en.wikipedia.org/wiki/37signals
+at14e7d533 db https://en.wikipedia.org/wiki/37signals
+at14e7d552 db https://en.wikipedia.org/wiki/Jason_%28given_name%29
+at14e7d571 db https://de.wikipedia.org/wiki/Jason_%28Vorname%29
+at14e7d5a5 db https://de.wikipedia.org/wiki/Jason_%28Begriffskl%C3%A4rung%29
+at14e7d5b5 db https://de.wikipedia.org/wiki/Iason
+at14e7d5c6 db 404 https://de.wikipedia.org/wiki/Calacanis
+at14e7d5d5 db https://de.wikipedia.org/wiki/Moody%E2%80%99s
+at14e7d5fe db https://de.wikipedia.org/wiki/Rating%28Finanzwesen%29#Ratingsymbole/Ratingcodes
+at14e7d610 db https://de.wikipedia.org/wiki/Rating%28Finanzwesen%29
+at14e7d61b db https://de.wikipedia.org/wiki/Triple_A
+at14e7d62a db https://de.wikipedia.org/wiki/AAA
+at14e7d639 db https://whats-chippening-halbleiternews.podigee.io/99-folge-94
+at14e7d648 db https://whats-chippening-halbleiternews.podigee.io/#latest-episode-player
+at14e7d656 db https://whats-chippening-halbleiternews.podigee.io/
+at14e7d667 db https://www.wikidata.org/wiki/Q1460394
+at14e7d685 db 756 history
+at14e7d689 db 696
+at14e7d68c db 697
+at14e7d692 db https://de.wikipedia.org/wiki/Young_Adult_%28Film%29
+at14e7d6a4 db https://de.wikipedia.org/wiki/Charlize_Theron
+at14e7d6ae db VEIRON
+at14e7d6d5 db https://de.wikipedia.org/wiki/Theron
+at14e7e42b db https://de.wikipedia.org/wiki/Veyron
+at14e7e445 db 404 https://de.wikipedia.org/wiki/Veiron
+at14e7e45c db https://de.wikipedia.org/wiki/Theron
+at14e7e490 db https://m.youtube.com/watch?v=o2jEi2Ez0O8
+at14e7e496 db https://m.youtube.com/watch?v=o2jEi2Ez0O8 Rachel
+at14e7e49b db https://m.youtube.com/watch?v=o2jEi2Ez0O8 RachelDonald
+at14e7e4b2
+at14e7e4c3 db https://www.planetcritical.com/even-the-millionaires-are-fed-up/
+at14e7e4c9 db https://www.planetcritical.com/even-the-millionaires-are-fed-up/ Rachel
+at14e7e4ce db https://www.planetcritical.com/even-the-millionaires-are-fed-up/ RachelDonald
+at14e7e4d5 db :1602
+at14e7e4e3 db ah 14e7e
+at14e7e4ea db l STRK
+at14e7e4f0 db GDV
+at14e7e4fa db LeCai
+at14e7e51d db https://m.youtube.com/watch?v=2v8b062QzTI
+at14e7e520 db https://m.youtube.com/watch?v=2v8b062QzTI All
+at14e7e524 db https://m.youtube.com/watch?v=2v8b062QzTI AllIn
+at14e7e52b db MidTurn
+at14e7e5f8 db https://m.youtube.com/watch?v=veGXzswO1qY
+at14e7e5ff db https://m.youtube.com/watch?v=veGXzswO1qY Ruhm
+at14e7e605 db https://m.youtube.com/watch?v=veGXzswO1qY RuhmFilm
+at14e7e781 db https://fnordon.de/@mspro/with_replies
+at14e7e83a db https://open.spotify.com/episode/3vXAImEZyNTNFZ7xoaVH9M
+at14e7e896 db https://open.spotify.com/show/3vBAacJIGDEb7hBHgdYlw3
+at14e7e8ee db https://www.facebook.com/reel/4207215696237771/?referral_source=external_link ... surface_type=tab ... in_reels_tab_context=TRUE
+at14e7e8f6 db https://www.facebook.com/reel/4207215696237771/?referral_source=external_link ... surface_type=tab ...
+at14e7e8ff db https://www.facebook.com/reel/4207215696237771/?referral_source=external_link ...
+at14e7e907 db https://www.facebook.com/reel/4207215696237771/
+at14e7e909 db https://www.facebook.com/reel/4207215696237771
+at14e7e93f db https://www.facebook.com/reel/4207215696237771 James
+at14e7e945 db https://www.facebook.com/reel/4207215696237771 JamesBlunt
+at14e7e9ab db https://calendar.boell.de/de/event/gemeinsam-gegen-die-macht-grosser-digitalkonzerne?timestamp=1794061461 ... civi_msg=REGISTER_SUCCESS
+at14e7e9b1 db https://calendar.boell.de/de/event/gemeinsam-gegen-die-macht-grosser-digitalkonzerne?timestamp=1794061461 ...
+at14e7e9b9 db https://calendar.boell.de/de/event/gemeinsam-gegen-die-macht-grosser-digitalkonzerne
+at14e7e9d0 db https://calendar.boell.de/de/civi_register/166781
+at14e7e9e2 db https://calendar.boell.de/de/event/gemeinsam-gegen-die-macht-grosser-digitalkonzerne
+at14e7e9f1 db https://www.boell.de/de/veranstaltungen
+at14e7ea09 db https://www.boell.de/de
+at14e7ea38 db https://en.wikipedia.org/wiki/Pahalgam
+at14e7ea4a db https://de.wikipedia.org/wiki/Pahalgam
+at14e7ea60 db https://www.youthkiawaaz.com/2025/05/until-its-you/
+at14e7ea85 db https://www.youthkiawaaz.com/author/routhuvidhyaminigmail-com ,
+at14e7ea94 db https://www.youthkiawaaz.com/author/routhuvidhyaminigmail-com
+at14e7eaa6 db https://www.youthkiawaaz.com/2025/05/until-its-you/
+at14e7eac3 db https://www.linkedin.com/in/vidhyamini-routhu/
+at14e7eb0b db https://www.linkedin.com/mynetwork/grow/
+at14e7eb45 db https://www.linkedin.com/in/nils-stieglitz-85a72b96?originalSubdomain=de
+at14e7eb79 db https://www.frankfurt-school.de/en/imprint
+at14e7eb8a db https://www.frankfurt-school.de/en
+at14e7eb9a db https://de.wikipedia.org/wiki/Frankfurt_School_of_Finance_%26_Management
+at14e7ebe0 db https://en.wikipedia.org/wiki/MCI_Management_Center_Innsbruck
+at14e7ec01 db https://en.wikipedia.org/wiki/Thiruvananthapuram
+at14e7ec16 db 404 https://en.wikipedia.org/wiki/FSFM
+at14e7ec19 db https://en.wikipedia.org/wiki/Thiruvananthapuram
+at14e7ec2e db https://de.wikipedia.org/wiki/Thiruvananthapuram
+at14e7ec44 db https://de.wikipedia.org/wiki/Hyderabad
+at14e7ec5d db https://de.wikipedia.org/wiki/Erzbistum_Hyderabad
+at14e7ec63 db https://de.wikipedia.org/wiki/Hyderabad
+at14e7edf3 db https://m.youtube.com/watch?v=tI0ESj3bdws
+at14e7edfa db https://m.youtube.com/watch?v=tI0ESj3bdws MsTwitch
+at14e7ef1e db https://www.facebook.com/
+at14e7ef52 db https://www.facebook.com/reel/1587569396106902/?referral_source=external_link ... surface_type=tab ... in_reels_tab_context=TRUE
+at14e7ef57 db https://www.facebook.com/reel/1587569396106902/?referral_source=external_link ... surface_type=tab ...
+at14e7ef5d db https://www.facebook.com/reel/1587569396106902/?referral_source=external_link ...
+at14e7ef65 db https://www.facebook.com/reel/1587569396106902/
+at14e7ef67 db https://www.facebook.com/reel/1587569396106902
+at14e7ef92 db https://www.facebook.com/reel/1815770293176632
+at14e7eff4 db https://www.facebook.com/reel/2539322123145951
+at14e7f036 db https://m.youtube.com/watch?v=KcDndclCR-4
+at14e7f03c db https://m.youtube.com/watch?v=KcDndclCR-4 Alex
+at14e7f046 db https://m.youtube.com/watch?v=KcDndclCR-4 AlexSchallenberg
+at14e7f065 db https://whats-chippening-halbleiternews.podigee.io/99-folge-94
+at14e7f076 db https://whats-chippening-halbleiternews.podigee.io/
+at14e7f09b db https://www.berlin.de/sen/finanzen/steuern/finanzaemter/technisches-finanzamt/
