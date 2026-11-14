@@ -1,0 +1,26 @@
+at14ee332b db 324
+at14ee3330 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14ee3336 db https://de.wikipedia.org/wiki/Telematikinfrastruktur
+at14ee334c db VAE
+at14ee3368 db 273
+at14ee3381 db sn 01b31f69863734dfe634a1d93fe8841226a7e819d2f68369d26956d7daca5d8c 15cf dd14ed.txt
+at14ee3385 db sn 95d6da98e0e8d18c72e8aaa11f3cf05ff8406587208514ab34f027ed0e269f44 5a7 dd14ec.txt
+at14ee3389 db sn 17e9155fc3ba4553cfbcbcf61847cb62f1facc0a71efeb6f97294be55b19001f bc9 dd14eb.txt
+at14ee338c db sn 9d3742b7e290051bf02bc3443b58243c21fdce2f1eff389502f9429c0c803012 14c7 dd14ea.txt
+at14ee3461 db 387
+at14ee3bdb db https://de.wikipedia.org/wiki/Enterprise_File_Sync_%26_Share
+at14ee3f0b db nicht vor elf uhr
+at14ee4032 db OsBa
+at14ee4035 db OsBaKk
+at14ee403b db OsBaKkMb
+at14ee4062 db FrankMemme
+at14ee4065 db FrankMenne
+at14ee5b27 db https://social.tchncs.de/@mspro@fnordon.de
+at14ee60ff db https://de.wikipedia.org/wiki/Urenco
+at14ee610a db UrE
+at14ee6110 db Ur
+at14ee6114 db UrEn
+at14ee6118 db UrEnCo
+at14ee658c db
+at14ee6595 db :1425
+at14ee659f db ah 14ee6
