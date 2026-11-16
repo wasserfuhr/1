@@ -1,0 +1,47 @@
+at14f01cb4 db https://www.lilithwittmann.de/blog/wer-schaut-eigentlich-ins-melderegister/
+at14f0643c db
+at14f080aa db catdd14f
+at14f080b8 db cat dd14f0.txt
+at14f080db db 564
+at14f080f8 db sn d17853e72433970b70dfaabfdf5dfe26f66f37850644a8fdfd15b7f8a77a03d2 1891 dd14ef.txt
+at14f080fd db sn d0bdfb2032f1460dacaf4f6680d0bb67c1a45baf6af65f668184dea72aa1e3a8 422 dd14ee.txt
+at14f08101 db sn 01b31f69863734dfe634a1d93fe8841226a7e819d2f68369d26956d7daca5d8c 15cf dd14ed.txt
+at14f08107 db sn 95d6da98e0e8d18c72e8aaa11f3cf05ff8406587208514ab34f027ed0e269f44 5a7 dd14ec.txt
+at14f0810f db Party
+at14f08114 db PartyMom
+at14f0cc2b
+at14f0cc2d db 324
+at14f0cc31 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14f0cc36 db https://www.nytimes.com/2026/11/09/opinion/ai-anthropic-doom-conscious.html
+at14f0cd0b db https://archive.is/
+at14f0d027 db 379
+at14f0d033 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14ec.txt
+at14f0d2f7 db https://en.wikipedia.org/wiki/Apple_Inc.#Corporate_culture
+at14f0d307 db https://en.wikipedia.org/wiki/DRI
+at14f0d30e db SUFFER
+at14f0d5d7 db https://de.wikipedia.org/wiki/DRI
+at14f0da3e db https://www.cicero.de/kultur/die-500-wichtigsten-intellektuellen-peter-sloterdijk-cicero-kritisches-denken/plus
+at14f0e57d db https://de.wikipedia.org/wiki/Unified_Threat_Management
+at14f0e58d db https://de.wikipedia.org/wiki/UTM
+at14f0eb4b db https://de.wikipedia.org/wiki/Sven_Beckedahl
+at14f0eb6f db https://www.wikidata.org/wiki/Q56229
+at14f0f10d db https://de.wikipedia.org/wiki/Frank_Asbeck
+at14f0f113 db EnergieTage
+at14f0f118 db scc
+at14f0f11a db sch
+at14f0f11d db schul
+at14f0f120 db schulfire
+at14f0f123 db schulfirewall
+at14f0f126 db schulfirewall.de
+at14f0f13a db ping schulfirewall.de
+at14f0f13f db 171.25.225.3
+at14f0f146 db CLAUDIA
+at14f0f16f db sb cb Claudia
+at14f0f173 db sb Claudia
+at14f0f177 db Claudia
+at14f0f17d db ClaudiaHobrecht
+at14f0fb3f db https://de.wikipedia.org/wiki/Ernst_%26_Young
+at14f0fb47 db :1328
+at14f0fb4f db ah 14f0f
+at14f0fb54 db l STRK
+at14f0fb5c db ClaudiaHobrecht
