@@ -1,0 +1,29 @@
+at14f34fb6 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14f34fc0
+at14f34fc2 db :0753
+at14f34fd0 db ah 14f34
+at14f34fd7 db l STRK
+at14f34ffb db sn 6067463640c6dd6a6f4680550c3fad683e580f874941a370a6b0159aaf842f29 893 dd14f2.txt
+at14f35001 db sn 21f60cf4ad596516599f70105841b949eb2964ea88492300fa11887e6e5f2bcd 2d0 dd14f1.txt
+at14f35004 db sn 3c59b0748c4a81cdbfac53b3b5d54601c12b51c8d7ed0eb20162d7487e72c8cb 802 dd14f0.txt
+at14f35008 db sn d17853e72433970b70dfaabfdf5dfe26f66f37850644a8fdfd15b7f8a77a03d2 1891 dd14ef.txt
+at14f37def db https://de.wikipedia.org/wiki/Aline_von_Drateln
+at14f3bc5a db
+at14f3bc64 db :1537
+at14f3bc6f db ah 14f3b
+at14f3bc9b db GIO
+at14f3bea7 db https://www.linkedin.com/in/lumma/
+at14f3c686 db https://www.trp-bau.de/
+at14f3c6a3 db https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440-1024x576.jpg
+at14f3c73b db https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440.jpg
+at14f3c771
+at14f3c773 db identit https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440.jpg
+at14f3c777 db identif https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440.jpg
+at14f3c77c db identify https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440.jpg
+at14f3c833 db solve the orchard problem 5 lines and 22 trees
+at14f3c86b db solve the orchard problem for 5 lines of 22 trees
+at14f3c89d db solve the orchard problem for 5 lines of 22 trees in lines of 5
+at14f3c8ac db 22 trees in lines of 5
+at14f3cefc db https://www.facebook.com/61557099176843/posts/122329658954236639/?app=fbl
+at14f3cf12 db https://nikipedia.harnoncourt.org/data/397969?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80MDk5NjI2MjMwODU2MDkAAR-jKou_XJQFQm375NcZm6btCtnnUbBscC5ZNcpQLyNyYk8LC0eTCGhVEK4-Iw_aem_Bh-mZNZR05tiV-rIqCaHzQ
+at14f3cf1b db https://nikipedia.harnoncourt.org/data/397969
