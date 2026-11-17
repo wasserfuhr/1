@@ -1,0 +1,38 @@
+at14f22b31 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14f22b46 db 490
+at14f22b4a db sanft delivern in urbaner kriegsfuehrung
+at14f22b61 db 297
+at14f22b7f db sn 21f60cf4ad596516599f70105841b949eb2964ea88492300fa11887e6e5f2bcd 2d0 dd14f1.txt
+at14f22b82 db sn 3c59b0748c4a81cdbfac53b3b5d54601c12b51c8d7ed0eb20162d7487e72c8cb 802 dd14f0.txt
+at14f22b86 db sn d17853e72433970b70dfaabfdf5dfe26f66f37850644a8fdfd15b7f8a77a03d2 1891 dd14ef.txt
+at14f22b89 db sn d0bdfb2032f1460dacaf4f6680d0bb67c1a45baf6af65f668184dea72aa1e3a8 422 dd14ee.txt
+at14f22b99 db VossLoch
+at14f22d48 db 449
+at14f22d5d db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f0.txt
+at14f22e08 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f1.txt
+at14f23873 db grep m1 dd..
+at14f23885 db scp -p m1@5.230.78.121:hisNoezAh14dec.txu .
+at14f238b0 db scp -p m1@5.230.78.121:ad14[d-e]?.txt .
+at14f2393c db sn 168efc588414c1a89ffa92a6a9bf764529794e6ee1345d71555caca60810b406 3c1 ad14ef.txt
+at14f23941 db sn 1d88745ebe8facb4b42751942a44e8715745b21bfa4d85444fa2c862f1d9b629 73b ad14ee.txt
+at14f23945 db sn 23fc2366f01c5ddf4ccbc6b6fc66b917ff9f9486891e27d53d4b1c3193f9b451 78d ad14ed.txt
+at14f23949 db sn 7e299b951bc7c68242338d82302acbadee2fa28cdf7ed20defd18dc2b4ac0ca7 192 ad14ec.txt
+at14f239b8 db ab cat ad14ef.txt
+at14f239bd db cat ad14ef.txt
+at14f23d22 db 5 orchard problem with 22 trees
+at14f24bc7 db https://de.wikipedia.org/wiki/Travis_Kelce
+at14f24c50 db cat dd14f1.txt
+at14f24c57 db Augen
+at14f24c5d db AugenArsch
+at14f25de4 db cat dd14f2.txt
+at14f26183 db https://www.heise.de/news/Berliner-Daten-GAU-Wie-man-einen-Leak-seziert-11524771.html
+at14f27784 db 445
+at14f27789 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14f2778e db https://en.wikipedia.org/wiki/Energy-based_model
+at14f279f8 db https://m.youtube.com/watch?v=3zTF7uqMric
+at14f279fd db https://m.youtube.com/watch?v=3zTF7uqMric Frank
+at14f27a03 db https://m.youtube.com/watch?v=3zTF7uqMric FrankZander
+at14f2942a db Screenshot_20261110_192111_Chrome
+at14f29439 db Screenshot_20261110_192111_Chrome.jpg
+at14f2946c db https://m.facebook.com/groups/tiling/posts/2565371927219670/
+at14f2d5e9 db
