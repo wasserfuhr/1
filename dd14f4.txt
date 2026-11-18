@@ -1,0 +1,33 @@
+at14f41283 db
+at14f4128a db :2144
+at14f41294 db ah 14f41
+at14f412b3 db sn 7a8ed307027e07902fccf8f580ba45df5ad0e3310b9a881ed27c054437fd7a29 748 dd14f3.txt
+at14f412b5 db sn 6067463640c6dd6a6f4680550c3fad683e580f874941a370a6b0159aaf842f29 893 dd14f2.txt
+at14f412b8 db sn 21f60cf4ad596516599f70105841b949eb2964ea88492300fa11887e6e5f2bcd 2d0 dd14f1.txt
+at14f412ba db sn 3c59b0748c4a81cdbfac53b3b5d54601c12b51c8d7ed0eb20162d7487e72c8cb 802 dd14f0.txt
+at14f412d6
+at14f412d7 db 438
+at14f41bca db https://www.congress.gov/bill/119th-congress/house-bill/8170/text
+at14f42503 db https://m.facebook.com/watch/?v=2150603135578910
+at14f43b31 db https://m.youtube.com/watch?v=ZnrkxBiVO_E
+at14f43b41 db https://m.youtube.com/watch?v=ZnrkxBiVO_E ReichRoyal
+at14f43b4c db https://m.youtube.com/watch?v=ZnrkxBiVO_E ErbenRoyal
+at14f43b51 db https://m.youtube.com/watch?v=ZnrkxBiVO_E ErbenRoyale
+at14f43b55 db https://m.youtube.com/watch?v=ZnrkxBiVO_E ErbenRoyal
+at14f43b5c db https://m.youtube.com/watch?v=ZnrkxBiVO_E ErbRoyal
+at14f43b6b db https://m.youtube.com/watch?v=ZnrkxBiVO_E
+at14f43b73 db ZnrkxBiVO_E
+at14f43b77 db ZnrkxBi
+at14f43ff5 db https://m.youtube.com/watch?v=CVM_uzW-NA4
+at14f4af58 db
+at14f4c6c8 db https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Arbeit_und_Soziales
+at14f4c6d8 db https://de.wikipedia.org/wiki/Andrea_Nahles
+at14f4d3c5 db hey
+at14f4d3e1 db hey
+at14f4d3f0 db hey nice
+at14f4d3f6 db hey- nice
+at14f4d6cf db https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-so-funktionierte-der-steuertrick-von-mathias-doepfner-a-56e3e52e-281c-4121-a0f5-e3ee1cd64377?sara_ref=re-so-app-sh
+at14f4d6d3 db https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-so-funktionierte-der-steuertrick-von-mathias-doepfner-a-56e3e52e-281c-4121-a0f5-e3ee1cd64377
+at14f4d6fa db hey- nice health
+at14f4d712
+at14f4d713 db hey- nice to hear health.
