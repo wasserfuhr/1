@@ -1,0 +1,49 @@
+at14f74e64 db SPAM
+at14f74eb6 db https://whats-chippening-halbleiternews.podigee.io/101-96
+at14f74ece db 463
+at14f74ee9 db sn 2b0118bba4030859b3ec854e8791ca66cee40f5c5606b5a75e7fe9061f5826d0 efd dd14f6.txt
+at14f74eed db sn 393e021975497d70ca09466b132fda35e0135a84cff86087b328feaf369c435d edc dd14f5.txt
+at14f74ef2 db sn b8b1d77231d3189d4132bfa027dcd56855b7ceaa4d8712b0038bcb86febf57e2 73b dd14f4.txt
+at14f74ef7 db sn 7a8ed307027e07902fccf8f580ba45df5ad0e3310b9a881ed27c054437fd7a29 748 dd14f3.txt
+at14f74f0e db 475
+at14f74f18 db sn 393e021975497d70ca09466b132fda35e0135a84cff86087b328feaf369c435d edc dd14f5.txt
+at14f750a4 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f6.txt
+at14f750b6 db cat dd14f6.txt
+at14f75107 db https://de.wikipedia.org/wiki/Erg%C3%A4nzende_Vertragsbedingungen_f%C3%BCr_die_Beschaffung_von_IT-Leistungen
+at14f7510d db EvbIt
+at14f753d2 db BINSE
+at14f753d7
+at14f753d9 db BINSE:1730
+at14f753e0 db BINSE:17m30
+at14f7541e db BOTTLE
+at14f7542b db BottleStatus
+at14f7574a db https://en.wikipedia.org/wiki/Framework_Programmes_for_Research_and_Technological_Development
+at14f75791 db https://en.wikipedia.org/wiki/European_Strategic_Programme_on_Research_in_Information_Technology
+at14f760f6 db cat dd14f7.txt
+at14f76869 db sm 7bcd324a147c96e21d5f5efb28390e3d826b9ebe3887b9a0c956ce25d09dfc30 AbAy13
+at14f76897 db sm 8ee51c2794ac0bbd61b3fd779e0a539f5fb2593357d05237c1f42cb4ddd4ddb0 BbAy13
+at14f769e6 db https://bmds.bund.de/themen/staatsmodernisierung/law-as-code
+at14f76a5a db https://www.sprind.org/taten/projekte/rulemapping
+at14f76fd9 db
+at14f76fe3 db Bundes
+at14f76fe8 db Bundesrats
+at14f76ff7 db Bundesratsdigitalisierung
+at14f76fff db Bundesratsdigitalisierungs
+at14f77007 db Bund
+at14f7700a db Bundes
+at14f7700c db Bundesrat
+at14f77010 db Bundesrats
+at14f77016 db Bundesratsdigital
+at14f7701c db Bundesratsdigitalisierung
+at14f7701f db Bundesratsdigitalisierungs
+at14f77022 db Bundesratsdigitalisierungsge
+at14f77026 db Bundesratsdigitalisierungsgesetz
+at14f79025 db
+at14f7ad9c db 1070
+at14f7ada0 db 1070 OK
+at14f7ada6 db br1070
+at14f7b605 db ping 5.230.75.232
+at14f7fd70 db
+at14f7fd86 db cat db14f7
+at14f7fd94 db cat dd14f7
+at14f7fdab db cat dd14f7.txt
