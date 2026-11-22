@@ -1,0 +1,150 @@
+at14f80413 db
+at14f8041d db :2132
+at14f8042e
+at14f80430 db :2132
+at14f80439 db ah 14f80
+at14f80443 db l STRK
+at14f80454 db Bundesratsdigitalisierungsgesetz
+at14f8047f
+at14f80480 db ReadOnly
+at14f8048c db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+at14f80490 db sn 2b0118bba4030859b3ec854e8791ca66cee40f5c5606b5a75e7fe9061f5826d0 efd dd14f6.txt
+at14f80493 db sn 393e021975497d70ca09466b132fda35e0135a84cff86087b328feaf369c435d edc dd14f5.txt
+at14f80496 db sn b8b1d77231d3189d4132bfa027dcd56855b7ceaa4d8712b0038bcb86febf57e2 73b dd14f4.txt
+at14f804b5 db :2134
+at14f804bd db ah 14f80
+at14f804f5 db ist
+at14f804f9 db ist der
+at14f804ff db ist der Rechts
+at14f80504 db ist der RechtsStaat
+at14f80508 db ist der RechtsStaat eine
+at14f8050d db ist der RechtsStaat eine stabile
+at14f80511 db ist der RechtsStaat eine stabile form
+at14f80515 db ist der RechtsStaat eine stabile form?
+at14f8051b db 1070
+at14f8051d db 1071
+at14f80522 db br1071
+at14f80528 db md1218 br1071
+at14f80532 db cal
+at14f8063c db ein
+at14f80641 db ein Bundes
+at14f80644 db ein BundesRat
+at14f8064c db ein BundesRat FahrLehh
+at14f8064f db ein BundesRat FahrLehrer
+at14f80653 db ein BundesRat FahrLehrer ud
+at14f80657 db ein BundesRat FahrLehrer und
+at14f80660 db ein BundesRat FahrLehrer und ErTet
+at14f80663 db ein BundesRat FahrLehrer und ErZet
+at14f80675 db DenkRaum
+at14f8068b db DenkHalle
+at14f806a7 db Turn
+at14f806aa db TurnHalle
+at14f807bd db Null
+at14f807c2 db NullClemens
+at14f807c7 db NullClemensNull
+at14f807cb db NullClemensNullSmth
+at14f807f3 db Amthor
+at14f807f9 db HagelAmthor
+at14f807ff db HagelAmthorEvers
+at14f80804 db HagelAmthorEversGriese
+at14f8081d db Hierse?
+at14f80875 db Magnus
+at14f80893 db MEMORY
+at14f8093c db Ksr
+at14f80940 db KsrKi
+at14f8095c db Denk
+at14f80961 db DenkStrom
+at14f80966 db DenkHalle
+at14f80cc8 db bmds
+at14f80ef7 db https://de.wikipedia.org/wiki/Achim_Bonte
+at14f810d0 db https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html
+at14f810df db https://de.wikipedia.org/wiki/Achim_Bonte
+at14f810e6 db https://de.wikipedia.org/wiki/Achim_Bonte WikiWall
+at14f8113d db 540
+at14f811a8 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f7.txt
+at14f811fb db WillPk
+at14f816e8 db
+at14f816ef db deutsch
+at14f816f4 db deutschwerden
+at14f81726 db
+at14f8172b db sprache
+at14f8172f db sprache welt
+at14f81773 db
+at14f8177a db siggibecker
+at14f81780 db
+at14f81787 db sb alban
+at14f8178b db alban
+at14f81795 db gaga
+at14f8180a db
+at14f8180f db Dirk
+at14f81814 db DirkDeckbar
+at14f818bf db PLENAR
+at14f8191d db
+at14f8192d db ichgiessemeinlebenineinentext
+at14f8193f db ichgiessemeinlebeninein
+at14f81942 db ichgiessemeinlebenineinlied
+at14f81958 db dbton
+at14f8195c db ton
+at14f81963 db tontext
+at14f81969 db textton
+at14f8196f db textbildton
+at14f81993 db harnoncourt
+at14f81a1f db
+at14f81a28 db solidaritaet
+at14f81a30 db gemeinschaft
+at14f81a36 db WaldPv
+at14f81a3e db DomWind
+at14f81b2d db qdb
+at14f81b2f db
+at14f81b3a db dieglaubendas
+at14f81b52 db dassindachtzigmillionenglaubenssatzsysteme
+at14f81b5e db WaldPv
+at14f81b62 db WaldPvUnd
+at14f81b67 db WaldPvUndWid
+at14f81b6a db WaldPvUndWind
+at14f81b6e db WaldPvUndWindDom
+at14f81b73 db WaldPvUndWindDum
+at14f81b76 db WaldPvUndWindDumm
+at14f81b81 db dieglaubendas
+at14f81b89 db dassindachtzigmillionenglaubenssatzsysteme
+at14f81bbc db pflegeroboter
+at14f81bc5 db und
+at14f81bd3 db fahrlehrer
+at14f81bdc db cybercabfahrlehrer
+at14f81c6f db bix
+at14f81c73 db biix
+at14f81c77 db biwix
+at14f81c7b db bitwix
+at14f81dc3 db HAGER
+at14f81dc8 db HAGER?
+at14f81dd0 db https://de.wikipedia.org/wiki/Manuel_Hagel
+at14f81e14 db FsFm
+at14f8942c db 445
+at14f89439 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14f89445 db 507 history
+at14f8945f db material
+at14f89469 db MATERIAL
+at14f89a18 db https://www.tz.de/muenchen/stadt/einer-der-ungewoehnlichsten-bahn-funde-in-muenchens-geschichte-94598041.html#google_vignette
+at14f89a1c db https://www.tz.de/muenchen/stadt/einer-der-ungewoehnlichsten-bahn-funde-in-muenchens-geschichte-94598041.html
+at14f89ac6 db SIXTUS
+at14f89aed db https://de.wikipedia.org/wiki/Frankfurt_School_of_Finance_%26_Management
+at14f8a377 db
+at14f8a380 db its the fluxh
+at14f8a383 db its the fluch
+at14f8a38f db its the fluch of the mothertongue
+at14f8a396
+at14f8a398 db its the fluch of the mother tongue
+at14f8a3a5 db its the fluch of the mothertongue
+at14f8aa2b db Hyd
+at14f8aa2f db HydBer
+at14f8aa36 db Muhr
+at14f8aa3a db MuhrZug
+at14f8aa3e db MurZug
+at14f8aa44 db MurZug?
+at14f8aa4f db MuhrZug?
+at14f8aa52 db MuhrZug
+at14f8aa64 db :0921
+at14f8aa6d db ah 14f8a
+at14f8acb5 db https://www.zbi.de/
+at14f8b920 db sm 6577b727a1d3a2cc762db197aee73b62637abbe09375e1544404342d21c93476 SnAbAy13.txt
+at14f8e05b db SCHLEI
