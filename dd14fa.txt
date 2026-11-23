@@ -1,0 +1,23 @@
+at14fa401b db :1412
+at14fa4023 db ah 14fa4
+at14fa402a db l STRK
+at14fa4043 db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+at14fa4047 db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+at14fa404b db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+at14fa404e db sn 2b0118bba4030859b3ec854e8791ca66cee40f5c5606b5a75e7fe9061f5826d0 efd dd14f6.txt
+at14fa6245 db 419
+at14fa6257 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f8.txt
+at14fa631e db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f8.txt
+at14fa6328 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f9.txt
+at14fa79b6 db https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html
+at14fa8b99 db
+at14faa31b db
+at14faa34f db df
+at14faa357 db /dev/fuse 61037984 61018496 19488 100% /storage/2627-1373
+at14faa368 db meisterei
+at14faa371 db Mehring
+at14faa377 db MehringDamm
+at14faa387 db MehringDarm
+at14faa39e db Mehring
+at14faa3a4 db Mehrung
+at14faa3ac db Nehrung
