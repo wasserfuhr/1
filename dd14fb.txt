@@ -1,0 +1,30 @@
+at14fb3a06 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14fb3a31 db sn ea16ad8872405aa61d05928d1dfdb76d03ac6ae9b24ae2afc09f4e589767690f 471 dd14fa.txt
+at14fb3a36 db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+at14fb3a3b db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+at14fb3a40 db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+at14fb90f9 db
+at14fb90ff db Vater
+at14fb9103 db VaterStaat
+at14fb9108 db VaterStaatMutter
+at14fb910d db VaterStaatMutterSprache
+at14fbad5e db Berlin10178Mitte
+at14fbad6b db PassWord Berlin10178Mitte
+at14fbad70 db PassWort Berlin10178Mitte
+at14fbba88 db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fa.txt
+at14fbbc75 db https://www.b2match.com/e/asia-berlin-summit-2026/participants/3752899
+at14fbbc96 db https://www.linkedin.com/in/dr-yojna-sah-jain-76157610/
+at14fbbd49 db https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html
+at14fbc92b db ADI
+at14fbca04 db HRB 217794
+at14fbcaaa db https://www.linkedin.com/in/a-seshaditya-7180822a5?trk=conversation-details-page_thread_thread-items-group_participants-profile-card_member-name
+at14fbcab2 db https://www.linkedin.com/in/a-seshaditya-7180822a5
+at14fbd511 db https://www.linkedin.com/in/jarzombek/?lipi=urn%3Ali%3Apage%3Ap_mwlite_detail_base%3BW1UcX9BVSz%2Bmm0DP%2FvGsJA%3D%3D
+at14fbd521 db https://www.linkedin.com/in/jarzombek/
+at14fbd523 db https://www.linkedin.com/in/jarzombek
+at14fbd5b3 db https://de.wikipedia.org/wiki/Thomas_Jarzombek
+at14fbbd41
+at14fbda0e db 462
+at14fbda12 db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14fbea3d db https://www.linkedin.com/in/gesaschneider/
+at14fbf157 db https://x.com/karpathy/status/2109361546505966046
