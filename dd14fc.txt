@@ -1,0 +1,115 @@
+at14fc847f db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+at14fc8482 db
+at14fc8489 db LifeDay
+at14fc8491 db :0729
+at14fc849b db ah 14fc8
+at14fc84ba db sn fd1bfc5e431ff4980d7a3a66497cd39cedd508c3ee6dccee96e3854d5741c825 71c dd14fb.txt
+at14fc84be db sn ea16ad8872405aa61d05928d1dfdb76d03ac6ae9b24ae2afc09f4e589767690f 471 dd14fa.txt
+at14fc84c0 db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+at14fc84ca db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+at14fc84d2 db Marion
+at14fc84d6 db MarionGesa
+at14fc84e5 db MarionGesaNikutta
+at14fc8539 db
+at14fc8541 db schoene
+at14fc8546 db schoenegrosse
+at14fc854b db schoenegrossemaus
+at14fc88c9 db
+at14fc88d0 db :0747
+at14fc88da db ah 14fc8
+at14fc88e2 db
+at14fc88e6 db se
+at14fc88e9 db sehen
+at14fc88ec db sehenoh
+at14fc88ef db sehenohne
+at14fc88f3 db sehenohnege
+at14fc88f7 db sehenohnegese
+at14fc88fd db sehenohnegesehen
+at14fc8901 db sehenohnegesehenzu
+at14fc8905 db sehenohnegesehenzuwer
+at14fc890a db sehenohnegesehenzuwerden
+at14fc93cd db 479
+at14fc93fa db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fa.txt
+at14fc947b db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fb.txt
+at14fc948d db RH
+at14fc949a db RIEMANN
+at14fc980d db
+at14fc9812 db 53437
+at14fc981e db 1670-05-12
+at14fc982a db 1733-02-01?
+at14fc9843 db 2wochen
+at14fc9848 db 2wochen2tage
+at14fc984d db 2wochen2tage1jahr
+at14fc9859 db 2wochen2tage1jahr3
+at14fc985d db 2wochen2tage1jahr3hahr
+at14fc9861
+at14fc9863 db 2wochen2tage1jahr3jahr
+at14fc9869 db 2wochen2tage1jahr3jahrhundert
+at14fc9da2 db
+at14fc9da7 db Buckow
+at14fc9daa db BuckowBei
+at14fc9daf db BuckowBeiBeeskow
+at14fc9db2 db BuckowBeiBees
+at14fc9db5
+at14fc9db6 db BuckowBeiBees
+at14fc9dbb db BuckBeiBees
+at14fc9dbf db 2wochen2tage1jahr3jahrhundert
+at14fc9dce db 2tage1jahr3jahrhundert
+at14fc9dd7 db 2tage2wochen1jahr3jahrhundert
+at14fc9de6 db 3122
+at14fc9df1 db +3122
+at14fc9df8 db +3-122
+at14fc9e00 db +3-1+22
+at14fc9e0f
+at14fc9e10 db +3-1+2+2
+at14fc9e26 db 3-1+2+2
+at14fc9e28 db +3-1+2+2
+at14fcb4d2 db MUETZE
+at14fcb4db db Gulda
+at14fcb4e0 db GuldaRanzig
+at14fcb6fd db RANZIG
+at14fcb705 db RANZIG404
+at14fce6d1 db
+at14fce6d9 db :1428
+at14fce6ea db ah 14fce
+at14fce6f3 db BEESKOW
+at14fce891 db tueddel
+at14fce896 db tueddeltueddel
+at14fce9a0 db vhs
+at14fce9aa db BeesBib
+at14fcea3d
+at14fcea40 db durchreise
+at14fcea47 db Frau
+at14fcea4c db FrauKrueger
+at14fcea55 db HertKrueger
+at14fcea5d db KarlKrueger
+at14fcea64 db KarlKrueger OsCa
+at14fcea68 db KarlKrueger OsBa
+at14fcea71 db KarlKrueger OsBa FutureSax
+at14fcea78 db Adi
+at14fcea7f db AdiMarion
+at14fcea83 db AdiMarionGesa
+at14fcea8a db AdiMarionGesaNikutta
+at14fcea9a db MingZeh
+at14fcea9f db MingZehGatti
+at14fceaaf db RANZIG
+at14fceab6 db RANZIG Haken
+at14fceaba db RANZIG HakenDran
+at14fceac3 db 604 history
+at14fceae8 db
+at14fceaec db Los
+at14fceaef db LosAr
+at14fceaf2 db LosAr600
+at14fceb02 db RANZIG HakenDran LosAr600
+at14fceb37 db ls
+at14fceb3d db hisBoneAd14f0.txu
+at14fceb42 db hisBoneAd14f8.txu
+at14fceb88 db sn 5a5b2a6472b498e03d44db17d674a0c1f748f6a5544fe215806f669d21e1c43d dfee hisNoezAh14dec.txu
+at14fceb8c db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+at14fceb90 db sn 5be07e80e5560b4688b47f9b9a64a802d3da91aa268ad093011730f3430190e2 5de7 hisBoneAd14f8.txu
+at14fceb95 db sn 48d35f8f5e2c873ab5e3179e3068ba8a02a2b7d9702396fd6461ccc32aa0e648 5e6a hisBoneAd14f0.txu
+at14fceb9a db sn 71aa042f78fa619f5c378b2ecad48b985d79c372db9c8df8dc2298f046064b6e 5dab hisBoneAd14e8.txu
+at14fceb9e db sn 2cc0d188ef08603b7863ef3ad4a8a2aca8724fc4d23b7d4d001751240731bd35 636a hisBoneAd14e4.txu
+at14fcebad db BuckowBeiBeeskow
+at14fceeb9 db https://de.wikipedia.org/wiki/Leprosorium
+at14fcef2a db https://de.wikipedia.org/wiki/Gutleut
