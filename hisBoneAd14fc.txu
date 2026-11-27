@@ -1,0 +1,500 @@
+   94  sm ad14*
+   95  grep m1 dd*
+   96  db grep m1 dd..
+   97  db scp -p m1@5.230.78.121:hisNoezAh14dec.txu .
+   98  db scp -p m1@5.230.78.121:ad14[d-e]?.txt .
+   99  scp -p m1@5.230.78.121:ad14[d-e]?.txt .
+  100  sm ad14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  101  db sn 7e299b951bc7c68242338d82302acbadee2fa28cdf7ed20defd18dc2b4ac0ca7 192 ad14ec.txt
+  102  db sn 23fc2366f01c5ddf4ccbc6b6fc66b917ff9f9486891e27d53d4b1c3193f9b451 78d ad14ed.txt
+  103  db sn 1d88745ebe8facb4b42751942a44e8715745b21bfa4d85444fa2c862f1d9b629 73b ad14ee.txt
+  104  db sn 168efc588414c1a89ffa92a6a9bf764529794e6ee1345d71555caca60810b406 3c1 ad14ef.txt
+  105  db sn 1d88745ebe8facb4b42751942a44e8715745b21bfa4d85444fa2c862f1d9b629 73b ad14ee.txt
+  106  db sn 23fc2366f01c5ddf4ccbc6b6fc66b917ff9f9486891e27d53d4b1c3193f9b451 78d ad14ed.txt
+  107  db sn 7e299b951bc7c68242338d82302acbadee2fa28cdf7ed20defd18dc2b4ac0ca7 192 ad14ec.txt
+  108  cat ad14ef.txt
+  109  ab cat ad14ef.txt
+  110  db ab cat ad14ef.txt
+  111  db cat ad14ef.txt
+  112  db 5 orchard problem with 22 trees
+  113  db https://de.wikipedia.org/wiki/Travis_Kelce
+  114  cat dd14f1.txt 
+  115  db cat dd14f1.txt 
+  116  db Augen
+  117  db AugenArsch
+  118  cat dd14f2.txt
+  119  db cat dd14f2.txt
+  120  db https://www.heise.de/news/Berliner-Daten-GAU-Wie-man-einen-Leak-seziert-11524771.html
+  121  history
+  122  445
+  123  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  124  db 445
+  125  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  126  db https://en.wikipedia.org/wiki/Energy-based_model
+  127  db https://m.youtube.com/watch?v=3zTF7uqMric
+  128  db https://m.youtube.com/watch?v=3zTF7uqMric Frank
+  129  db https://m.youtube.com/watch?v=3zTF7uqMric FrankZander
+  130  db Screenshot_20261110_192111_Chrome
+  131  db Screenshot_20261110_192111_Chrome.jpg
+  132  db https://m.facebook.com/groups/tiling/posts/2565371927219670/
+  133  history
+  134  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  135  db
+  136  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  137  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  138  db :0753
+  139  db ah 14f34
+  140  db l STRK
+  141  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  142  db sn d17853e72433970b70dfaabfdf5dfe26f66f37850644a8fdfd15b7f8a77a03d2 1891 dd14ef.txt
+  143  db sn 3c59b0748c4a81cdbfac53b3b5d54601c12b51c8d7ed0eb20162d7487e72c8cb 802 dd14f0.txt
+  144  db sn 21f60cf4ad596516599f70105841b949eb2964ea88492300fa11887e6e5f2bcd 2d0 dd14f1.txt
+  145  db sn 6067463640c6dd6a6f4680550c3fad683e580f874941a370a6b0159aaf842f29 893 dd14f2.txt
+  146  db sn 21f60cf4ad596516599f70105841b949eb2964ea88492300fa11887e6e5f2bcd 2d0 dd14f1.txt
+  147  db sn 3c59b0748c4a81cdbfac53b3b5d54601c12b51c8d7ed0eb20162d7487e72c8cb 802 dd14f0.txt
+  148  db sn d17853e72433970b70dfaabfdf5dfe26f66f37850644a8fdfd15b7f8a77a03d2 1891 dd14ef.txt
+  149  db https://de.wikipedia.org/wiki/Aline_von_Drateln
+  150  db
+  151  db :1537
+  152  db ah 14f3b
+  153  db GIO
+  154  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  155  db https://www.linkedin.com/in/lumma/
+  156  db https://www.trp-bau.de/
+  157  db https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440-1024x576.jpg
+  158  db https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440.jpg
+  159  db identit https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440.jpg
+  160  db identif https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440.jpg
+  161  db identify https://www.trp-bau.de/wp-content/uploads/2020/10/trp_kanalbau_2560x1440.jpg
+  162  db solve the orchard problem 5 lines and 22 trees
+  163  db solve the orchard problem for 5 lines of 22 trees
+  164  db solve the orchard problem for 5 lines of 22 trees in lines of 5
+  165  db 22 trees in lines of 5
+  166  db https://www.facebook.com/61557099176843/posts/122329658954236639/?app=fbl
+  167  db https://nikipedia.harnoncourt.org/data/397969?fbclid=IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80MDk5NjI2MjMwODU2MDkAAR-jKou_XJQFQm375NcZm6btCtnnUbBscC5ZNcpQLyNyYk8LC0eTCGhVEK4-Iw_aem_Bh-mZNZR05tiV-rIqCaHzQ
+  168  db https://nikipedia.harnoncourt.org/data/397969
+  169  db
+  170  db :2144
+  171  db ah 14f41
+  172  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  173  db sn 3c59b0748c4a81cdbfac53b3b5d54601c12b51c8d7ed0eb20162d7487e72c8cb 802 dd14f0.txt
+  174  db sn 21f60cf4ad596516599f70105841b949eb2964ea88492300fa11887e6e5f2bcd 2d0 dd14f1.txt
+  175  db sn 6067463640c6dd6a6f4680550c3fad683e580f874941a370a6b0159aaf842f29 893 dd14f2.txt
+  176  db sn 7a8ed307027e07902fccf8f580ba45df5ad0e3310b9a881ed27c054437fd7a29 748 dd14f3.txt
+  177  db sn 6067463640c6dd6a6f4680550c3fad683e580f874941a370a6b0159aaf842f29 893 dd14f2.txt
+  178  db sn 21f60cf4ad596516599f70105841b949eb2964ea88492300fa11887e6e5f2bcd 2d0 dd14f1.txt
+  179  db sn 3c59b0748c4a81cdbfac53b3b5d54601c12b51c8d7ed0eb20162d7487e72c8cb 802 dd14f0.txt
+  180  history
+  181  438
+  182  db 438
+  183  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f0.txt
+  184  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f2.txt
+  185  cat crash_log_backup.md
+  186  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f3.txt
+  187  db https://www.congress.gov/bill/119th-congress/house-bill/8170/text
+  188  db https://m.facebook.com/watch/?v=2150603135578910
+  189  db https://m.youtube.com/watch?v=ZnrkxBiVO_E
+  190  db https://m.youtube.com/watch?v=ZnrkxBiVO_E ReichRoyal
+  191  db https://m.youtube.com/watch?v=ZnrkxBiVO_E ErbenRoyal
+  192  db https://m.youtube.com/watch?v=ZnrkxBiVO_E ErbenRoyale
+  193  db https://m.youtube.com/watch?v=ZnrkxBiVO_E ErbenRoyal
+  194  db https://m.youtube.com/watch?v=ZnrkxBiVO_E ErbRoyal
+  195  db https://m.youtube.com/watch?v=ZnrkxBiVO_E
+  196  db ZnrkxBiVO_E
+  197  db ZnrkxBi
+  198  db https://m.youtube.com/watch?v=CVM_uzW-NA4
+  199  db
+  200  db https://de.wikipedia.org/wiki/Bundesministerium_f%C3%BCr_Arbeit_und_Soziales
+  201  db https://de.wikipedia.org/wiki/Andrea_Nahles
+  202  db hey
+  203  db hey nice
+  204  db hey- nice
+  205  db https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-so-funktionierte-der-steuertrick-von-mathias-doepfner-a-56e3e52e-281c-4121-a0f5-e3ee1cd64377?sara_ref=re-so-app-sh
+  206  db https://www.spiegel.de/wirtschaft/unternehmen/axel-springer-so-funktionierte-der-steuertrick-von-mathias-doepfner-a-56e3e52e-281c-4121-a0f5-e3ee1cd64377
+  207  db hey- nice health
+  208  db hey- nice to hear health
+  209  #db https://www.tiktok.com/@mamamacht/video/7709306179620523297?_r=1&_t=ZG-9BVMpzRhXo9&fbclid=IwZXh0bgNhZW0CMTEAcGRvZgNzcnRjBmFwcF9pZA80MDk5NjI2MjMwODU2MDkAAR_MNRvFrkc2cuG59LVPDsqns1jf4Br96BD0OLdYX_x6h_ZJ_gaSqYY2dfg9Kg_aem_9gf9iF_9mG_7HzTAOcYFjA
+  210  db sn 3c59b0748c4a81cdbfac53b3b5d54601c12b51c8d7ed0eb20162d7487e72c8cb 802 dd14f0.txt
+  211  history 
+  212  445
+  213  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  214  db 445
+  215  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  216  history
+  217  db 507 history
+  218  db material
+  219  db MATERIAL
+  220  db https://www.tz.de/muenchen/stadt/einer-der-ungewoehnlichsten-bahn-funde-in-muenchens-geschichte-94598041.html#google_vignette
+  221  db https://www.tz.de/muenchen/stadt/einer-der-ungewoehnlichsten-bahn-funde-in-muenchens-geschichte-94598041.html
+  222  db SIXTUS
+  223  db https://de.wikipedia.org/wiki/Frankfurt_School_of_Finance_%26_Management
+  224  db
+  225  db its the fluxh
+  226  db its the fluch
+  227  db its the fluch of the mothertongue
+  228  db its the fluch of the mother tongue
+  229  db its the fluch of the mothertongue
+  230  db Hyd
+  231  db HydBer
+  232  db Muhr
+  233  db MuhrZug
+  234  db MurZug
+  235  db MurZug?
+  236  db MuhrZug?
+  237  db MuhrZug
+  238  db :0921
+  239  db ah 14f8a
+  240  db https://www.zbi.de/
+  241  sm ad13*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  242  sm ad13*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  243  sm SnAbAy13.txt
+  244  sm ad13*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo ${a[0]} `printf %x ${b[4]}` ${a[1]};done>>SnAbAy13.txt
+  245  sm SnAbAy13.txt
+  246  db sm 6577b727a1d3a2cc762db197aee73b62637abbe09375e1544404342d21c93476  SnAbAy13.txt
+  247  db SCHLEI
+  248  db was
+  249  db was b
+  250  db wasb
+  251  db was
+  252  db wasbesseres
+  253  db
+  254  db MoBer
+  255  db l MoBer
+  256  cat dd14f9.txt
+  257  db cat dd14f9.txt
+  258  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  259  db sn 393e021975497d70ca09466b132fda35e0135a84cff86087b328feaf369c435d edc dd14f5.txt
+  260  db sn 2b0118bba4030859b3ec854e8791ca66cee40f5c5606b5a75e7fe9061f5826d0 efd dd14f6.txt
+  261  db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+  262  db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+  263  db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+  264  db sn 2b0118bba4030859b3ec854e8791ca66cee40f5c5606b5a75e7fe9061f5826d0 efd dd14f6.txt
+  265  db sn 393e021975497d70ca09466b132fda35e0135a84cff86087b328feaf369c435d edc dd14f5.txt
+  266  history
+  267  448
+  268  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  269  db 448
+  270  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  271  db :0148
+  272  db ah 14f99
+  273  db l STRK
+  274  db :1412
+  275  db ah 14fa4
+  276  db l STRK
+  277  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  278  db sn 2b0118bba4030859b3ec854e8791ca66cee40f5c5606b5a75e7fe9061f5826d0 efd dd14f6.txt
+  279  db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+  280  db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+  281  db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+  282  db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+  283  db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+  284  db sn 2b0118bba4030859b3ec854e8791ca66cee40f5c5606b5a75e7fe9061f5826d0 efd dd14f6.txt
+  285  history
+  286  419
+  287  db 419
+  288  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f2.txt
+  289  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f8.txt
+  290  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f8.txt
+  291  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f7.txt
+  292  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f8.txt
+  293  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f8.txt
+  294  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f9.txt
+  295  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f9.txt
+  296  db https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html
+  297  db
+  298  df
+  299  db df
+  300  db /dev/fuse              61037984 61018496     19488 100% /storage/2627-1373
+  301  db meisterei
+  302  db Mehring
+  303  db MehringDamm
+  304  db MehringDarm
+  305  db Mehring
+  306  db Mehrung
+  307  db Nehrung
+  308  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  309  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  310  history
+  311  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  312  db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+  313  db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+  314  db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+  315  db sn ea16ad8872405aa61d05928d1dfdb76d03ac6ae9b24ae2afc09f4e589767690f 471 dd14fa.txt
+  316  db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+  317  db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+  318  db sn e3b722684496cac2e2cc85f37380fcd6a053a8d0d31ee80ec2d99359c02d5c65 89e dd14f7.txt
+  319  db
+  320  db Vater
+  321  db VaterStaat
+  322  db VaterStaatMutter
+  323  db VaterStaatMutterSprache
+  324  db Berlin10178Mitte
+  325  db PassWord Berlin10178Mitte
+  326  db PassWort Berlin10178Mitte
+  327  history
+  328  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14f9.txt
+  329  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fa.txt
+  330  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fa.txt
+  331  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fa.txt
+  332  cat dd14fb.txt
+  333  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fa.txt
+  334  #db https://www.b2match.com/e/asia-berlin-summit-2026/sessions/c2Vzc2lvbjoyMzMwMzE%3D?utm_source=embed&utm_medium=agenda&utm_campaign=asia-berlin-summit-2026&utm_content=speaker&participantId=3752899
+  335  db https://www.b2match.com/e/asia-berlin-summit-2026/participants/3752899
+  336  db https://www.linkedin.com/in/dr-yojna-sah-jain-76157610/
+  337  db https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html?at_medium=mastodon&at_campaign=tagesschau.de
+  338  db https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html
+  339  db ADI
+  340  db HRB 217794
+  341  db https://www.linkedin.com/in/a-seshaditya-7180822a5?trk=conversation-details-page_thread_thread-items-group_participants-profile-card_member-name
+  342  #db https://www.linkedin.com/in/a-seshaditya-7180822a5?trk=conversation-details-page_thread_thread-items-group_participants-profile-card_member-namedb 
+  343  db https://www.linkedin.com/in/jarzombek/?lipi=urn%3Ali%3Apage%3Ap_mwlite_detail_base%3BW1UcX9BVSz%2Bmm0DP%2FvGsJA%3D%3D
+  344  db https://www.linkedin.com/in/jarzombek/
+  345  db https://www.linkedin.com/in/jarzombek
+  346  db https://de.wikipedia.org/wiki/Thomas_Jarzombek
+  347  #https://x.com/KrahMax/status/2124255242988691555
+  348  history
+  349  462
+  350  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  351  db 462
+  352  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  353  db https://www.linkedin.com/in/gesaschneider/
+  354  db https://x.com/karpathy/status/2109361546505966046
+  355  db
+  356  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  357  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  358  db
+  359  db LifeDay
+  360  db :0729
+  361  db ah 14fc8
+  362  sm dd14*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  363  db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+  364  db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+  365  db sn ea16ad8872405aa61d05928d1dfdb76d03ac6ae9b24ae2afc09f4e589767690f 471 dd14fa.txt
+  366  db sn fd1bfc5e431ff4980d7a3a66497cd39cedd508c3ee6dccee96e3854d5741c825 71c dd14fb.txt
+  367  db sn ea16ad8872405aa61d05928d1dfdb76d03ac6ae9b24ae2afc09f4e589767690f 471 dd14fa.txt
+  368  db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+  369  db sn c23dc74e4b458b529e69554ada1084dfcd371e322a7abcce8f15ad63d97ed61b 12c2 dd14f8.txt
+  370  db Marion
+  371  db MarionGesa
+  372  db MarionGesaNikutta
+  373  db
+  374  db schoene
+  375  db schoenegrosse
+  376  db schoenegrossemaus
+  377  db
+  378  db :0747
+  379  db ah 14fc8
+  380  db
+  381  db se
+  382  db sehen
+  383  db sehenoh
+  384  db sehenohne
+  385  db sehenohnege
+  386  db sehenohnegese
+  387  db sehenohnegesehen
+  388  db sehenohnegesehenzu
+  389  db sehenohnegesehenzuwer
+  390  db sehenohnegesehenzuwerden
+  391  history
+  392  479
+  393  db 479
+  394  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fa.txt
+  395  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fa.txt
+  396  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fb.txt
+  397  db curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fb.txt
+  398  curl https://raw.githubusercontent.com/wasserfuhr/1/refs/heads/main/dd14fb.txt
+  399  db RH
+  400  db RIEMANN
+  401  db
+  402  db 53437
+  403  db 1670-05-12
+  404  db 1733-02-01?
+  405  db 2wochen
+  406  db 2wochen2tage
+  407  db 2wochen2tage1jahr
+  408  db 2wochen2tage1jahr3
+  409  db 2wochen2tage1jahr3hahr
+  410  db 2wochen2tage1jahr3jahr
+  411  db 2wochen2tage1jahr3jahrhundert
+  412  db
+  413  db Buckow
+  414  db BuckowBei
+  415  db BuckowBeiBeeskow
+  416  db BuckowBeiBees
+  417  db BuckBeiBees
+  418  db 2wochen2tage1jahr3jahrhundert
+  419  db 2tage1jahr3jahrhundert
+  420  db 2tage2wochen1jahr3jahrhundert
+  421  db 3122
+  422  db +3122
+  423  db +3-122
+  424  db +3-1+22
+  425  db +3-1+2+2
+  426  db 3-1+2+2
+  427  db +3-1+2+2
+  428  db MUETZE
+  429  db Gulda
+  430  db GuldaRanzig
+  431  db RANZIG
+  432  db RANZIG404
+  433  db
+  434  db :1428
+  435  db ah 14fce
+  436  db BEESKOW
+  437  db tueddel
+  438  db tueddeltueddel
+  439  db vhs
+  440  db BeesBib
+  441  db durchreise
+  442  db Frau
+  443  db FrauKrueger
+  444  db HertKrueger
+  445  db KarlKrueger
+  446  db KarlKrueger OsCa
+  447  db KarlKrueger OsBa
+  448  db KarlKrueger OsBa FutureSax
+  449  db Adi
+  450  db AdiMarion
+  451  db AdiMarionGesa
+  452  db AdiMarionGesaNikutta
+  453  db MingZeh
+  454  db MingZehGatti
+  455  db RANZIG
+  456  db RANZIG Haken
+  457  db RANZIG HakenDran
+  458  history
+  459  db 604 history
+  460  history
+  461  db
+  462  db Los
+  463  db LosAr
+  464  db LosAr600
+  465  db RANZIG HakenDran LosAr600
+  466  ls
+  467  db ls
+  468  db hisBoneAd14f0.txu
+  469  db hisBoneAd14f8.txu
+  470  sm hisBoneAd14f8.txu
+  471  history>>hisBoneAd14f8.txu
+  472  sm h*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  473  db sn 2cc0d188ef08603b7863ef3ad4a8a2aca8724fc4d23b7d4d001751240731bd35 636a hisBoneAd14e4.txu
+  474  db sn 71aa042f78fa619f5c378b2ecad48b985d79c372db9c8df8dc2298f046064b6e 5dab hisBoneAd14e8.txu
+  475  db sn 48d35f8f5e2c873ab5e3179e3068ba8a02a2b7d9702396fd6461ccc32aa0e648 5e6a hisBoneAd14f0.txu
+  476  db sn 5be07e80e5560b4688b47f9b9a64a802d3da91aa268ad093011730f3430190e2 5de7 hisBoneAd14f8.txu
+  477  db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+  478  db sn 5a5b2a6472b498e03d44db17d674a0c1f748f6a5544fe215806f669d21e1c43d dfee hisNoezAh14dec.txu
+  479  db sn 600a8ee1ee16e523dc0067efc4037b7c2e65b0186e16f4e7db0230cf896e4430 9e6 hisGiselaAd1424.txu
+  480  db sn 5be07e80e5560b4688b47f9b9a64a802d3da91aa268ad093011730f3430190e2 5de7 hisBoneAd14f8.txu
+  481  db sn 48d35f8f5e2c873ab5e3179e3068ba8a02a2b7d9702396fd6461ccc32aa0e648 5e6a hisBoneAd14f0.txu
+  482  db sn 71aa042f78fa619f5c378b2ecad48b985d79c372db9c8df8dc2298f046064b6e 5dab hisBoneAd14e8.txu
+  483  db sn 2cc0d188ef08603b7863ef3ad4a8a2aca8724fc4d23b7d4d001751240731bd35 636a hisBoneAd14e4.txu
+  484  db BuckowBeiBeeskow
+  485  db https://de.wikipedia.org/wiki/Leprosorium
+  486  db https://de.wikipedia.org/wiki/Gutleut
+  487  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  488  db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+  489  db sn ea16ad8872405aa61d05928d1dfdb76d03ac6ae9b24ae2afc09f4e589767690f 471 dd14fa.txt
+  490  db sn fd1bfc5e431ff4980d7a3a66497cd39cedd508c3ee6dccee96e3854d5741c825 71c dd14fb.txt
+  491  db sn 9851d663fb5bd7889e6592f8e918c0940a46b6f597b46a4304de6219b22db2e7 f02 dd14fc.txt
+  492  db sn fd1bfc5e431ff4980d7a3a66497cd39cedd508c3ee6dccee96e3854d5741c825 71c dd14fb.txt
+  493  db sn ea16ad8872405aa61d05928d1dfdb76d03ac6ae9b24ae2afc09f4e589767690f 471 dd14fa.txt
+  494  db sn c0a4c92f14eb54f0b3ef31dd9daf8bc21d515180b0e8164fb2c8334a2877320a 2d6 dd14f9.txt
+  495  cat dd14f*
+  496  db cat dd14f..
+  497  db at14fbd523 db https://www.linkedin.com/in/jarzombek
+  498  db dazgastin
+  499  db https://www.linkedin.com/in/dr-dirk-assmann-62a469384?originalSubdomain=de
+  500  db https://www.linkedin.com/in/dr-dirk-assmann-62a469384
+  501  export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  502  db export at0=0x5608aa2b;alias db=./db;alias sm=sha256sum
+  503  db https://www.facebook.com/share/v/1BZcPudZNK/
+  504  db https://www.facebook.com/share/v/1BZcPudZNK/ Anthripic
+  505  db https://www.facebook.com/share/v/1BZcPudZNK/ Anthropic
+  506  db https://www.facebook.com/share/v/1BZcPudZNK/ AnthropicSlop
+  507  db
+  508  db das neue wenn ich das buch jetzt lese
+  509  db das neue wenn ich das czok buch jetzt lese
+  510  db ei gebettet
+  511  db eingebettet
+  512  db eingebettet in ein komplexes netz
+  513  db privilegien
+  514  db bedrohungen
+  515  db faehigkeiten
+  516  db BAUCKHAGE
+  517  db
+  518  db :0224
+  519  db ah 14fee
+  520  db l STRK
+  521  db LUTHER
+  522  cat dd14fe.txt
+  523  db cat dd14fe.txt
+  524  db
+  525  db eo
+  526  db ei
+  527  db ein agent swarm der auf meinen daten rechnet
+  528  db ein agent swarm der auf meinen daten
+  529  db ein agent swarm der meine daten
+  530  db ein agent swarm der meine daten komprimiert
+  531  db intheweights
+  532  db djinm
+  533  db djinn
+  534  db BeesBib
+  535  db BeeskowBib
+  536  db BibBeeskow
+  537  db
+  538  db :0335
+  539  db ah 14fef
+  540  db MachtUfer
+  541  db
+  542  db Co
+  543  db CoTage
+  544  db CoTageBuch
+  545  db
+  546  db Luther
+  547  db LutherHeil
+  548  db md1123 AsiaBerlin
+  549  db md1123 AsiaBerlin md1124 RANZIG
+  550  db md1123 AsiaBerlin md1124 RANZIG md1126 Luther
+  551  db md1123 AsiaBerlin md1124 RANZIG md1126 Luther md1130 Heil
+  552  db md1123 AsiaBerlin md1124 RANZIG md1126 Luther md1130 Heil md0205 sl7
+  553  db
+  554  db :0458
+  555  db ah 14ff0
+  556  db l STRK
+  557  sm d*|while read a;do a=($a);b=${a[1]};b=`ls -l $b`;b=($b);echo db sn ${a[0]} `printf %x ${b[4]}` ${a[1]};done
+  558  db sn fd1bfc5e431ff4980d7a3a66497cd39cedd508c3ee6dccee96e3854d5741c825 71c dd14fb.txt
+  559  db sn 9851d663fb5bd7889e6592f8e918c0940a46b6f597b46a4304de6219b22db2e7 f02 dd14fc.txt
+  560  db sn 8748e2154c35c82cd684046a658080f817118f4600099b42e3323c506e9c1a41 329 dd14fd.txt
+  561  db sn c92362e99593c6fbfe8ae6eeff6e406db3525734ba172f7528a6746f0f1134ac db7 dd14fe.txt
+  562  db sn 8748e2154c35c82cd684046a658080f817118f4600099b42e3323c506e9c1a41 329 dd14fd.txt
+  563  db sn 9851d663fb5bd7889e6592f8e918c0940a46b6f597b46a4304de6219b22db2e7 f02 dd14fc.txt
+  564  db sn fd1bfc5e431ff4980d7a3a66497cd39cedd508c3ee6dccee96e3854d5741c825 71c dd14fb.txt
+  565  db RaWa
+  566  db RaWaDer
+  567  db RaWaDerStarke
+  568  db RaWaDerStarkeMerz
+  569  db PIPER4635
+  570  db PIPER4636
+  571  db PIPER24636
+  572  db PIPER24636-1
+  573  db PIPER492-24636-1
+  574  db PIPER3-492-24636-1
+  575  db PIPER978-3-492-24636-1
+  576  db IsBn 978-3-492-24636-1
+  577  db MARLENE
+  578  db https://www.luther-lawfirm.com/
+  579  db https://en.wikipedia.org/wiki/NX_bit
+  580  db https://mspr0.de/krasse-links-no-94/
+  581  db https://www.b2match.com/e/asia-berlin-summit-2026/sessions/c2Vzc2lvbjoyMzQwMzU=
+  582  #https://www.b2match.com/e/asia-berlin-summit-2026/sessions/c2Vzc2lvbjoyMzQwMzU=?utm_source=embed&utm_medium=agenda&utm_campaign=asia-berlin-summit-2026&utm_content=link
+  583  db https://asia.berlin/summit/2026/agenda/
+  584  db [Familienministerin Prien hat sich deshalb daf:ur ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen.]
+  585  db https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html
+  586  db
+  587  history
+  588  db 587 history
+  589  ls
+  590  db hisBoneAd14f8.txu
+  591  db hisBoneAd14fc.txu
+  592  sm hisBoneAd14fc.txu
+  593  history>>hisBoneAd14fc.txu
